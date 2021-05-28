@@ -1,4 +1,4 @@
-﻿//params for device
+﻿//params for device desktop or mobile
 put "desktop" into device
 if device = "desktop"
 	Click (Image:"Computers", WaitFor:12)
