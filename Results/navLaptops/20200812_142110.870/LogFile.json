@@ -1,0 +1,60 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-08-12 14:21:10.873 -0500"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-12 14:21:11.470 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps.png",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-12 14:21:12.771 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-08-12 14:21:13.560 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(699,265,769,291)",
+      "timestamp" : "2020-08-12 14:21:15.310 -0500"
+    },
+    {
+      "handlerName" : "on_verifyprice",
+      "message" : "1422.00",
+      "timestamp" : "2020-08-12 14:21:15.315 -0500",
+      "identifier" : "Log",
+      "scriptName" : "verifyPrice.script",
+      "handlerLine" : 2
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.876422\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-12 14:21:10 -0500\", Successes:\"0\", TestCase:\"navLaptops.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-12 14:21:15.751 -0500"
+    },
+    {
+      "message" : "AssertionFailed  (assertion: actualPrice is expectedPrice; actually: 1422.00 IS NOT equal to 1500.00) -- Execution Time 0:00:04 navLaptops.script",
+      "timestamp" : "2020-08-12 14:21:16.360 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-08-12 14:21:10.874 -0500"
+}

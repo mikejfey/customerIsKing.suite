@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/zzzEMRLogin.script",
+      "timestamp" : "2020-11-02 17:16:00.328 -0600"
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "Login with: admin",
+      "timestamp" : "2020-11-02 17:16:00.398 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "Password is: pass",
+      "timestamp" : "2020-11-02 17:16:00.413 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "Could Not Open Image: Login\/NoThanks",
+      "identifier" : "Exception",
+      "image" : "Login\/NoThanks",
+      "handlerLine" : 7,
+      "timestamp" : "2020-11-02 17:16:00.419 -0600",
+      "scriptName" : "emr\/zzzEMRLogin.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.839687\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-11-02 17:16:00 -0600\", Successes:\"0\", TestCase:\"emr\/zzzEMRLogin.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:16:01.169 -0600"
+    },
+    {
+      "message" : "File Not Found imagefound Error - Could Not Open Image: Login\/NoThanks -- Execution Time 0:00:00 emr\/zzzEMRLogin.script",
+      "timestamp" : "2020-11-02 17:16:01.653 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:16:00.329 -0600"
+}

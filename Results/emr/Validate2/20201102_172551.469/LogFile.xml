@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="emr/Validate_script" package="customerIsKing.suite" timestamp="2020-11-02 17:25:51.469 -0600"
+ tests="1"  failures="2" errors="0" time="0.908354">
+  <properties>
+   <property name="RunDate" value="2020-11-02 17:25:51.469 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="emr/Validate.script" assertions="1" status="failure"  time="0.90113">
+    <failure type="LogError" message="Tuesday not match Wednesday" />
+    <failure type="FAILURE" message="Script Error Number of Errors logged: 1 -- Execution Time 0:00:00 emr/Validate.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

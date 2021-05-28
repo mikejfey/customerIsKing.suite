@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="zzzrunStockAPI_script" package="nopCommerce.suite" timestamp="2020-06-24 13:16:08.218 -0500"
+ tests="1"  failures="0" errors="0" time="1.698599">
+  <properties>
+   <property name="RunDate" value="2020-06-24 13:16:08.218 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="zzzrunStockAPI.script" assertions="1" status="success"  time="1.694903">
+  </testcase>
+ </testsuite>
+</testsuites>

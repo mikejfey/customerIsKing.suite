@@ -1,0 +1,9 @@
+﻿2020-05-12 10:46:40.823 -0500	START		Running go2Login.script
+2020-05-12 10:46:40.923 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-05-12 10:46:51.362 -0500	LogWarning		Unable to Find Image(s): NopCommerce_Logo.png -- AutoUpdate engaged	3	on_backtotop	Utilities.script
+2020-05-12 10:46:53.187 -0500	AutoUpdateCaptureScreen	AutoUpdate_0001.png		3	on_backtotop	Utilities.script
+2020-05-12 10:46:53.188 -0500	AutoUpdateWarning	NopCommerce_Logo.png	Found Alternate Image -- Using Dynamic Tolerance 60	3	on_backtotop	Utilities.script	"Name" = "Dynamic Tolerance"; "Info" = "60"; 
+2020-05-12 10:46:54.450 -0500	waitfor	NopCommerce_Logo.png	found at (1837, 55)	3	on_backtotop	Utilities.script
+2020-05-12 10:47:02.264 -0500	imagefound	go2loginCommerce	Unable to Find Image go2loginCommerce	3	on_go2login	go2Login.script
+2020-05-12 10:47:02.551 -0500	EndTestCase		(Duration:"21.726613", Errors:"1", Exceptions:"0", StartTime:"2020-05-12 10:46:40 -0500", Successes:"0", TestCase:"go2Login.script", Warnings:"1")
+2020-05-12 10:47:02.646 -0500	FAILURE	Screen_Error.png	AssertionFailed (false: ImageFound("go2loginCommerce")) -- Execution Time 0:00:21 go2Login.script

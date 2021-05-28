@@ -1,0 +1,74 @@
+{
+  "entries" : [
+    {
+      "message" : "Running emr\/lauchEMR.script",
+      "timestamp" : "2020-11-02 17:25:33.714 -0600",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Login with: admin",
+      "timestamp" : "2020-11-02 17:25:33.745 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Password is: pass",
+      "timestamp" : "2020-11-02 17:25:33.762 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2020-11-02 17:25:33.790 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "chrome.exe[returnKey]",
+      "timestamp" : "2020-11-02 17:25:34.630 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "[controlKey]l",
+      "timestamp" : "2020-11-02 17:25:35.360 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "http:\/\/localhost\/openemr\/[return]",
+      "timestamp" : "2020-11-02 17:25:36.404 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 9
+    },
+    {
+      "message" : "(Duration:\"3.698287\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-02 17:25:33 -0600\", Successes:\"1\", TestCase:\"emr\/lauchEMR.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:25:37.415 -0600",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:03 emr\/lauchEMR.script",
+      "timestamp" : "2020-11-02 17:25:37.631 -0600",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:25:33.715 -0600"
+}

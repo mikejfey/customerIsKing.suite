@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="checkout_script" package="customerIsKing.suite" timestamp="2020-08-19 08:53:29.304 -0500"
+ tests="1"  failures="1" errors="1" time="16.910737">
+  <properties>
+   <property name="RunDate" value="2020-08-19 08:53:29.304 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="checkout.script" assertions="1" status="error"  time="16.907231">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;CHECKOUT_terms&quot; -- Execution Time 0:00:16 checkout.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;CHECKOUT_terms&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

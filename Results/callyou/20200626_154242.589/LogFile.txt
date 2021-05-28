@@ -1,0 +1,16 @@
+﻿2020-06-26 15:42:42.594 -0500	START		Running callyou.script
+2020-06-26 15:42:42.970 -0500	click	image0001	at (133, 1658)	8	on_callyou	callyou.script
+2020-06-26 15:42:45.618 -0500	click	image0002	at (652, 1080)	9	on_callyou	callyou.script
+2020-06-26 15:42:47.374 -0500	click	image0003	at (424, 879)	10	on_callyou	callyou.script
+2020-06-26 15:42:49.059 -0500	click	image0004	at (424, 662)	11	on_callyou	callyou.script
+2020-06-26 15:42:50.795 -0500	click	image0005	at (627, 878)	12	on_callyou	callyou.script
+2020-06-26 15:42:52.482 -0500	click	image0006	at (190, 852)	13	on_callyou	callyou.script
+2020-06-26 15:42:54.158 -0500	click	image0007	at (663, 1058)	14	on_callyou	callyou.script
+2020-06-26 15:42:55.895 -0500	click	image0008	at (663, 1058)	15	on_callyou	callyou.script
+2020-06-26 15:42:57.645 -0500	click	image0009	at (199, 662)	16	on_callyou	callyou.script
+2020-06-26 15:42:59.367 -0500	click	image0010	at (189, 1050)	17	on_callyou	callyou.script
+2020-06-26 15:43:01.068 -0500	click	image0011	at (189, 1050)	18	on_callyou	callyou.script
+2020-06-26 15:43:02.759 -0500	click	image0012	at (413, 1461)	19	on_callyou	callyou.script
+2020-06-26 15:43:05.026 -0500	click	image0013	at (421, 1481)	20	on_callyou	callyou.script
+2020-06-26 15:43:07.133 -0500	EndTestCase		(Duration:"24.536631", Errors:"0", Exceptions:"0", StartTime:"2020-06-26 15:42:42 -0500", Successes:"1", TestCase:"callyou.script", Warnings:"0")
+2020-06-26 15:43:07.254 -0500	SUCCESS		Execution Time 0:00:24 callyou.script

@@ -1,0 +1,34 @@
+{
+  "entries" : [
+    {
+      "message" : "Running LoadDataFromExcel.script",
+      "timestamp" : "2020-06-26 14:40:03.672 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "[{@\"account name\":\"Discount Tire\", billingcity:\"Dallas\", phone:\"763-987-1289\"},{@\"account name\":\"Independent Health\", billingcity:\"Scottsdale\", phone:\"925-987-0917\"},{@\"account name\":\"KARL STORZ\", billingcity:\"El Segundo\", phone:\"949-856-9087\"}]",
+      "timestamp" : "2020-06-26 14:40:03.680 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 4
+    },
+    {
+      "message" : "(Duration:\"0.010691\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-26 14:40:03 -0500\", Successes:\"1\", TestCase:\"LoadDataFromExcel.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-26 14:40:03.685 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 LoadDataFromExcel.script",
+      "timestamp" : "2020-06-26 14:40:03.728 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-06-26 14:40:03.674 -0500"
+}

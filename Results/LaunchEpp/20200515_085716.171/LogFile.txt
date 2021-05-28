@@ -1,0 +1,4 @@
+﻿2020-05-15 08:57:16.174 -0500	START		Running LaunchEpp.script	1	execute string	(null)
+2020-05-15 08:57:16.179 -0500	connect		windows_sut:(null)	1	on_launchepp	LaunchEpp.script
+2020-05-15 08:57:16.181 -0500	EndTestCase		(Duration:"0.00553", Errors:"0", Exceptions:"0", StartTime:"2020-05-15 08:57:16 -0500", Successes:"1", TestCase:"LaunchEpp.script", Warnings:"0")	1	execute string	(null)
+2020-05-15 08:57:16.258 -0500	SUCCESS		Execution Time 0:00:00 LaunchEpp.script	1	execute string	(null)

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LaunchMobileApp_script" package="customerIsKing.suite" timestamp="2020-08-21 10:29:52.991 -0500"
+ tests="1"  failures="0" errors="0" time="0.408663">
+  <properties>
+   <property name="RunDate" value="2020-08-21 10:29:52.991 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="LaunchMobileApp.script" assertions="1" status="success"  time="0.404391">
+  </testcase>
+ </testsuite>
+</testsuites>

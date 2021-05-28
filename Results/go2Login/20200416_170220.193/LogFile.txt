@@ -1,0 +1,12 @@
+﻿2020-04-16 17:02:20.195 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-04-16 17:02:20.224 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-04-16 17:02:30.698 -0500	LogWarning		Unable to Find Image(s): NopCommerce_Logo.png -- AutoUpdate engaged	3	on_backtotop	Utilities.script
+2020-04-16 17:02:31.900 -0500	AutoUpdateCaptureScreen	AutoUpdate_0001.png		3	on_backtotop	Utilities.script
+2020-04-16 17:02:31.903 -0500	AutoUpdateWarning	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/Images/NopCommerce_Logo.png	Found Alternate Image -- Using Alternate Types Adaptive to Image	3	on_backtotop	Utilities.script	"Name" = "Alternate Types"; "Info" = "Adaptive to Image"; 
+2020-04-16 17:02:32.779 -0500	waitfor	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/Images/NopCommerce_Logo.png	found at (188, 169)	3	on_backtotop	Utilities.script
+2020-04-16 17:02:36.547 -0500	LogWarning		Unable to Find Image(s): go2loginCommerce.png -- AutoUpdate engaged	2	on_go2login	go2Login.script
+2020-04-16 17:02:40.283 -0500	AutoUpdateCaptureScreen	AutoUpdate_0002.png		2	on_go2login	go2Login.script
+2020-04-16 17:02:40.288 -0500	AutoUpdateWarning	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/Images/go2loginCommerce.png	Found Alternate Image -- Using Scaling Search 0.9000	2	on_go2login	go2Login.script	"Name" = "Scaling Search"; "Info" = "0.9000"; 
+2020-04-16 17:02:41.130 -0500	click	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/Images/go2loginCommerce.png	at (987, 91)	2	on_go2login	go2Login.script
+2020-04-16 17:02:41.136 -0500	EndTestCase		(Duration:"20.938602", Errors:"0", Exceptions:"0", StartTime:"2020-04-16 17:02:20 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"2")	1	execute string	(null)
+2020-04-16 17:02:41.147 -0500	SUCCESS		Execution Time 0:00:20 go2Login.script	1	execute string	(null)

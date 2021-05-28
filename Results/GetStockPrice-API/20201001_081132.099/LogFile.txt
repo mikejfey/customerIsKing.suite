@@ -1,0 +1,11 @@
+﻿2020-10-01 08:11:32.101 -0500	START		Running GetStockPrice.apitest
+2020-10-01 08:11:32.950 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	4	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:11:32.967 -0500	Log		========================	12	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:11:32.974 -0500	Log		115.81	14	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:11:32.987 -0500	Log		"symbol":"AAPL"	23	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:11:32.998 -0500	Log		AAPL	25	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:11:33.008 -0500	Log		"close":115.81	28	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:11:33.018 -0500	Log		115	30	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:12:03.525 -0500	imagefound	(TEXT:"AAPL")	Unable to Find Image (TEXT:"AAPL"). Text might be too low contrast to detect.	32	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:12:03.768 -0500	EndTestCase		(Duration:"31.665525", Errors:"1", Exceptions:"0", StartTime:"2020-10-01 08:11:32 -0500", Successes:"1", TestCase:"GetStockPrice.apitest", Warnings:"0")
+2020-10-01 08:12:03.917 -0500	FAILURE	Screen_Error.png	AssertionFailed (false: ImageFound(text:myStockName, waitFor:5)) -- Execution Time 0:00:31 GetStockPrice.apitest

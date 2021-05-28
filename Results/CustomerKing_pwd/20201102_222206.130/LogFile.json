@@ -1,0 +1,43 @@
+{
+  "entries" : [
+    {
+      "message" : "Running CustomerKing_pwd.script",
+      "timestamp" : "2020-11-02 22:22:06.133 -0600",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_customerking_pwd",
+      "message" : "at (1105, 575)",
+      "identifier" : "click",
+      "image" : "Password",
+      "handlerLine" : 3,
+      "timestamp" : "2020-11-02 22:22:06.403 -0600",
+      "scriptName" : "CustomerKing_pwd.script"
+    },
+    {
+      "handlerName" : "on_customerking_pwd",
+      "message" : "eggydemo",
+      "timestamp" : "2020-11-02 22:22:07.203 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "CustomerKing_pwd.script",
+      "handlerLine" : 5
+    },
+    {
+      "message" : "(Duration:\"1.074157\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-02 22:22:06 -0600\", Successes:\"1\", TestCase:\"CustomerKing_pwd.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 22:22:07.209 -0600",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 CustomerKing_pwd.script",
+      "timestamp" : "2020-11-02 22:22:07.369 -0600",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 22:22:06.134 -0600"
+}

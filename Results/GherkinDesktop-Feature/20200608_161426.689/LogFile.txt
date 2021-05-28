@@ -1,0 +1,7 @@
+﻿2020-06-08 16:14:26.691 -0500	START		Running FeatureFile.feature
+2020-06-08 16:14:26.693 -0500	LogWarning		Execution issue at step: I close the browser	24	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:14:26.695 -0500	EndTestCase		(Duration:"0.001352", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:14:26 -0500", Successes:"0", TestCase:"I close the browser", Warnings:"1")
+2020-06-08 16:14:26.697 -0500	LogWarning		Execution issue at step: The test should pass	25	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:14:26.698 -0500	EndTestCase		(Duration:"0.001307", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:14:26 -0500", Successes:"0", TestCase:"The test should pass", Warnings:"1")
+2020-06-08 16:14:26.700 -0500	EndTestCase		(Duration:"0.006341", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:14:26 -0500", Successes:"1", TestCase:"FeatureFile.feature", Warnings:"2")
+2020-06-08 16:14:26.980 -0500	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 2 steps (0 failed, 2 skipped, 0 passed) Execution Time 0:00:00

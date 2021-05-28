@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "message" : "Running add2Cart.script",
+      "timestamp" : "2020-08-19 12:54:01.943 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "(Duration:\"0.001073\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-19 12:54:01 -0500\", Successes:\"0\", TestCase:\"add2Cart.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-19 12:54:01.947 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "SenseTalk Compiler Exception in add2cart:\\nSyntax Error at line 25: Syntax Error - can't understand \"ift\" at character 6 -- Execution Time 0:00:00 add2Cart.script",
+      "timestamp" : "2020-08-19 12:54:02.217 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-08-19 12:54:01.945 -0500"
+}

@@ -1,0 +1,64 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running aaa1navElec.script",
+      "timestamp" : "2020-08-21 11:32:20.605 -0500"
+    },
+    {
+      "handlerName" : "on_aaa1navelec",
+      "message" : "at (662, 291)",
+      "identifier" : "click",
+      "image" : "Electronics",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-21 11:32:21.069 -0500",
+      "scriptName" : "aaa1navElec.script"
+    },
+    {
+      "handlerName" : "on_aaa1navelec",
+      "message" : "at (1090, 634)",
+      "identifier" : "click",
+      "image" : "zzzcell",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-21 11:32:22.256 -0500",
+      "scriptName" : "aaa1navElec.script"
+    },
+    {
+      "handlerName" : "on_aaa1navelec",
+      "message" : "found at (422, 619)",
+      "identifier" : "waitfor",
+      "image" : "(TEXT:\"Cell Phones\")",
+      "handlerLine" : 10,
+      "timestamp" : "2020-08-21 11:32:24.648 -0500",
+      "scriptName" : "aaa1navElec.script"
+    },
+    {
+      "handlerName" : "on_aaa1navelec",
+      "message" : "found at (754, 741)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"HTC\")",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 11:32:36.564 -0500",
+      "scriptName" : "aaa1navElec.script"
+    },
+    {
+      "handlerName" : "on_aaa1navelec",
+      "message" : "Assertion Succeeded: (true: ImageFound(text:\"HTC\"))",
+      "timestamp" : "2020-08-21 11:32:36.565 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "aaa1navElec.script",
+      "handlerLine" : 11
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"16.758446\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-21 11:32:20 -0500\", Successes:\"1\", TestCase:\"aaa1navElec.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 11:32:37.365 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:16 aaa1navElec.script",
+      "timestamp" : "2020-08-21 11:32:37.627 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 11:32:20.606 -0500"
+}

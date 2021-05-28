@@ -1,0 +1,13 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2021-05-11 19:00:05.128 -0500,"Success",0:00:01,0,0,0,"20210511_190005.128/LogFile.txt","","",1
+2021-05-11 19:02:19.384 -0500,"Success",0:00:01,0,0,0,"20210511_190219.384/LogFile.txt","","",1
+2021-05-11 19:02:28.828 -0500,"Success",0:00:01,0,0,0,"20210511_190228.828/LogFile.txt","","",1
+2021-05-11 19:02:55.822 -0500,"Success",0:00:01,0,0,0,"20210511_190255.822/LogFile.txt","","",1
+2021-05-11 19:03:46.928 -0500,"Failure",0:00:00,1,0,0,"20210511_190346.928/LogFile.txt","","Invalid JSON -- Can't get value of JSON expression '{authenticationtype:""None"", httpmethod:""GET"", mimeType:""application/json"", oauthToken:"""", passwor...' (reason: No string key for value in object around character 1.)",1
+2021-05-11 19:04:48.174 -0500,"Failure",0:00:01,1,0,0,"20210511_190448.174/LogFile.txt","","Invalid JSON -- Can't get value of JSON expression '{authenticationtype:""None"", httpmethod:""GET"", mimeType:""application/json"", oauthToken:"""", passwor...' (reason: No string key for value in object around character 1.)",1
+2021-05-11 19:05:11.568 -0500,"Failure",0:00:00,1,0,0,"20210511_190511.568/LogFile.txt","","Invalid JSON -- Can't get value of JSON expression '' (reason: No value.)",0
+2021-05-11 19:05:32.148 -0500,"Failure",0:00:00,1,0,0,"20210511_190532.148/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'respsonsebody'",0
+2021-05-11 19:05:39.919 -0500,"Failure",0:00:00,1,0,0,"20210511_190539.919/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'responsebody'",0
+2021-05-11 19:05:54.612 -0500,"Failure",0:00:00,1,0,0,"20210511_190554.612/LogFile.txt","","Invalid JSON -- Can't get value of JSON expression '' (reason: No value.)",0
+2021-05-11 19:06:08.832 -0500,"Failure",0:00:01,1,0,0,"20210511_190608.832/LogFile.txt","","Invalid JSON -- Can't get value of JSON expression '{authenticationtype:""None"", httpmethod:""GET"", mimeType:""application/json"", oauthToken:"""", passwor...' (reason: No string key for value in object around character 1.)",1
+2021-05-11 19:06:51.689 -0500,"Success",0:00:00,0,0,0,"20210511_190651.689/LogFile.txt","","",1

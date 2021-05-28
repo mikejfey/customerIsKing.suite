@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Untitled_apitest" package="nopCommerce.suite" timestamp="2020-06-24 12:41:25.855 -0500"
+ tests="1"  failures="2" errors="0" time="1.011586">
+  <properties>
+   <property name="RunDate" value="2020-06-24 12:41:25.855 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled.apitest" assertions="1" status="failure"  time="1.008524">
+    <failure type="LogError" message="An SSL error has occurred and a secure connection to the server cannot be made." />
+    <failure type="FAILURE" message="Script Error Number of Errors logged: 1 -- Execution Time 0:00:01 Untitled.apitest" />
+  </testcase>
+ </testsuite>
+</testsuites>

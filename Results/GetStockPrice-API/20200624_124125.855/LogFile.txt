@@ -1,0 +1,4 @@
+﻿2020-06-24 12:41:25.857 -0500	START		Running Untitled.apitest
+2020-06-24 12:41:26.241 -0500	LogError		An SSL error has occurred and a secure connection to the server cannot be made.
+2020-06-24 12:41:26.867 -0500	EndTestCase		(Duration:"1.008524", Errors:"1", Exceptions:"0", StartTime:"2020-06-24 12:41:25 -0500", Successes:"0", TestCase:"Untitled.apitest", Warnings:"0")
+2020-06-24 12:41:27.336 -0500	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:01 Untitled.apitest

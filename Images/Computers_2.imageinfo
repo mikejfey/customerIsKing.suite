@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2021-04-08 19:44:12 +0000";
+    CaptureHost = daiserver2;
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 54;
+    HotSpotY = 14;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 481;
+    OriginalLocationY = 311;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "Computers_2";
+    tags =     (
+    );
+}

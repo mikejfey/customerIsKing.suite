@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="API_model">
+ <run>
+  <RunDate>2021-05-11 19:00:05.128 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.136319</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210511_190005.128/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:02:19.384 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.065474</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210511_190219.384/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:02:28.828 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.041109</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210511_190228.828/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:02:55.822 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.053042</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210511_190255.822/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:03:46.928 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.893482</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210511_190346.928/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid JSON -- Can&#x27;t get value of JSON expression &#x27;{authenticationtype:&quot;None&quot;, httpmethod:&quot;GET&quot;, mimeType:&quot;application/json&quot;, oauthToken:&quot;&quot;, passwor...&#x27; (reason: No string key for value in object around character 1.)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:04:48.174 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.052466</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210511_190448.174/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid JSON -- Can&#x27;t get value of JSON expression &#x27;{authenticationtype:&quot;None&quot;, httpmethod:&quot;GET&quot;, mimeType:&quot;application/json&quot;, oauthToken:&quot;&quot;, passwor...&#x27; (reason: No string key for value in object around character 1.)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:05:11.568 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.554615</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210511_190511.568/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid JSON -- Can&#x27;t get value of JSON expression &#x27;&#x27; (reason: No value.)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:05:32.148 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.525567</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210511_190532.148/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;respsonsebody&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:05:39.919 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.558035</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210511_190539.919/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;responsebody&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:05:54.612 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.506456</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20210511_190554.612/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid JSON -- Can&#x27;t get value of JSON expression &#x27;&#x27; (reason: No value.)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:06:08.832 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.148588</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210511_190608.832/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid JSON -- Can&#x27;t get value of JSON expression &#x27;{authenticationtype:&quot;None&quot;, httpmethod:&quot;GET&quot;, mimeType:&quot;application/json&quot;, oauthToken:&quot;&quot;, passwor...&#x27; (reason: No string key for value in object around character 1.)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-05-11 19:06:51.689 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.940331</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210511_190651.689/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

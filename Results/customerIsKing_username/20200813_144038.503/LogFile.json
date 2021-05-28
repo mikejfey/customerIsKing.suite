@@ -1,0 +1,51 @@
+{
+  "entries" : [
+    {
+      "message" : "Running customerIsKing_username.script",
+      "timestamp" : "2020-08-13 14:40:38.506 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-13 14:40:38.633 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 14:40:38.900 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 14:40:39.668 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "message" : "(Duration:\"1.234731\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-13 14:40:38 -0500\", Successes:\"0\", TestCase:\"customerIsKing_username.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 14:40:39.745 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 customerIsKing_username.script",
+      "timestamp" : "2020-08-13 14:40:39.753 -0500",
+      "identifier" : "ABORTED",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 14:40:38.508 -0500"
+}

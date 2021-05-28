@@ -1,0 +1,79 @@
+﻿(*** Autosnippet script "Login2Commerce" generated 2020-04-14 by Mike Fey. Keep this comment for use with Eggplant AI. ***)
+(* Already generated snippets can be edited in the script below *)
+(* To customize the snippet generation templates, affecting snippets generated in the future,
+go to Eggplant > Preferences... > Script > General > Customize *)
+
+
+(* Autosnippets for Field "Email4Login" *)
+
+to handle Email4Login_EnterText theValue, terminator
+	// Assumes the hot spot has been set over the text field
+	// and that the field is already empty.
+	
+	// Click the location of the hot spot.
+	Click imageName:"Email4Login", waitFor:8
+	//Type theValue and optional terminator (such as 'return' or 'tab') into the field.
+	//TypeText theValue, terminator
+	typeText "mike.fey@eggplant.io"
+end Email4Login_EnterText
+
+to handle Email4Login_ReadText
+	// Assumes the hot spot has been set over the text field.
+	
+	// Use OCR to read the text around that hot spot point.
+	set theText to readText(imageLocation(imageName:"Email4Login"))
+	// Any additional cleanup of the text could be done here before returning the value, such as:
+	// set theText to trim(theText) -- remove leading/trailing whitespace
+	return theText
+end Email4Login_ReadText
+
+-----------------------------------
+
+
+(* Autosnippets for Field "Password" *)
+
+to handle Password_EnterText theValue, terminator
+	// Assumes the hot spot has been set over the text field
+	// and that the field is already empty.
+	
+	// Click the location of the hot spot.
+	Click imageName:"Password", waitFor:8
+	//Type theValue and optional terminator (such as 'return' or 'tab') into the field.
+	TypeText "eggydemo", terminator
+end Password_EnterText
+
+to handle Password_ReadText
+	// Assumes the hot spot has been set over the text field.
+	
+	// Use OCR to read the text around that hot spot point.
+	set theText to readText(imageLocation(imageName:"Password"))
+	// Any additional cleanup of the text could be done here before returning the value, such as:
+	// set theText to trim(theText) -- remove leading/trailing whitespace
+	return theText
+end Password_ReadText
+
+-----------------------------------
+
+
+(* Autosnippets for Button "LOGINbutton" *)
+
+to handle LOGINbutton_Click
+	Click imageName:"LOGINbutton", waitFor:8
+	If	ImageFound(Image:"Logout", WaitFor:6)
+		set amILoggedIn = true
+		log amILoggedIn
+	else
+		LogError "Login failed"
+		CaptureScreen
+		
+		
+	End if
+	
+	Return amILoggedIn
+end LOGINbutton_Click
+
+-----------------------------------
+
+
+(*** End of Autosnippet script Login2Commerce.script ***)
+

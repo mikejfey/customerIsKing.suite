@@ -1,0 +1,53 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-04-23 12:12:51.485 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-04-23 12:12:51.514 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (448, 169)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-04-23 12:12:52.161 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Unable to Find Image go2loginCommerce",
+      "identifier" : "imagefound",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 3,
+      "timestamp" : "2020-04-23 12:12:57.047 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"5.561696\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-04-23 12:12:51 -0500\", Successes:\"0\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-23 12:12:57.050 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "AssertionFailed (false: ImageFound(\"go2loginCommerce\")) -- Execution Time 0:00:05 go2Login.script",
+      "timestamp" : "2020-04-23 12:12:57.207 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-04-23 12:12:51.487 -0500"
+}

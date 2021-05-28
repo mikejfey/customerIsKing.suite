@@ -1,0 +1,14 @@
+﻿params device
+if device = "desktop"
+	Utilities.ScrollUntilFound "CHECKOUT"
+	Click (Image:"CHECKOUT_terms", WaitFor:5)
+	
+	Click (Image:"CHECKOUT", WaitFor:4)
+	
+else
+	MobileUtilities.ScrollUntilFound "CHECKOUT_mobile", "up" 
+	
+	Tap "Shoppingcart/CHECKOUT_mobile_terms"
+	Tap imageName:"CHECKOUT_mobile", waitFor:5
+	
+end if

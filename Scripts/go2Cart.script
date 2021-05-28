@@ -1,0 +1,9 @@
+﻿
+wait 3
+Click (Image:"Shoppingcart", WaitFor:4)
+
+
+
+
+
+

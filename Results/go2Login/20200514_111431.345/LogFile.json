@@ -1,0 +1,77 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-05-14 11:14:31.347 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "DAIserver_sut:(null)",
+      "timestamp" : "2020-05-14 11:14:31.361 -0500",
+      "identifier" : "connect",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-05-14 11:14:31.375 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (328, 181)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-05-14 11:14:32.086 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "found at (1216, 93)",
+      "identifier" : "imagefound",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 5,
+      "timestamp" : "2020-05-14 11:14:32.794 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Assertion Succeeded: (true: ImageFound(\"go2loginCommerce\"))",
+      "timestamp" : "2020-05-14 11:14:32.795 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1216, 93)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 6,
+      "timestamp" : "2020-05-14 11:14:33.049 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"1.701934\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-05-14 11:14:31 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-05-14 11:14:33.051 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 go2Login.script",
+      "timestamp" : "2020-05-14 11:14:33.226 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-05-14 11:14:31.349 -0500"
+}

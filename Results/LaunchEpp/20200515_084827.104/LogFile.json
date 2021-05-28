@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LaunchEpp.script",
+      "timestamp" : "2020-05-15 08:48:27.106 -0500"
+    },
+    {
+      "handlerName" : "on_launchepp",
+      "message" : "windows_sut:(null)",
+      "timestamp" : "2020-05-15 08:48:27.207 -0500",
+      "identifier" : "connect",
+      "scriptName" : "LaunchEpp.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.515263\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-05-15 08:48:27 -0500\", Successes:\"1\", TestCase:\"LaunchEpp.script\", Warnings:\"0\")",
+      "timestamp" : "2020-05-15 08:48:27.623 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 LaunchEpp.script",
+      "timestamp" : "2020-05-15 08:48:27.658 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-05-15 08:48:27.107 -0500"
+}

@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running API_model.script",
+      "timestamp" : "2021-05-11 19:05:54.614 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.503224\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-05-11 19:05:54 -0500\", Successes:\"0\", TestCase:\"API_model.script\", Warnings:\"0\")",
+      "timestamp" : "2021-05-11 19:05:55.119 -0500"
+    },
+    {
+      "message" : "CapturedErrorScreenshot",
+      "timestamp" : "2021-05-11 19:05:55.440 -0500",
+      "identifier" : "Error Screen",
+      "image" : "\/Users\/michafey\/Documents\/EggplantSuites\/customerIsKing.suite\/Results\/API_model\/20210511_190554.612\/Screen_Error.png"
+    },
+    {
+      "message" : "Invalid JSON Can't get value of JSON expression '' (reason: No value.) -- Execution Time 0:00:00 API_model.script",
+      "timestamp" : "2021-05-11 19:05:55.441 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-05-11 19:05:54.615 -0500"
+}

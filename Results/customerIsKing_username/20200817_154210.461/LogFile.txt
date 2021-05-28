@@ -1,0 +1,6 @@
+﻿2020-08-17 15:42:10.464 -0500	START		Running customerIsKing_username.script	1	execute string	(null)
+2020-08-17 15:42:10.530 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-17 15:42:10.781 -0500	imagefound	Mobile_Email	Unable to Find Image Mobile_Email	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-17 15:42:10.948 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-17 15:42:10.965 -0500	EndTestCase		(Duration:"0.497197", Errors:"1", Exceptions:"0", StartTime:"2020-08-17 15:42:10 -0500", Successes:"0", TestCase:"customerIsKing_username.script", Warnings:"0")	1	execute string	(null)
+2020-08-17 15:42:10.973 -0500	ABORTED		Execution Time 0:00:00 customerIsKing_username.script	1	execute string	(null)

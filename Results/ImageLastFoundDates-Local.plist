@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>400GB_web.png</key>
+	<string>2020-08-19 16:43 +0000</string>
+	<key>Accounts/Accounts.png</key>
+	<string>2020-09-04 20:51 +0000</string>
+	<key>Advancedsearch.png</key>
+	<string>2021-05-25 20:53 +0000</string>
+	<key>Apparel.png</key>
+	<string>2021-05-24 15:49 +0000</string>
+	<key>CATEGORIE.png</key>
+	<string>2020-10-28 17:53 +0000</string>
+	<key>CATEGORIES/CATEGORIES.png</key>
+	<string>2020-09-18 00:24 +0000</string>
+	<key>CATEGORIES/CATEGORIES_andr.png</key>
+	<string>2020-09-18 14:54 +0000</string>
+	<key>CHECKOUT.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>CHECKOUT_mobile/CHECKOUT_mobile.png</key>
+	<string>2020-08-26 15:26 +0000</string>
+	<key>CHECKOUT_terms.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>CONFIRM_order_mobile.png</key>
+	<string>2020-08-26 15:27 +0000</string>
+	<key>CONTINUE_checkout_mobile/CONTINUE_checkout_mobile.png</key>
+	<string>2020-08-20 14:31 +0000</string>
+	<key>CONTINUE_checkout_mobile/CONTINUE_mob.png</key>
+	<string>2020-08-26 15:27 +0000</string>
+	<key>CUSTOMERS.png</key>
+	<string>2021-02-23 16:38 +0000</string>
+	<key>Cardcode.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>Cardholdername.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>Cardnumber_web.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>Category.png</key>
+	<string>2021-05-25 20:53 +0000</string>
+	<key>Checkout_CONTINUE.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>ChromeIcon.png</key>
+	<string>2020-10-20 19:40 +0000</string>
+	<key>CloseButton.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>Communitypoll_Header_new.png</key>
+	<string>2021-05-25 20:53 +0000</string>
+	<key>Computers.png</key>
+	<string>2021-05-24 15:48 +0000</string>
+	<key>Computers_0001.png</key>
+	<string>2021-05-24 15:49 +0000</string>
+	<key>Computers_1.png</key>
+	<string>2021-05-24 15:48 +0000</string>
+	<key>Computers_2.png</key>
+	<string>2021-05-24 15:48 +0000</string>
+	<key>Computers_andr/Computers_andr.png</key>
+	<string>2020-09-18 00:27 +0000</string>
+	<key>Computers_andr/Computers_mobile.png</key>
+	<string>2020-09-17 13:07 +0000</string>
+	<key>Computers_mobile/Computers_andr.png</key>
+	<string>2020-09-18 14:54 +0000</string>
+	<key>Desktops_web.png</key>
+	<string>2020-09-18 13:21 +0000</string>
+	<key>Dollar_MenuItem.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>Electronics.png</key>
+	<string>2021-05-24 15:48 +0000</string>
+	<key>Electronics_0001.png</key>
+	<string>2021-05-24 15:49 +0000</string>
+	<key>Electronics_1.png</key>
+	<string>2021-05-24 15:48 +0000</string>
+	<key>Email-field.png</key>
+	<string>2021-03-25 16:59 +0000</string>
+	<key>Email4Login.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>Email_tds.png</key>
+	<string>2021-03-25 16:57 +0000</string>
+	<key>Euro_MenuItem.png</key>
+	<string>2021-05-13 15:52 +0000</string>
+	<key>Excellent.png</key>
+	<string>2020-08-21 15:36 +0000</string>
+	<key>Expirationdate.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>Expirationdate_year.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>Good.png</key>
+	<string>2020-08-21 15:37 +0000</string>
+	<key>HallmarkCards.png</key>
+	<string>2020-08-21 18:32 +0000</string>
+	<key>Ill.png</key>
+	<string>2020-10-01 14:54 +0000</string>
+	<key>LEARNMORE.png</key>
+	<string>20180824 04:26 PM</string>
+	<key>LOGIN2.png</key>
+	<string>2021-03-25 16:59 +0000</string>
+	<key>LOGIN_mobile/LOGIN_mobile_andr.png</key>
+	<string>2020-09-18 14:53 +0000</string>
+	<key>LOGIN_mobile/LOGIN_mobole_blue.png</key>
+	<string>2020-11-02 22:58 +0000</string>
+	<key>LOGIN_mobile/LOGIN_mobole_blue_new.png</key>
+	<string>2020-10-28 17:01 +0000</string>
+	<key>LOGIN_mobile/mobileLOGIN.png</key>
+	<string>2020-09-18 14:52 +0000</string>
+	<key>LOGIN_mobole_blue/LOGIN_mobole_blue.png</key>
+	<string>2020-08-13 19:40 +0000</string>
+	<key>LOGINbutton.png</key>
+	<string>2021-03-25 16:53 +0000</string>
+	<key>LOGINbutton/LOGINBTN_andr.png</key>
+	<string>2020-09-18 14:54 +0000</string>
+	<key>LOGINbutton/LOGIN_btn_mobile.png</key>
+	<string>2020-09-17 13:07 +0000</string>
+	<key>LOGINbutton/LOGINbutton.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>Laptops/AppleMacBookPro13inch_price_BR.png</key>
+	<string>2021-05-13 16:02 +0000</string>
+	<key>Laptops/AppleMacBookPro13inch_price_TL.png</key>
+	<string>2021-05-13 16:02 +0000</string>
+	<key>Laptops/Grid.png</key>
+	<string>2020-06-09 13:34 +0000</string>
+	<key>Laptops/Laps.png</key>
+	<string>2021-05-13 16:02 +0000</string>
+	<key>Laptops/Logo.png</key>
+	<string>2020-10-30 15:23 +0000</string>
+	<key>Laptops/Pos.png</key>
+	<string>2020-10-30 15:13 +0000</string>
+	<key>Laptops/PriceHightoLow.png</key>
+	<string>2020-06-09 13:34 +0000</string>
+	<key>Login_tds.png</key>
+	<string>2020-09-25 16:32 +0000</string>
+	<key>Logout/Logout.png</key>
+	<string>2021-05-25 20:52 +0000</string>
+	<key>Logout/Logout_mobile.png</key>
+	<string>2020-08-17 20:58 +0000</string>
+	<key>Mobile_Email/Email_android.png</key>
+	<string>2020-09-18 13:13 +0000</string>
+	<key>Mobile_Email/Mobile_Email.png</key>
+	<string>2020-09-17 13:07 +0000</string>
+	<key>Mobile_Email/Mobile_Email_new.png</key>
+	<string>2020-09-04 20:55 +0000</string>
+	<key>Mobile_SHOPPINGCART/Mobile_SHOPPINGCART.png</key>
+	<string>2020-09-17 13:08 +0000</string>
+	<key>Mobile_SHOPPINGCART/Mobile_SHOPPINGCART_andr.png</key>
+	<string>2020-09-18 14:55 +0000</string>
+	<key>News_Header.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>Next_andr.png</key>
+	<string>2020-09-18 13:12 +0000</string>
+	<key>NopCommerce_Logo.png</key>
+	<string>2020-04-16 21:55 +0000</string>
+	<key>OCreditCard.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>Password/Password.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>Password/Password_new.png</key>
+	<string>2020-09-04 20:57 +0000</string>
+	<key>Password2.png</key>
+	<string>2021-03-25 16:59 +0000</string>
+	<key>Password_0001.png</key>
+	<string>2021-03-25 16:53 +0000</string>
+	<key>Password_mobile/Password_mobile.png</key>
+	<string>2020-09-17 13:07 +0000</string>
+	<key>Password_mobile/Password_mobile_andr.png</key>
+	<string>2020-10-28 17:01 +0000</string>
+	<key>Poor.png</key>
+	<string>2020-08-21 15:38 +0000</string>
+	<key>RefreshButton.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>RunWindowLogo.png</key>
+	<string>2021-05-25 20:54 +0000</string>
+	<key>SEARCH.png</key>
+	<string>2020-10-20 19:32 +0000</string>
+	<key>SEARCH_0001.png</key>
+	<string>2020-10-20 19:35 +0000</string>
+	<key>SEARCH_1.png</key>
+	<string>2020-10-28 17:53 +0000</string>
+	<key>Search_Header/Search_Header.png</key>
+	<string>2021-05-25 20:53 +0000</string>
+	<key>Search_Header/Search_Header_new.png</key>
+	<string>2020-11-19 15:08 +0000</string>
+	<key>Searchstore.png</key>
+	<string>2021-05-25 20:53 +0000</string>
+	<key>Searchstore_0001.png</key>
+	<string>2020-10-30 15:23 +0000</string>
+	<key>Searchstore_0002.png</key>
+	<string>2020-10-30 15:23 +0000</string>
+	<key>Searchstore_1.png</key>
+	<string>2020-10-28 17:53 +0000</string>
+	<key>Searchstore_2.png</key>
+	<string>2020-10-30 15:23 +0000</string>
+	<key>Shoppingcart/CHECKOUT_mobile_terms.png</key>
+	<string>2020-08-26 15:26 +0000</string>
+	<key>Shoppingcart/Shoppingcart.png</key>
+	<string>2020-09-18 14:56 +0000</string>
+	<key>Shoppingcart/Shoppingcart_mobile.png</key>
+	<string>2020-08-26 15:26 +0000</string>
+	<key>USDollar_MenuItem.png</key>
+	<string>20180820 02:52 PM</string>
+	<key>VeryBad.png</key>
+	<string>2020-08-26 18:37 +0000</string>
+	<key>Verybad.png</key>
+	<string>2020-08-19 17:48 +0000</string>
+	<key>WindowsLogo.png</key>
+	<string>2021-05-25 20:54 +0000</string>
+	<key>addLicense.png</key>
+	<string>2020-08-12 19:55 +0000</string>
+	<key>cames.png</key>
+	<string>2020-10-30 15:00 +0000</string>
+	<key>cams.png</key>
+	<string>2020-10-30 15:16 +0000</string>
+	<key>chrommzz.png</key>
+	<string>2020-10-20 19:40 +0000</string>
+	<key>cmae1.png</key>
+	<string>2020-10-30 15:01 +0000</string>
+	<key>comp.png</key>
+	<string>2021-05-24 15:48 +0000</string>
+	<key>currency_rect_A.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>currency_rect_B.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>delete/Grid.png</key>
+	<string>2020-06-08 14:11 +0000</string>
+	<key>delete/Laps.png</key>
+	<string>2020-06-08 14:11 +0000</string>
+	<key>delete/Logo.png</key>
+	<string>2020-06-08 14:11 +0000</string>
+	<key>delete/Pos.png</key>
+	<string>2020-06-08 14:11 +0000</string>
+	<key>delete/PriceHightoLow.png</key>
+	<string>2020-06-08 14:11 +0000</string>
+	<key>deleteMe.png</key>
+	<string>2020-04-20 22:22 +0000</string>
+	<key>dtop2cart_web/dtop2cart_web.png</key>
+	<string>2020-08-19 13:58 +0000</string>
+	<key>equalls.png</key>
+	<string>2020-10-07 16:12 +0000</string>
+	<key>five.png</key>
+	<string>2020-10-07 16:12 +0000</string>
+	<key>go2loginCommerce.png</key>
+	<string>2021-05-25 20:55 +0000</string>
+	<key>image0001.png</key>
+	<string>2020-10-01 14:54 +0000</string>
+	<key>image0002.png</key>
+	<string>2020-10-01 14:54 +0000</string>
+	<key>image0003.png</key>
+	<string>2020-10-01 14:54 +0000</string>
+	<key>image0004.png</key>
+	<string>2020-10-01 14:54 +0000</string>
+	<key>image0005.png</key>
+	<string>2020-10-01 14:54 +0000</string>
+	<key>image0006.png</key>
+	<string>2020-10-01 14:54 +0000</string>
+	<key>image0007.png</key>
+	<string>2020-10-20 19:35 +0000</string>
+	<key>image0008.png</key>
+	<string>2021-01-11 20:05 +0000</string>
+	<key>image0012.png</key>
+	<string>2020-06-26 21:25 +0000</string>
+	<key>item2cart_web/dtop2cart_web.png</key>
+	<string>2020-09-18 13:21 +0000</string>
+	<key>item2cart_web/macLap2cart.png</key>
+	<string>2020-08-19 16:43 +0000</string>
+	<key>keyboard_down_andr.png</key>
+	<string>2020-09-18 14:54 +0000</string>
+	<key>laps.png</key>
+	<string>2020-08-13 18:11 +0000</string>
+	<key>logoNop.png</key>
+	<string>2020-10-28 17:52 +0000</string>
+	<key>mac.png</key>
+	<string>2020-08-19 16:37 +0000</string>
+	<key>menu.png</key>
+	<string>2020-10-07 16:18 +0000</string>
+	<key>mikeTopMenu/Kelly.png</key>
+	<string>2020-11-05 20:22 +0000</string>
+	<key>mikeTopMenu/Mobilenumberoremal.png</key>
+	<string>2020-11-05 20:30 +0000</string>
+	<key>mikeTopMenu/day_BR.png</key>
+	<string>2020-11-02 23:27 +0000</string>
+	<key>mikeTopMenu/day_TL.png</key>
+	<string>2020-11-02 23:27 +0000</string>
+	<key>mikeTopMenu/image0001.png</key>
+	<string>2020-11-05 20:09 +0000</string>
+	<key>mikeTopMenu/image0002.png</key>
+	<string>2020-11-05 20:22 +0000</string>
+	<key>mikeTopMenu/image0004.png</key>
+	<string>2020-11-05 20:29 +0000</string>
+	<key>mikeTopMenu/image0005.png</key>
+	<string>2020-11-05 20:30 +0000</string>
+	<key>mikeTopMenu/image0008.png</key>
+	<string>2020-11-05 20:09 +0000</string>
+	<key>mobileComputersImage/mobileComputersImage.png</key>
+	<string>2020-09-17 13:07 +0000</string>
+	<key>mobileComputersImage/mobileComputersImage_andr.png</key>
+	<string>2020-09-18 14:54 +0000</string>
+	<key>mobile_ADDTOCART/mobile_ADDTOCART.png</key>
+	<string>2020-09-18 00:35 +0000</string>
+	<key>mobile_ADDTOCART/mobile_ADDTOCART_andr.png</key>
+	<string>2020-09-18 14:54 +0000</string>
+	<key>mobile_ADDTOCART/mobile_add2cart2.png</key>
+	<string>2020-09-18 14:55 +0000</string>
+	<key>mobile_HD_radio/mobile_HD_radio.png</key>
+	<string>2020-09-17 13:07 +0000</string>
+	<key>mobile_HD_radio/mobile_HD_radio_andr.png</key>
+	<string>2020-09-18 14:55 +0000</string>
+	<key>mobile_nop_Logo.png</key>
+	<string>2020-08-21 16:16 +0000</string>
+	<key>nau_Donthaveanaccount.png</key>
+	<string>2020-08-26 18:44 +0000</string>
+	<key>nau_FarmerTools.png</key>
+	<string>2020-08-26 18:45 +0000</string>
+	<key>nau_Farmers.png</key>
+	<string>2020-08-26 18:45 +0000</string>
+	<key>nau_menu/nau_menu.png</key>
+	<string>2020-08-26 18:45 +0000</string>
+	<key>nau_menu/nau_menu_blue.png</key>
+	<string>2020-08-26 18:45 +0000</string>
+	<key>nbook.png</key>
+	<string>2020-08-12 15:21 +0000</string>
+	<key>nikon.png</key>
+	<string>2020-10-30 15:16 +0000</string>
+	<key>noDCc.png</key>
+	<string>2020-10-30 15:23 +0000</string>
+	<key>nop_br.png</key>
+	<string>2020-10-30 15:23 +0000</string>
+	<key>nop_logo_mobile/nop_logo_mobile.png</key>
+	<string>2020-09-17 13:06 +0000</string>
+	<key>nop_logo_mobile/nop_logo_mobile_andr.png</key>
+	<string>2020-10-28 17:52 +0000</string>
+	<key>nop_tl.png</key>
+	<string>2020-10-30 15:23 +0000</string>
+	<key>plus.png</key>
+	<string>2020-10-07 16:12 +0000</string>
+	<key>searchMObb.png</key>
+	<string>2020-10-01 14:54 +0000</string>
+	<key>six.png</key>
+	<string>2020-10-07 16:12 +0000</string>
+	<key>thisPC.png</key>
+	<string>2020-04-17 19:42 +0000</string>
+	<key>three.png</key>
+	<string>2020-10-07 16:12 +0000</string>
+	<key>zzzcell.png</key>
+	<string>2020-08-21 16:32 +0000</string>
+	<key>zzzz/AIAgentBookmark.png</key>
+	<string>2020-11-16 16:17 +0000</string>
+	<key>zzzz/eggyBookmark.png</key>
+	<string>2020-11-16 16:17 +0000</string>
+	<key>zzzz/nhl__A.png</key>
+	<string>2020-11-16 16:17 +0000</string>
+	<key>zzzz/nhl__B.png</key>
+	<string>2020-11-16 16:17 +0000</string>
+	<key>zzzz/nopBookmark.png</key>
+	<string>2020-11-16 16:17 +0000</string>
+	<key>zzzz/spyglass.png</key>
+	<string>2020-11-16 16:17 +0000</string>
+</dict>
+</plist>

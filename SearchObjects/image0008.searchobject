@@ -1,0 +1,53 @@
+{
+  "lastmodifieddate" : 1610394876.001164,
+  "ocrcapturestring" : "r",
+  "testlocationdata" : [
+    {
+      "name" : "image0008.png",
+      "sutinfo" : {
+        "device" : "iPhone11,8",
+        "os" : "OSX",
+        "device_os_version" : "iOS 14.0.1",
+        "os_version" : "10.15.7",
+        "version" : "5.7",
+        "type" : "iOS Gateway",
+        "device_type" : "iPhone XR"
+      },
+      "connectionname" : "iphone",
+      "connectionportnum" : 5905,
+      "capturedocrtext" : "r",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[73,76]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "localhost",
+      "capturerect" : [
+        253,
+        1599,
+        130,
+        130
+      ]
+    }
+  ],
+  "createddate" : 1610394876.001163,
+  "lastfoundlocation" : [
+    253,
+    1599,
+    130,
+    130
+  ],
+  "originalcapturelocation" : [
+    253,
+    1599,
+    130,
+    130
+  ],
+  "lastfounddate" : 1610395557.1171122,
+  "name" : "image0008"
+}

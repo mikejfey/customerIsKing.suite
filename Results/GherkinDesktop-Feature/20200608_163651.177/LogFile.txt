@@ -1,0 +1,20 @@
+﻿2020-06-08 16:36:51.178 -0500	START		Running Gherkin_Desktop.feature
+2020-06-08 16:36:51.250 -0500	show		remote	3	on_i_am_connected_to_a_device	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:36:51.252 -0500	LogSuccess		Start Time: 16:36:51, Stop Time: 16:36:51 step: I am connected to a device	14	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:36:51.253 -0500	EndTestCase		(Duration:"0.072467", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:36:51 -0500", Successes:"1", TestCase:"I am connected to a device", Warnings:"0")
+2020-06-08 16:36:51.512 -0500	typetext		[windowsKey]r	3	on_i_enter_the_nopcommerce_url_in_str	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:36:51.522 -0500	Exception	RunWindowLogo	Could Not Open Image: RunWindowLogo	4	on_i_enter_the_nopcommerce_url_in_str	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:36:51.529 -0500	LogError		Error at step: I enter the nopCommerce URL in "chrome"	15	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:36:51.531 -0500	EndTestCase		(Duration:"0.276655", Errors:"1", Exceptions:"1", StartTime:"2020-06-08 16:36:51 -0500", Successes:"0", TestCase:@"I enter the nopCommerce URL in \"chrome\"", Warnings:"0")
+2020-06-08 16:37:42.194 -0500	LogWarning		Unable to Find Image(s): NopCommerce_Logo.png -- AutoUpdate engaged	2	on_i_should_see_the_home_page	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:37:46.625 -0500	Exception	NopCommerce_Logo	Not found: NopCommerce_Logo	2	on_i_should_see_the_home_page	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:37:46.633 -0500	LogError		Error at step: I should see the home page	16	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:37:46.634 -0500	EndTestCase		(Duration:"55.102438", Errors:"1", Exceptions:"1", StartTime:"2020-06-08 16:36:51 -0500", Successes:"0", TestCase:"I should see the home page", Warnings:"1")
+2020-06-08 16:37:46.739 -0500	typetext		[windowsAltKey][F4]	2	on_i_close_the_browser	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:37:48.745 -0500	LogSuccess		Start Time: 16:37:46, Stop Time: 16:37:48 step: I close the browser	24	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:37:48.747 -0500	EndTestCase		(Duration:"2.110842", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:37:46 -0500", Successes:"1", TestCase:"I close the browser", Warnings:"0")
+2020-06-08 16:37:48.774 -0500	Log		We just ran a Gherkin test on desktop	2	on_the_test_should_pass	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:37:48.780 -0500	LogSuccess		Start Time: 16:37:48, Stop Time: 16:37:48 step: The test should pass	25	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:37:48.782 -0500	EndTestCase		(Duration:"0.033664", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:37:48 -0500", Successes:"1", TestCase:"The test should pass", Warnings:"0")
+2020-06-08 16:37:48.783 -0500	EndTestCase		(Duration:"57.603306", Errors:"3", Exceptions:"2", StartTime:"2020-06-08 16:36:51 -0500", Successes:"3", TestCase:"Gherkin_Desktop.feature", Warnings:"1")
+2020-06-08 16:37:49.191 -0500	FAILURE	Screen_Error.png	2 scenarios (1 failed, 1 passed) 5 steps (2 failed, 0 skipped, 3 passed) Execution Time 0:00:57

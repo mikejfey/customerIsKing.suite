@@ -1,0 +1,3 @@
+﻿2020-06-17 14:13:09.674 -0500	START		Running navLaptops.script
+2020-06-17 14:13:18.292 -0500	EndTestCase		(Duration:"8.617194", Errors:"1", Exceptions:"0", StartTime:"2020-06-17 14:13:09 -0500", Successes:"0", TestCase:"navLaptops.script", Warnings:"0")
+2020-06-17 14:13:18.295 -0500	ABORTED		Execution Time 0:00:08 navLaptops.script

@@ -1,0 +1,86 @@
+{
+  "entries" : [
+    {
+      "message" : "Running checkout.script",
+      "timestamp" : "2020-08-21 11:08:03.096 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "IMAGESEARCHCOUNT = 3",
+      "timestamp" : "2020-08-21 11:08:03.146 -0500",
+      "identifier" : "set",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image CHECKOUT",
+      "identifier" : "imagefound",
+      "image" : "CHECKOUT",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-21 11:08:04.841 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-08-21 11:08:04.864 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (1465, 432)",
+      "identifier" : "imagefound",
+      "image" : "CHECKOUT",
+      "handlerLine" : 7,
+      "timestamp" : "2020-08-21 11:08:06.368 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "IMAGESEARCHCOUNT = 7",
+      "timestamp" : "2020-08-21 11:08:06.405 -0500",
+      "identifier" : "set",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_checkout",
+      "message" : "at (1202, 365)",
+      "identifier" : "click",
+      "image" : "CHECKOUT_terms",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-21 11:08:06.966 -0500",
+      "scriptName" : "checkout.script"
+    },
+    {
+      "handlerName" : "on_checkout",
+      "message" : "at (1465, 432)",
+      "identifier" : "click",
+      "image" : "CHECKOUT",
+      "handlerLine" : 6,
+      "timestamp" : "2020-08-21 11:08:08.115 -0500",
+      "scriptName" : "checkout.script"
+    },
+    {
+      "message" : "(Duration:\"5.024057\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-21 11:08:03 -0500\", Successes:\"1\", TestCase:\"checkout.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 11:08:08.123 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:05 checkout.script",
+      "timestamp" : "2020-08-21 11:08:08.295 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 11:08:03.099 -0500"
+}

@@ -1,0 +1,60 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-04-14 21:07:35.081 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Unable to Find Image(s): go2loginCommerce.png -- AutoUpdate engaged",
+      "timestamp" : "2020-04-14 21:07:38.484 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerLine" : 1,
+      "handlerName" : "on_go2login",
+      "timestamp" : "2020-04-14 21:07:46.786 -0500",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Found Alternate Image -- Using Discrepancy Search 21",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "\/Users\/mikefey\/Documents\/EggplantSuites\/DesktopExercise.suite\/Images\/go2loginCommerce.png",
+      "handlerLine" : 1,
+      "timestamp" : "2020-04-14 21:07:46.788 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1689, 1019)",
+      "identifier" : "click",
+      "image" : "\/Users\/mikefey\/Documents\/EggplantSuites\/DesktopExercise.suite\/Images\/go2loginCommerce.png",
+      "handlerLine" : 1,
+      "timestamp" : "2020-04-14 21:07:48.112 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"13.039374\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-14 21:07:35 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"1\")",
+      "timestamp" : "2020-04-14 21:07:48.122 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:13 go2Login.script",
+      "timestamp" : "2020-04-14 21:07:48.348 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-04-14 21:07:35.082 -0500"
+}

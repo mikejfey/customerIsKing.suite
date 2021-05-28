@@ -1,0 +1,4 @@
+﻿2021-05-11 19:05:32.151 -0500	START		Running API_model.script
+2021-05-11 19:05:32.674 -0500	EndTestCase		(Duration:"0.521979", Errors:"1", Exceptions:"0", StartTime:"2021-05-11 19:05:32 -0500", Successes:"0", TestCase:"API_model.script", Warnings:"0")
+2021-05-11 19:05:33.283 -0500	Error Screen	/Users/michafey/Documents/EggplantSuites/customerIsKing.suite/Results/API_model/20210511_190532.148/Screen_Error.png	CapturedErrorScreenshot	2D245366-B6D8-4B3E-86E6-8DB75BE776A1
+2021-05-11 19:05:33.284 -0500	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'respsonsebody' -- Execution Time 0:00:00 API_model.script

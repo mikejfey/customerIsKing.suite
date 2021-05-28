@@ -1,0 +1,87 @@
+{
+  "entries" : [
+    {
+      "message" : "Running mobileNavDesktop.script",
+      "timestamp" : "2020-08-14 11:49:08.066 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (294, 1017)",
+      "identifier" : "tap",
+      "image" : "CATEGORIES",
+      "handlerLine" : 2,
+      "timestamp" : "2020-08-14 11:49:10.045 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (169, 1121)",
+      "identifier" : "tap",
+      "image" : "Computers_mobile",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-14 11:49:13.951 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-14 11:49:14.015 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobileComputersImage",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-14 11:49:14.884 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-14 11:49:15.743 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (404, 1162)",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-14 11:49:19.969 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (404, 1162)",
+      "identifier" : "tap",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 7,
+      "timestamp" : "2020-08-14 11:49:20.278 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "message" : "(Duration:\"12.223012\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-14 11:49:08 -0500\", Successes:\"1\", TestCase:\"mobileNavDesktop.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-14 11:49:20.292 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:12 mobileNavDesktop.script",
+      "timestamp" : "2020-08-14 11:49:20.472 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-14 11:49:08.068 -0500"
+}

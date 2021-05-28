@@ -1,0 +1,249 @@
+{
+  "entries" : [
+    {
+      "message" : "Running add2Cart.script",
+      "timestamp" : "2020-08-21 12:24:01.941 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-21 12:24:02.093 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-21 12:24:02.314 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-21 12:24:03.192 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 12:24:07.465 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-21 12:24:08.331 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (256, 1371)",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 12:24:12.503 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_add2cart",
+      "message" : "at (256, 1371)",
+      "identifier" : "tap",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 14,
+      "timestamp" : "2020-08-21 12:24:12.967 -0500",
+      "scriptName" : "add2Cart.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-21 12:24:17.023 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-21 12:24:17.259 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-21 12:24:18.153 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 12:24:22.366 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-21 12:24:23.211 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 12:24:27.846 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-21 12:24:28.698 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (442, 867)",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 12:24:33.535 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_add2cart",
+      "message" : "found at (279, 240)",
+      "identifier" : "imagefound",
+      "image" : "mobile_HD_radio",
+      "handlerLine" : 17,
+      "timestamp" : "2020-08-21 12:24:33.751 -0500",
+      "scriptName" : "add2Cart.script"
+    },
+    {
+      "handlerName" : "on_add2cart",
+      "message" : "at (279, 240)",
+      "identifier" : "tap",
+      "image" : "mobile_HD_radio",
+      "handlerLine" : 18,
+      "timestamp" : "2020-08-21 12:24:34.618 -0500",
+      "scriptName" : "add2Cart.script"
+    },
+    {
+      "handlerName" : "on_add2cart",
+      "message" : "at (442, 867)",
+      "identifier" : "tap",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 22,
+      "timestamp" : "2020-08-21 12:24:35.761 -0500",
+      "scriptName" : "add2Cart.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-21 12:24:39.821 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_SHOPPINGCART",
+      "identifier" : "imagefound",
+      "image" : "Mobile_SHOPPINGCART",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-21 12:24:40.626 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped down from (414, 538) to (414, 1254)",
+      "timestamp" : "2020-08-21 12:24:41.491 -0500",
+      "identifier" : "swipedown",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_SHOPPINGCART",
+      "identifier" : "imagefound",
+      "image" : "Mobile_SHOPPINGCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 12:24:46.112 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped down from (414, 538) to (414, 1254)",
+      "timestamp" : "2020-08-21 12:24:46.973 -0500",
+      "identifier" : "swipedown",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_SHOPPINGCART",
+      "identifier" : "imagefound",
+      "image" : "Mobile_SHOPPINGCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 12:24:51.491 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped down from (414, 538) to (414, 1254)",
+      "timestamp" : "2020-08-21 12:24:52.358 -0500",
+      "identifier" : "swipedown",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (390, 502)",
+      "identifier" : "imagefound",
+      "image" : "Mobile_SHOPPINGCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-21 12:24:56.537 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "message" : "(Duration:\"54.661409\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-21 12:24:01 -0500\", Successes:\"1\", TestCase:\"add2Cart.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 12:24:56.605 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:54 add2Cart.script",
+      "timestamp" : "2020-08-21 12:24:56.700 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 12:24:01.943 -0500"
+}

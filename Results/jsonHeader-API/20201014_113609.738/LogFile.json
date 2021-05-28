@@ -1,0 +1,25 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running jsonHeader.apitest",
+      "timestamp" : "2020-10-14 11:36:09.740 -0500"
+    },
+    {
+      "identifier" : "LogWarning",
+      "message" : "Validation Warning: Empty request body.",
+      "timestamp" : "2020-10-14 11:36:09.745 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.41222\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-10-14 11:36:09 -0500\", Successes:\"0\", TestCase:\"jsonHeader.apitest\", Warnings:\"1\")",
+      "timestamp" : "2020-10-14 11:36:11.154 -0500"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "AssertionFailed  (assertion: api().statusCode is 200; actually: 405 IS NOT equal to 200) -- Execution Time 0:00:01 jsonHeader.apitest",
+      "timestamp" : "2020-10-14 11:36:11.279 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-14 11:36:09.741 -0500"
+}

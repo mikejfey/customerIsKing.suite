@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="launchNAU_script" package="customerIsKing.suite" timestamp="2020-08-24 11:42:16.048 -0500"
+ tests="1"  failures="0" errors="0" time="18.166144">
+  <properties>
+   <property name="RunDate" value="2020-08-24 11:42:16.048 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="launchNAU.script" assertions="1" status="success"  time="18.162598">
+  </testcase>
+ </testsuite>
+</testsuites>

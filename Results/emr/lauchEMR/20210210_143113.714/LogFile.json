@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/lauchEMR.script",
+      "timestamp" : "2021-02-10 14:31:13.717 -0600"
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Login with: admin",
+      "timestamp" : "2021-02-10 14:31:13.750 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Password is: pass",
+      "timestamp" : "2021-02-10 14:31:13.753 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-02-10 14:31:13.792 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "chrome.exe[returnKey]",
+      "timestamp" : "2021-02-10 14:31:14.757 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "[controlKey]l",
+      "timestamp" : "2021-02-10 14:31:15.491 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "http:\/\/localhost\/openemr\/[return]",
+      "timestamp" : "2021-02-10 14:31:16.874 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 9
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.641958\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-02-10 14:31:13 -0600\", Successes:\"1\", TestCase:\"emr\/lauchEMR.script\", Warnings:\"0\")",
+      "timestamp" : "2021-02-10 14:31:18.361 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:04 emr\/lauchEMR.script",
+      "timestamp" : "2021-02-10 14:31:18.508 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-02-10 14:31:13.718 -0600"
+}

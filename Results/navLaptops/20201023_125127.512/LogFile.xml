@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="navLaptops_script" package="customerIsKing.suite" timestamp="2020-10-23 12:51:27.512 -0500"
+ tests="1"  failures="2" errors="0" time="3.528681">
+  <properties>
+   <property name="RunDate" value="2020-10-23 12:51:27.512 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="navLaptops.script" assertions="1" status="failure"  time="3.524962">
+    <failure type="LogError" message="1422.00 does not match 1,700.00" />
+    <failure type="FAILURE" message="Script Error Number of Errors logged: 1 -- Execution Time 0:00:03 navLaptops.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

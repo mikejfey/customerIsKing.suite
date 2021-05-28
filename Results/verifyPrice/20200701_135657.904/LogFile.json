@@ -1,0 +1,34 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running verifyPrice.script",
+      "timestamp" : "2020-07-01 13:56:57.907 -0500"
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(685,1166,769,1194)",
+      "timestamp" : "2020-07-01 13:56:58.627 -0500"
+    },
+    {
+      "handlerName" : "on_verifyprice",
+      "message" : "$1,800.00",
+      "timestamp" : "2020-07-01 13:56:58.632 -0500",
+      "identifier" : "Log",
+      "scriptName" : "verifyPrice.script",
+      "handlerLine" : 2
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.174877\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-07-01 13:56:57 -0500\", Successes:\"0\", TestCase:\"verifyPrice.script\", Warnings:\"0\")",
+      "timestamp" : "2020-07-01 13:56:59.083 -0500"
+    },
+    {
+      "message" : "AssertionFailed  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00 ) -- Execution Time 0:00:01 verifyPrice.script",
+      "timestamp" : "2020-07-01 13:56:59.693 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-07-01 13:56:57.908 -0500"
+}

@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-08-21 10:26:03.133 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.314611\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-21 10:26:03 -0500\", Successes:\"0\", TestCase:\"LaunchMobileApp.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 10:26:03.452 -0500"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "Connection Failed Unable to connect to Server:127.0.0.1 on port:5900\\nConnection Error: 61:Connection refused -- Execution Time 0:00:00 LaunchMobileApp.script",
+      "timestamp" : "2020-08-21 10:26:03.512 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 10:26:03.136 -0500"
+}

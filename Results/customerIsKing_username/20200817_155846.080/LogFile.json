@@ -1,0 +1,77 @@
+{
+  "entries" : [
+    {
+      "message" : "Running customerIsKing_username.script",
+      "timestamp" : "2020-08-17 15:58:46.083 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-17 15:58:46.232 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-17 15:58:46.435 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-17 15:58:47.253 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (411, 1024)",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-17 15:58:51.935 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "at (411, 1024)",
+      "identifier" : "click",
+      "image" : "Mobile_Email",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-17 15:58:52.304 -0500",
+      "scriptName" : "customerIsKing_username.script"
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "mike.fey@eggplant.io",
+      "timestamp" : "2020-08-17 15:58:53.248 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "customerIsKing_username.script",
+      "handlerLine" : 10
+    },
+    {
+      "message" : "(Duration:\"7.167924\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-17 15:58:46 -0500\", Successes:\"1\", TestCase:\"customerIsKing_username.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-17 15:58:53.253 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:07 customerIsKing_username.script",
+      "timestamp" : "2020-08-17 15:58:53.355 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-17 15:58:46.084 -0500"
+}

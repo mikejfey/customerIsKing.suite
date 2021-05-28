@@ -1,0 +1,35 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-08-13 14:43:46.310 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (397, 411)",
+      "identifier" : "tap",
+      "image" : "LOGIN_mobile",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-13 14:43:47.299 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"0.992744\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-13 14:43:46 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 14:43:47.305 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 go2Login.script",
+      "timestamp" : "2020-08-13 14:43:47.497 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 14:43:46.312 -0500"
+}

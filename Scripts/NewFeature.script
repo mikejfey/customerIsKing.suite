@@ -1,0 +1,38 @@
+﻿
+to handle On_the_homepage
+	Log "Given"
+	FedexTracking
+	
+end On_the_homepage
+
+to handle click_login
+	Log "When"
+end click_login
+
+to handle should_be_logged_in
+	Log "Then"
+end should_be_logged_in
+
+to handle On_the_homepage_Log
+	
+end On_the_homepage_Log
+
+to handle Change_Currency
+	
+end Change_Currency
+
+to handle should_see_dollar_and_euro
+	
+end should_see_dollar_and_euro
+
+to handle pick_USA
+	
+end pick_USA
+
+to handle Pick_Dollar
+	
+end Pick_Dollar
+
+to handle prices_show_in_usd
+	
+end prices_show_in_usd

@@ -1,0 +1,77 @@
+{
+  "entries" : [
+    {
+      "message" : "Running customerIsKing_username.script",
+      "timestamp" : "2020-08-13 16:56:16.997 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-13 16:56:17.085 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 16:56:17.936 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 16:56:18.812 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 16:56:23.036 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 16:56:23.878 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 16:56:28.169 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "message" : "(Duration:\"11.423932\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-13 16:56:16 -0500\", Successes:\"0\", TestCase:\"customerIsKing_username.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 16:56:28.423 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:11 customerIsKing_username.script",
+      "timestamp" : "2020-08-13 16:56:28.427 -0500",
+      "identifier" : "ABORTED",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 16:56:16.999 -0500"
+}

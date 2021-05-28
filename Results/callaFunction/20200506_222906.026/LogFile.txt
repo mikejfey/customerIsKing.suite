@@ -1,0 +1,5 @@
+﻿2020-05-06 22:29:06.029 -0500	START		Running call.script
+2020-05-06 22:29:08.138 -0500	click	Email4Login	at (1089, 474)	6	on_email4login_entertext	Login2Commerce.script
+2020-05-06 22:29:08.947 -0500	typetext		(mike,[return])	8	on_email4login_entertext	Login2Commerce.script
+2020-05-06 22:29:09.635 -0500	EndTestCase		(Duration:"3.60414", Errors:"0", Exceptions:"0", StartTime:"2020-05-06 22:29:06 -0500", Successes:"1", TestCase:"call.script", Warnings:"0")
+2020-05-06 22:29:09.657 -0500	SUCCESS		Execution Time 0:00:03 call.script

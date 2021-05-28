@@ -1,0 +1,270 @@
+﻿<?xml version="1.0"?>
+<runHistory script="FeatureFile-Feature">
+ <run>
+  <RunDate>2020-06-08 16:03:24.163 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.011534</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_160324.163/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:03:41.155 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010401</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_160341.155/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:03:51.886 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010310</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_160351.886/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:04:26.006 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009896</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_160426.006/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:10:08.654 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010068</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161008.654/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:10:12.030 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010803</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161012.030/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:10:18.654 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009938</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161018.654/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:11:46.087 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009647</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161146.087/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:11:49.214 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.010351</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161149.214/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:11:56.374 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009024</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161156.374/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:13:10.037 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009645</Duration>
+  <Errors>0</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161310.037/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:14:26.689 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009913</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161426.689/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:14:43.502 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.002789</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200608_161443.502/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Gherkin compile error -- Parser errors:
+(26:1): expected: #EOF, #TableRow, #DocStringSeparator, #StepLine, #TagLine, #ScenarioLine, #ScenarioOutlineLine, #Comment, #Empty, got &#x27;I&#x27;m&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:15:03.250 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003003</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200608_161503.250/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Gherkin compile error -- Parser errors:
+(26:1): expected: #EOF, #TableRow, #DocStringSeparator, #StepLine, #TagLine, #ScenarioLine, #ScenarioOutlineLine, #Comment, #Empty, got &#x27;I&#x27;m&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:15:26.592 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.003175</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200608_161526.592/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Gherkin compile error -- Parser errors:
+(26:1): expected: #EOF, #TableRow, #DocStringSeparator, #StepLine, #TagLine, #ScenarioLine, #ScenarioOutlineLine, #Comment, #Empty, got &#x27;I&#x27;m&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:16:02.771 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>0.014384</Duration>
+  <Errors>0</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_161602.771/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:36:51.177 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>57.606131</Duration>
+  <Errors>3</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20200608_163651.177/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitforall Error - Not found: NopCommerce_Logo</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:38:49.199 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>8.392440</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20200608_163849.199/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-08 16:43:37.505 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>12.044238</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20200608_164337.505/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-09 08:36:53.684 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>9.334685</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20200609_083653.684/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-09 08:37:07.354 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>11.378188</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>8</Successes>
+  <LogFile>20200609_083707.354/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-10-14 12:54:43.273 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.448818</Duration>
+  <Errors>7</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>6</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20201014_125443.273/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

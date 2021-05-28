@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.apitest",
+      "timestamp" : "2020-09-28 14:41:22.311 -0500"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-09-28 14:41:23.134 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/Untitled.apitest",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "112.28",
+      "timestamp" : "2020-09-28 14:41:23.145 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/Untitled.apitest",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.202624\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-09-28 14:41:22 -0500\", Successes:\"1\", TestCase:\"Untitled.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-09-28 14:41:23.515 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 Untitled.apitest",
+      "timestamp" : "2020-09-28 14:41:23.569 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-09-28 14:41:22.312 -0500"
+}

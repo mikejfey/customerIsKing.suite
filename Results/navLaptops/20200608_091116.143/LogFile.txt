@@ -1,0 +1,9 @@
+﻿2020-06-08 09:11:16.145 -0500	START		Running navLap.script	1	execute string	(null)
+2020-06-08 09:11:16.669 -0500	click	Computers	at (535, 291)	8	on_navlap	navLap.script
+2020-06-08 09:11:17.612 -0500	click	delete/Laps	at (1096, 642)	9	on_navlap	navLap.script
+2020-06-08 09:11:18.408 -0500	click	delete/Pos	at (883, 537)	10	on_navlap	navLap.script
+2020-06-08 09:11:19.336 -0500	click	delete/PriceHightoLow	at (854, 636)	11	on_navlap	navLap.script
+2020-06-08 09:11:20.190 -0500	click	delete/Grid	at (1535, 538)	12	on_navlap	navLap.script
+2020-06-08 09:11:21.155 -0500	click	delete/Logo	at (393, 186)	13	on_navlap	navLap.script
+2020-06-08 09:11:21.158 -0500	EndTestCase		(Duration:"5.010373", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 09:11:16 -0500", Successes:"1", TestCase:"navLap.script", Warnings:"0")	1	execute string	(null)
+2020-06-08 09:11:21.197 -0500	SUCCESS		Execution Time 0:00:05 navLap.script	1	execute string	(null)

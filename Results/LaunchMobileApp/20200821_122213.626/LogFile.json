@@ -1,0 +1,51 @@
+{
+  "entries" : [
+    {
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-08-21 12:22:13.631 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "iphone:(null)",
+      "timestamp" : "2020-08-21 12:22:13.664 -0500",
+      "identifier" : "connect",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "remote",
+      "timestamp" : "2020-08-21 12:22:13.670 -0500",
+      "identifier" : "show",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Safari",
+      "timestamp" : "2020-08-21 12:22:13.951 -0500",
+      "identifier" : "launchapp",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 3
+    },
+    {
+      "message" : "(Duration:\"0.34179\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-21 12:22:13 -0500\", Successes:\"0\", TestCase:\"LaunchMobileApp.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 12:22:13.975 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "STUnknownMessage ERROR: No Such Command: 'waitfor10' -- Execution Time 0:00:00 LaunchMobileApp.script",
+      "timestamp" : "2020-08-21 12:22:14.394 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 12:22:13.632 -0500"
+}

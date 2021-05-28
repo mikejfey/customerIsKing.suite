@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-06-26 14:36:22.560 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "(Duration:\"0.004941\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-06-26 14:36:22 -0500\", Successes:\"0\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-26 14:36:22.567 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "STUnknownMessage ERROR: No Such Command: 'backtoto' -- Execution Time 0:00:00 go2Login.script",
+      "timestamp" : "2020-06-26 14:36:22.722 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-06-26 14:36:22.561 -0500"
+}

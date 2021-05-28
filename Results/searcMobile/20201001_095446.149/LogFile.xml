@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="searcMobile_script" package="customerIsKing.suite" timestamp="2020-10-01 09:54:46.149 -0500"
+ tests="1"  failures="0" errors="0" time="10.961473">
+  <properties>
+   <property name="RunDate" value="2020-10-01 09:54:46.149 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="searcMobile.script" assertions="1" status="success"  time="10.957761">
+  </testcase>
+ </testsuite>
+</testsuites>

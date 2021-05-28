@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="tds login">
+ <run>
+  <RunDate>2020-09-25 11:32:42.040 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>6.092542</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200925_113242.040/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

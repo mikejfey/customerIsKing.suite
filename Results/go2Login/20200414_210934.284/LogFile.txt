@@ -1,0 +1,4 @@
+﻿2020-04-14 21:09:34.286 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-04-14 21:09:35.109 -0500	click	go2loginCommerce	at (1216, 93)	1	on_go2login	go2Login.script
+2020-04-14 21:09:35.112 -0500	EndTestCase		(Duration:"0.823568", Errors:"0", Exceptions:"0", StartTime:"2020-04-14 21:09:34 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"0")	1	execute string	(null)
+2020-04-14 21:09:35.395 -0500	SUCCESS		Execution Time 0:00:00 go2Login.script	1	execute string	(null)

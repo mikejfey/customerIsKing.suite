@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Gherkin_Desktop_feature" package="customerIsKing.suite" timestamp="2020-10-14 12:54:43.273 -0500"
+ tests="9"  failures="7" errors="6" time="0.448818">
+  <properties>
+   <property name="RunDate" value="2020-10-14 12:54:43.273 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="I am connected to a device" assertions="1" status="(null)"  time="0.042878">
+  </testcase>
+  <testcase name="I enter the nopCommerce URL in "chrome"" assertions="1" status="(null)"  time="0.052796">
+  </testcase>
+  <testcase name="I should see the home page" assertions="1" status="(null)"  time="0.01947">
+  </testcase>
+  <testcase name="I should see the home page" assertions="1" status="(null)"  time="0.101189">
+  </testcase>
+  <testcase name="I click the Computer icon" assertions="1" status="(null)"  time="0.061241">
+  </testcase>
+  <testcase name="I should see the notebooks" assertions="1" status="(null)"  time="0.045211">
+  </testcase>
+  <testcase name="I close the browser" assertions="1" status="(null)"  time="0.048127">
+  </testcase>
+  <testcase name="The test should pass" assertions="1" status="(null)"  time="0.052462">
+  </testcase>
+  <testcase name="Gherkin_Desktop.feature" assertions="9" status="error"  time="0.443303">
+    <failure type="LogError" message="Error at step: I enter the nopCommerce URL in &quot;chrome&quot;" />
+    <failure type="LogError" message="Error at step: I should see the home page" />
+    <failure type="LogError" message="Error at step: I should see the home page" />
+    <failure type="LogError" message="Error at step: I click the Computer icon" />
+    <failure type="LogError" message="Error at step: I should see the notebooks" />
+    <failure type="LogError" message="Error at step: I close the browser" />
+    <failure type="FAILURE" message="3 scenarios (3 failed, 0 passed) 8 steps (6 failed, 0 skipped, 2 passed) Execution Time 0:00:00" />
+    <error type="Exception" message="Remote Connection Unavailable" />
+  </testcase>
+ </testsuite>
+</testsuites>

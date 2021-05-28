@@ -1,0 +1,13 @@
+﻿connect "android"
+Show remote
+//LaunchApp "Safari"
+WaitFor 10, "nop_logo_mobile"
+tap FoundImageLocation()
+
+
+
+
+
+
+
+

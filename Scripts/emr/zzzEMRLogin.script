@@ -1,0 +1,14 @@
+﻿put "admin" into username
+put "pass" into password
+log "Login with:" && username
+log "Password is:" && password
+wait 3
+
+TypeText username
+TypeText tabKey
+wait 3
+TypeText password
+TypeText returnkey
+wait 4 
+
+log "EMR was loaded" && the result

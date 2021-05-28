@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.apitest",
+      "timestamp" : "2020-06-24 12:41:25.857 -0500"
+    },
+    {
+      "identifier" : "LogError",
+      "message" : "An SSL error has occurred and a secure connection to the server cannot be made.",
+      "timestamp" : "2020-06-24 12:41:26.241 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.008524\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-06-24 12:41:25 -0500\", Successes:\"0\", TestCase:\"Untitled.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 12:41:26.867 -0500"
+    },
+    {
+      "message" : "Script Error Number of Errors logged: 1 -- Execution Time 0:00:01 Untitled.apitest",
+      "timestamp" : "2020-06-24 12:41:27.336 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 12:41:25.858 -0500"
+}

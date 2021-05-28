@@ -1,0 +1,67 @@
+{
+  "entries" : [
+    {
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-08-26 10:16:57.125 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "iphone:(null)",
+      "timestamp" : "2020-08-26 10:16:57.161 -0500",
+      "identifier" : "connect",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "remote",
+      "timestamp" : "2020-08-26 10:16:57.170 -0500",
+      "identifier" : "show",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Safari",
+      "timestamp" : "2020-08-26 10:16:57.181 -0500",
+      "identifier" : "launchapp",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "found at (193, 706)",
+      "identifier" : "waitfor",
+      "image" : "nop_logo_mobile",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-26 10:16:57.362 -0500",
+      "scriptName" : "LaunchMobileApp.script"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "at (193, 706)",
+      "timestamp" : "2020-08-26 10:16:57.977 -0500",
+      "identifier" : "tap",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 5
+    },
+    {
+      "message" : "(Duration:\"0.853447\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-26 10:16:57 -0500\", Successes:\"1\", TestCase:\"LaunchMobileApp.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-26 10:16:57.981 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 LaunchMobileApp.script",
+      "timestamp" : "2020-08-26 10:16:58.091 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-26 10:16:57.127 -0500"
+}

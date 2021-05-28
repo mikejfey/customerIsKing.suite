@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Gherkin_Desktop_feature" package="nopCommerce.suite" timestamp="2020-06-09 08:37:07.354 -0500"
+ tests="9"  failures="0" errors="0" time="11.378188">
+  <properties>
+   <property name="RunDate" value="2020-06-09 08:37:07.354 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="I am connected to a device" assertions="1" status="(null)"  time="0.065098">
+  </testcase>
+  <testcase name="I enter the nopCommerce URL in "chrome"" assertions="1" status="(null)"  time="2.729771">
+  </testcase>
+  <testcase name="I should see the home page" assertions="1" status="(null)"  time="4.18359">
+  </testcase>
+  <testcase name="I should see the home page" assertions="1" status="(null)"  time="0.329407">
+  </testcase>
+  <testcase name="I click the Computer icon" assertions="1" status="(null)"  time="0.783674">
+  </testcase>
+  <testcase name="I should see the notebooks" assertions="1" status="(null)"  time="0.741844">
+  </testcase>
+  <testcase name="I close the browser" assertions="1" status="(null)"  time="2.490632">
+  </testcase>
+  <testcase name="The test should pass" assertions="1" status="(null)"  time="0.039635">
+  </testcase>
+  <testcase name="Gherkin_Desktop.feature" assertions="8" status="success"  time="11.375312">
+  </testcase>
+ </testsuite>
+</testsuites>

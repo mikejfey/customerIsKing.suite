@@ -1,0 +1,81 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running mobileNavDesktop.script",
+      "timestamp" : "2020-08-13 13:55:32.389 -0500"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (194, 1023)",
+      "identifier" : "click",
+      "image" : "CATEGORIES",
+      "handlerLine" : 1,
+      "timestamp" : "2020-08-13 13:55:32.700 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (169, 1121)",
+      "identifier" : "click",
+      "image" : "Computers_mobile",
+      "handlerLine" : 2,
+      "timestamp" : "2020-08-13 13:55:33.660 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-13 13:55:33.678 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobileComputersImage",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 13:55:33.883 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 13:55:35.232 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (404, 1176)",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 13:55:39.430 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (404, 1176)",
+      "identifier" : "click",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 5,
+      "timestamp" : "2020-08-13 13:55:39.732 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"8.110994\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-13 13:55:32 -0500\", Successes:\"1\", TestCase:\"mobileNavDesktop.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 13:55:40.502 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:08 mobileNavDesktop.script",
+      "timestamp" : "2020-08-13 13:55:40.557 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 13:55:32.391 -0500"
+}

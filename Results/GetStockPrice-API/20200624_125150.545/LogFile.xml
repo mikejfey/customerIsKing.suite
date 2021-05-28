@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="API_apitest" package="nopCommerce.suite" timestamp="2020-06-24 12:51:50.545 -0500"
+ tests="1"  failures="0" errors="0" time="1.640018">
+  <properties>
+   <property name="RunDate" value="2020-06-24 12:51:50.545 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="API.apitest" assertions="1" status="success"  time="1.636973">
+  </testcase>
+ </testsuite>
+</testsuites>

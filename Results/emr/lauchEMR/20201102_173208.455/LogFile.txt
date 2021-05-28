@@ -1,0 +1,9 @@
+﻿2020-11-02 17:32:08.458 -0600	START		Running emr/lauchEMR.script	1	execute string	(null)
+2020-11-02 17:32:08.499 -0600	Log		Login with: admin	3	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:32:08.524 -0600	Log		Password is: pass	4	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:32:08.552 -0600	typetext		[windowsKey]r	5	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:32:09.396 -0600	typetext		chrome.exe[returnKey]	6	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:32:10.127 -0600	typetext		[controlKey]l	8	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:32:11.167 -0600	typetext		http://localhost/openemr/[return]	9	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:32:12.178 -0600	EndTestCase		(Duration:"3.717074", Errors:"0", Exceptions:"0", StartTime:"2020-11-02 17:32:08 -0600", Successes:"1", TestCase:"emr/lauchEMR.script", Warnings:"0")	1	execute string	(null)
+2020-11-02 17:32:12.317 -0600	SUCCESS		Execution Time 0:00:03 emr/lauchEMR.script	1	execute string	(null)

@@ -1,0 +1,50 @@
+{
+  "entries" : [
+    {
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-08-21 10:51:28.310 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "iphone:(null)",
+      "timestamp" : "2020-08-21 10:51:28.330 -0500",
+      "identifier" : "connect",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "remote",
+      "timestamp" : "2020-08-21 10:51:28.334 -0500",
+      "identifier" : "show",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Safari",
+      "timestamp" : "2020-08-21 10:51:28.341 -0500",
+      "identifier" : "launchapp",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 3
+    },
+    {
+      "message" : "(Duration:\"0.033392\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-21 10:51:28 -0500\", Successes:\"1\", TestCase:\"LaunchMobileApp.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 10:51:28.345 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 LaunchMobileApp.script",
+      "timestamp" : "2020-08-21 10:51:28.430 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 10:51:28.311 -0500"
+}

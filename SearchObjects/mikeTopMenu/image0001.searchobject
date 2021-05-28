@@ -1,0 +1,29 @@
+{
+  "ocrcapturestring" : "□",
+  "originalcapturelocation" : [
+    738,
+    912,
+    17,
+    17
+  ],
+  "createddate" : 1604606962.8321249,
+  "lastmodifieddate" : 1604606962.8321249,
+  "name" : "mikeTopMenu\/image0001",
+  "testlocationdata" : [
+    {
+      "name" : "mikeTopMenu\/image0001.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "□",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        738,
+        912,
+        17,
+        17
+      ]
+    }
+  ]
+}

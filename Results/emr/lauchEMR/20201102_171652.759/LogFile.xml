@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="emr/lauchEMR_script" package="customerIsKing.suite" timestamp="2020-11-02 17:16:52.759 -0600"
+ tests="1"  failures="0" errors="0" time="3.728466">
+  <properties>
+   <property name="RunDate" value="2020-11-02 17:16:52.759 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="emr/lauchEMR.script" assertions="1" status="success"  time="3.724746">
+  </testcase>
+ </testsuite>
+</testsuites>

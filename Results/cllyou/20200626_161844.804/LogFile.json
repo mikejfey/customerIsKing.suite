@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running cllyou.script",
+      "timestamp" : "2020-06-26 16:18:44.808 -0500"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "iPhone:(null)",
+      "timestamp" : "2020-06-26 16:18:44.871 -0500",
+      "identifier" : "connect",
+      "scriptName" : "cllyou.script",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"12.906066\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-06-26 16:18:44 -0500\", Successes:\"0\", TestCase:\"cllyou.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-26 16:18:57.716 -0500"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:12 cllyou.script",
+      "timestamp" : "2020-06-26 16:18:57.720 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-26 16:18:44.810 -0500"
+}

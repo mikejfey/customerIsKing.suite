@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LoadDataFromExcel_script" package="nopCommerce.suite" timestamp="2020-06-26 14:39:49.539 -0500"
+ tests="1"  failures="0" errors="0" time="1.256245">
+  <properties>
+   <property name="RunDate" value="2020-06-26 14:39:49.539 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="LoadDataFromExcel.script" assertions="1" status="success"  time="1.252653">
+  </testcase>
+ </testsuite>
+</testsuites>

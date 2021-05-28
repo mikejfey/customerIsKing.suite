@@ -1,0 +1,5 @@
+﻿2021-03-25 11:52:06.819 -0500	START		Running incorta.script
+2021-03-25 11:52:07.300 -0500	doubleclick	Email-field	at (1111, 556)	1	on_incorta	incorta.script
+2021-03-25 11:52:08.188 -0500	typetext		username	3	on_incorta	incorta.script
+2021-03-25 11:52:08.752 -0500	EndTestCase		(Duration:"1.931107", Errors:"0", Exceptions:"0", StartTime:"2021-03-25 11:52:06 -0500", Successes:"1", TestCase:"incorta.script", Warnings:"0")
+2021-03-25 11:52:08.909 -0500	SUCCESS		Execution Time 0:00:01 incorta.script

@@ -1,0 +1,43 @@
+{
+  "entries" : [
+    {
+      "message" : "Running mobile_add2Cart.script",
+      "timestamp" : "2020-08-13 16:55:21.572 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-13 16:55:21.778 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 16:55:22.024 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "message" : "(Duration:\"0.478106\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-13 16:55:21 -0500\", Successes:\"0\", TestCase:\"mobile_add2Cart.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 16:55:22.052 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 mobile_add2Cart.script",
+      "timestamp" : "2020-08-13 16:55:22.056 -0500",
+      "identifier" : "ABORTED",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 16:55:21.574 -0500"
+}

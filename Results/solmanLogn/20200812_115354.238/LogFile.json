@@ -1,0 +1,63 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running solmanLogn.script",
+      "timestamp" : "2020-08-12 11:53:54.240 -0500"
+    },
+    {
+      "handlerName" : "on_solmanlogn",
+      "message" : "at (849, 655)",
+      "identifier" : "click",
+      "image" : "User",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-12 11:53:54.847 -0500",
+      "scriptName" : "solmanLogn.script"
+    },
+    {
+      "handlerName" : "on_solmanlogn",
+      "message" : "SMITHDE",
+      "timestamp" : "2020-08-12 11:53:55.641 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "solmanLogn.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_solmanlogn",
+      "message" : "at (867, 697)",
+      "identifier" : "click",
+      "image" : "Password_0001",
+      "handlerLine" : 10,
+      "timestamp" : "2020-08-12 11:53:56.804 -0500",
+      "scriptName" : "solmanLogn.script"
+    },
+    {
+      "handlerName" : "on_solmanlogn",
+      "message" : "Solman72",
+      "timestamp" : "2020-08-12 11:53:57.605 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "solmanLogn.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_solmanlogn",
+      "message" : "at (932, 833)",
+      "identifier" : "click",
+      "image" : "solmanLogin",
+      "handlerLine" : 12,
+      "timestamp" : "2020-08-12 11:53:58.798 -0500",
+      "scriptName" : "solmanLogn.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.222071\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-12 11:53:54 -0500\", Successes:\"1\", TestCase:\"solmanLogn.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-12 11:53:59.464 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 solmanLogn.script",
+      "timestamp" : "2020-08-12 11:53:59.539 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-12 11:53:54.241 -0500"
+}

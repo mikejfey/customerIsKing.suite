@@ -1,0 +1,103 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running launchPerf.script",
+      "timestamp" : "2021-03-09 08:39:49.135 -0600"
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "daiserver2:(null)",
+      "timestamp" : "2021-03-09 08:39:49.374 -0600",
+      "identifier" : "connect",
+      "scriptName" : "launchPerf.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "remote",
+      "timestamp" : "2021-03-09 08:39:49.382 -0600",
+      "identifier" : "show",
+      "scriptName" : "launchPerf.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "at (1920, 1080)",
+      "timestamp" : "2021-03-09 08:39:49.397 -0600",
+      "identifier" : "moveto",
+      "scriptName" : "launchPerf.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "found at (28, 1066)",
+      "identifier" : "waitfor",
+      "image" : "WindowsLogo",
+      "handlerLine" : 5,
+      "timestamp" : "2021-03-09 08:39:49.659 -0600",
+      "scriptName" : "launchPerf.script"
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2021-03-09 08:39:51.729 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "launchPerf.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "found at (45, 892)",
+      "identifier" : "waitfor",
+      "image" : "RunWindowLogo",
+      "handlerLine" : 9,
+      "timestamp" : "2021-03-09 08:39:52.723 -0600",
+      "scriptName" : "launchPerf.script"
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "chrome http:\/\/nopcommerce.testplant.com[return]",
+      "timestamp" : "2021-03-09 08:39:53.679 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "launchPerf.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "found at (392, 213)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 11,
+      "timestamp" : "2021-03-09 08:39:53.884 -0600",
+      "scriptName" : "launchPerf.script"
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "time to load homepage 0.198997 seconds",
+      "timestamp" : "2021-03-09 08:39:53.922 -0600",
+      "identifier" : "Log",
+      "scriptName" : "launchPerf.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_launchperf",
+      "message" : "Writing to file",
+      "timestamp" : "2021-03-09 08:39:53.948 -0600",
+      "identifier" : "Log",
+      "scriptName" : "launchPerf.script",
+      "handlerLine" : 14
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.710746\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-03-09 08:39:49 -0600\", Successes:\"1\", TestCase:\"launchPerf.script\", Warnings:\"0\")",
+      "timestamp" : "2021-03-09 08:39:54.847 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 launchPerf.script",
+      "timestamp" : "2021-03-09 08:39:55.002 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-03-09 08:39:49.136 -0600"
+}

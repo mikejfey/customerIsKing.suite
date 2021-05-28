@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Login2Commerce">
+ <run>
+  <RunDate>2020-06-08 12:13:51.886 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.109230</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200608_121351.886/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

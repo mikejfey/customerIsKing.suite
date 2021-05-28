@@ -1,0 +1,123 @@
+{
+  "entries" : [
+    {
+      "message" : "Running checkout_flow.script",
+      "timestamp" : "2020-08-19 08:55:16.944 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (975, 628)",
+      "identifier" : "click",
+      "image" : "Checkout_CONTINUE",
+      "handlerLine" : 1,
+      "timestamp" : "2020-08-19 08:55:17.881 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (967, 763)",
+      "identifier" : "click",
+      "image" : "Checkout_CONTINUE",
+      "handlerLine" : 2,
+      "timestamp" : "2020-08-19 08:55:19.056 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (967, 792)",
+      "identifier" : "click",
+      "image" : "Checkout_CONTINUE",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-19 08:55:20.142 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (913, 732)",
+      "identifier" : "click",
+      "image" : "OCreditCard",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-19 08:55:21.279 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (967, 842)",
+      "identifier" : "click",
+      "image" : "Checkout_CONTINUE",
+      "handlerLine" : 5,
+      "timestamp" : "2020-08-19 08:55:22.318 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (822, 776)",
+      "identifier" : "click",
+      "image" : "Cardholdername",
+      "handlerLine" : 6,
+      "timestamp" : "2020-08-19 08:55:23.292 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "5555444433332222",
+      "timestamp" : "2020-08-19 08:55:24.189 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "checkout_flow.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (882, 871)",
+      "identifier" : "click",
+      "image" : "Expirationdate",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-19 08:55:25.386 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (879, 1008)",
+      "identifier" : "click",
+      "image" : "Expirationdate_year",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-19 08:55:26.615 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "at (798, 922)",
+      "identifier" : "click",
+      "image" : "Cardcode",
+      "handlerLine" : 10,
+      "timestamp" : "2020-08-19 08:55:27.844 -0500",
+      "scriptName" : "checkout_flow.script"
+    },
+    {
+      "handlerName" : "on_checkout_flow",
+      "message" : "321",
+      "timestamp" : "2020-08-19 08:55:28.584 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "checkout_flow.script",
+      "handlerLine" : 11
+    },
+    {
+      "message" : "(Duration:\"11.642777\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-19 08:55:16 -0500\", Successes:\"1\", TestCase:\"checkout_flow.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-19 08:55:28.589 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:11 checkout_flow.script",
+      "timestamp" : "2020-08-19 08:55:28.633 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-19 08:55:16.946 -0500"
+}

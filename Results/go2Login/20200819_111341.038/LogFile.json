@@ -1,0 +1,61 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-08-19 11:13:41.040 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-08-19 11:13:41.108 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (392, 181)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-19 11:13:45.327 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "found at (86, 50)",
+      "identifier" : "waitfor",
+      "image" : "RefreshButton.png",
+      "handlerLine" : 6,
+      "timestamp" : "2020-08-19 11:13:45.382 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1278, 92)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 7,
+      "timestamp" : "2020-08-19 11:13:45.968 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"4.931292\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-19 11:13:41 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-19 11:13:45.974 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:04 go2Login.script",
+      "timestamp" : "2020-08-19 11:13:46.006 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-19 11:13:41.042 -0500"
+}

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0"?>
+<runHistory script="emr/Validate">
+ <run>
+  <RunDate>2020-11-02 17:17:05.050 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.019624</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171705.050/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: miketopMenu/monday_TL</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:17:49.790 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.044677</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171749.790/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: miketopMenu/monday_TL</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:19:48.445 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.049994</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171948.445/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- readtext Error - Could Not Open Image: miketopMenu/monday_TL</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:22:30.044 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.406977</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_172230.044/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:22:56.433 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.436981</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_172256.433/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:25:20.638 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.721181</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_172520.638/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:25:51.469 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.908354</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_172551.469/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:27:03.768 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.049839</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_172703.768/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+</runHistory>

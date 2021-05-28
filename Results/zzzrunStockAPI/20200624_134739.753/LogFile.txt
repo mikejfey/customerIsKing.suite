@@ -1,0 +1,5 @@
+﻿2020-06-24 13:47:39.760 -0500	START		Running zzzrunStockAPI.script
+2020-06-24 13:47:40.545 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	3	on_<initialhandler>	
+2020-06-24 13:47:40.563 -0500	Log		"low":6.14	11	on_<initialhandler>	
+2020-06-24 13:47:44.248 -0500	EndTestCase		(Duration:"4.483582", Errors:"1", Exceptions:"0", StartTime:"2020-06-24 13:47:39 -0500", Successes:"1", TestCase:"zzzrunStockAPI.script", Warnings:"0")
+2020-06-24 13:47:44.833 -0500	FAILURE	Screen_Error.png	STUnknownMessage ERROR: 'params' was called as a Command, but is only available as a Function -- Execution Time 0:00:04 zzzrunStockAPI.script

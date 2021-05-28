@@ -1,0 +1,66 @@
+{
+  "entries" : [
+    {
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-06-29 08:25:47.728 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-29 08:25:47.981 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps.png",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-29 08:25:49.204 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-06-29 08:25:49.922 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(685,263,769,291)",
+      "timestamp" : "2020-06-29 08:25:51.205 -0500"
+    },
+    {
+      "handlerName" : "on_verifyprice",
+      "message" : "$1,800.00",
+      "timestamp" : "2020-06-29 08:25:51.207 -0500",
+      "identifier" : "Log",
+      "scriptName" : "verifyPrice.script",
+      "handlerLine" : 2
+    },
+    {
+      "message" : "(Duration:\"3.484906\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-06-29 08:25:47 -0500\", Successes:\"0\", TestCase:\"navLaptops.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-29 08:25:51.215 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "AssertionFailed  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00) -- Execution Time 0:00:03 navLaptops.script",
+      "timestamp" : "2020-06-29 08:25:51.741 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-06-29 08:25:47.730 -0500"
+}

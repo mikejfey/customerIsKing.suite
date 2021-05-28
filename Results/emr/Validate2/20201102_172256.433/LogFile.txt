@@ -1,0 +1,6 @@
+﻿2020-11-02 17:22:56.435 -0600	START		Running emr/Validate.script
+2020-11-02 17:22:57.046 -0600	readtext		(283,223,346,243)
+2020-11-02 17:22:57.054 -0600	Log			3	on_emr_validate	emr/Validate.script
+2020-11-02 17:22:57.108 -0600	LogError		 not match Wednesday	9	on_emr_validate	emr/Validate.script
+2020-11-02 17:22:57.870 -0600	EndTestCase		(Duration:"1.433617", Errors:"1", Exceptions:"0", StartTime:"2020-11-02 17:22:56 -0600", Successes:"0", TestCase:"emr/Validate.script", Warnings:"0")
+2020-11-02 17:22:58.083 -0600	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:01 emr/Validate.script

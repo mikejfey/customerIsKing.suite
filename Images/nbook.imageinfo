@@ -1,0 +1,21 @@
+﻿{
+    Bitmask = {length = 4466, bytes = 0xffffffff ffffffff ffffffff ffffffff ... ffffffff ffffff01 };
+    BitmaskSize = "243,147";
+    CaptureDate = "2020-06-30 17:46:18 +0000";
+    CaptureHost = "windows_sut";
+    CaptureScreenSize =     (
+        1920,
+        1440
+    );
+    HasAlpha = 1;
+    HotSpotX = 126;
+    HotSpotY = 37;
+    ImageDescription = {length = 0, bytes = 0x};
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1000;
+    OriginalLocationY = 546;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

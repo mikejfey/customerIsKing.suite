@@ -1,0 +1,80 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running virtu.script",
+      "timestamp" : "2020-10-28 12:53:02.778 -0500"
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "at (292, 1080)",
+      "identifier" : "tap",
+      "image" : "Searchstore_1",
+      "handlerLine" : 1,
+      "timestamp" : "2020-10-28 12:53:03.089 -0500",
+      "scriptName" : "virtu.script"
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "camera",
+      "timestamp" : "2020-10-28 12:53:03.864 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "virtu.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "at (850, 1088)",
+      "identifier" : "tap",
+      "image" : "SEARCH_1",
+      "handlerLine" : 3,
+      "timestamp" : "2020-10-28 12:53:04.756 -0500",
+      "scriptName" : "virtu.script"
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "Swiped up from (540, 1554) to (540, 666)",
+      "timestamp" : "2020-10-28 12:53:05.726 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "virtu.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "Swiped up from (540, 1554) to (540, 666)",
+      "timestamp" : "2020-10-28 12:53:06.692 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "virtu.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "Unable to Find Image(s): CATEGORIE.png -- AutoUpdate engaged",
+      "timestamp" : "2020-10-28 12:53:10.488 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "virtu.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "No Image Found On Screen: \"CATEGORIE\"",
+      "identifier" : "Exception",
+      "image" : "CATEGORIE",
+      "handlerLine" : 6,
+      "timestamp" : "2020-10-28 12:53:24.209 -0500",
+      "scriptName" : "virtu.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"21.919498\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-10-28 12:53:02 -0500\", Successes:\"0\", TestCase:\"virtu.script\", Warnings:\"1\")",
+      "timestamp" : "2020-10-28 12:53:24.699 -0500"
+    },
+    {
+      "message" : "Image Not Found tap Error - No Image Found On Screen: \"CATEGORIE\" -- Execution Time 0:00:21 virtu.script",
+      "timestamp" : "2020-10-28 12:53:24.932 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-10-28 12:53:02.779 -0500"
+}

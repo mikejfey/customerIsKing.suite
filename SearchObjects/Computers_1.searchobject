@@ -1,0 +1,36 @@
+{
+  "lastmodifieddate" : 1603222208.7302508,
+  "ocrcapturestring" : "Computers",
+  "testlocationdata" : [
+    {
+      "name" : "Computers_1.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Computers",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        447,
+        260,
+        139,
+        41
+      ]
+    }
+  ],
+  "createddate" : 1603222208.7302508,
+  "lastfoundlocation" : [
+    447,
+    292,
+    139,
+    41
+  ],
+  "originalcapturelocation" : [
+    447,
+    260,
+    139,
+    41
+  ],
+  "lastfounddate" : 1621871289.2844501,
+  "name" : "Computers_1"
+}

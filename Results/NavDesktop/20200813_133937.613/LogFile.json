@@ -1,0 +1,132 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running mobileNavDesktop.script",
+      "timestamp" : "2020-08-13 13:39:37.616 -0500"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (194, 1023)",
+      "identifier" : "click",
+      "image" : "CATEGORIES",
+      "handlerLine" : 1,
+      "timestamp" : "2020-08-13 13:39:38.440 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (169, 1121)",
+      "identifier" : "click",
+      "image" : "Computers_mobile",
+      "handlerLine" : 2,
+      "timestamp" : "2020-08-13 13:39:40.385 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "SWIPESPEED = 80",
+      "timestamp" : "2020-08-13 13:39:40.433 -0500",
+      "identifier" : "set",
+      "scriptName" : "mobileNavDesktop.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobileComputersImage",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 13:39:41.141 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 13:39:41.279 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "mobileNavDesktop.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobileComputersImage",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 13:39:43.643 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 13:39:43.782 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "mobileNavDesktop.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobileComputersImage",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 13:39:46.098 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 13:39:46.240 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "mobileNavDesktop.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobileComputersImage",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 13:39:48.510 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 13:39:48.687 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "mobileNavDesktop.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobileComputersImage",
+      "identifier" : "imagefound",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 13:39:50.979 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Image not found - Image not found while scrolling up.",
+      "timestamp" : "2020-08-13 13:39:51.003 -0500",
+      "identifier" : "Throw",
+      "scriptName" : "mobileNavDesktop.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"14.080445\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-13 13:39:37 -0500\", Successes:\"0\", TestCase:\"mobileNavDesktop.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 13:39:51.698 -0500"
+    },
+    {
+      "message" : "Image not found Image not found while scrolling up. -- Execution Time 0:00:14 mobileNavDesktop.script",
+      "timestamp" : "2020-08-13 13:39:51.842 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 13:39:37.617 -0500"
+}

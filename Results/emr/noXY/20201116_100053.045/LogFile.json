@@ -1,0 +1,115 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/noXY.script",
+      "timestamp" : "2020-11-16 10:00:53.047 -0600"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "Unable to Find Image(s): nhl__A.png -- AutoUpdate engaged",
+      "timestamp" : "2020-11-16 10:00:56.617 -0600",
+      "identifier" : "LogWarning",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerLine" : 2,
+      "handlerName" : "on_emr_noxy",
+      "timestamp" : "2020-11-16 10:00:57.803 -0600",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "contextInfo" : "\"Name\" = \"Scaling Search\"; \"Info\" = \"0.9500\"; ",
+      "message" : "Found Alternate Image -- Using Scaling Search 0.9500. Applying change to image.",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "zzzz\/nhl__A.png",
+      "otherProperties" : {
+        "Info" : "0.9500",
+        "foundRect" : [
+          828,
+          594,
+          38,
+          38
+        ],
+        "AutoUpdateApplied" : true,
+        "Name" : "Scaling Search"
+      },
+      "handlerLine" : 2,
+      "timestamp" : "2020-11-16 10:00:57.828 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(810,646,880,667)",
+      "timestamp" : "2020-11-16 10:00:58.692 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.cdm-",
+      "timestamp" : "2020-11-16 10:00:58.699 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "[15,17]",
+      "timestamp" : "2020-11-16 10:00:58.714 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (810, 646)",
+      "identifier" : "drag",
+      "image" : "zzzz\/nhl__A",
+      "handlerLine" : 9,
+      "timestamp" : "2020-11-16 10:00:59.170 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (1131, 489)",
+      "identifier" : "drop",
+      "image" : "zzzz\/AIAgentBookmark",
+      "handlerLine" : 10,
+      "timestamp" : "2020-11-16 10:01:00.893 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(1090,518,1160,539)",
+      "timestamp" : "2020-11-16 10:01:02.634 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.cdm-",
+      "timestamp" : "2020-11-16 10:01:02.639 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"10.027276\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-16 10:00:53 -0600\", Successes:\"1\", TestCase:\"emr\/noXY.script\", Warnings:\"1\")",
+      "timestamp" : "2020-11-16 10:01:03.076 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:10 emr\/noXY.script",
+      "timestamp" : "2020-11-16 10:01:03.184 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-11-16 10:00:53.048 -0600"
+}

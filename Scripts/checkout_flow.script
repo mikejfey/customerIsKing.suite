@@ -1,0 +1,29 @@
+﻿params device
+if device = "desktop"
+	
+	Click (Image:"Checkout_CONTINUE", WaitFor:5)
+	Click (Image:"Checkout_CONTINUE", WaitFor:5)
+	Click (Image:"Checkout_CONTINUE", WaitFor:5)
+	Click (Image:"OCreditCard", WaitFor:3.5)
+	Click (Image:"Checkout_CONTINUE", WaitFor:5)
+	Click "Cardholdername"
+	typetext "Mike Fey"
+	Click "Cardnumber_web"
+	typetext "5555444433332222"
+	Click "Expirationdate"
+	Click "Expirationdate_year"
+	Click "Cardcode"
+	typetext "321"
+else
+	MobileUtilities.ScrollUntilFound "CONTINUE_checkout_mobile", "up"
+	tap (image:"CONTINUE_checkout_mobile", waitFor:5)
+	tap (image:"CONTINUE_checkout_mobile", waitFor:5)
+	tap (image:"CONTINUE_checkout_mobile", waitFor:5)
+	//SwipeUP
+	tap (image:"CONTINUE_checkout_mobile", waitFor:5)
+	tap (image:"CONTINUE_checkout_mobile", waitFor:5)
+	MobileUtilities.ScrollUntilFound "CONFIRM_order_mobile", "up"
+	tap (image:"CONFIRM_order_mobile", WaitFor: 5)
+	
+	
+end if

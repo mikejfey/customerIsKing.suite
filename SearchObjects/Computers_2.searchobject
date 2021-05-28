@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1617911054.8643341,
+  "ocrcapturestring" : "Computers",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "daiserver2",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "daiserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Computers",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_50",
+        "HotSpot" : "[54,14]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Computers_2.png",
+      "capturerect" : [
+        481,
+        311,
+        90,
+        21
+      ]
+    }
+  ],
+  "createddate" : 1617911054.8643332,
+  "lastfoundlocation" : [
+    481,
+    311,
+    90,
+    21
+  ],
+  "originalcapturelocation" : [
+    481,
+    311,
+    90,
+    21
+  ],
+  "lastfounddate" : 1621871289.3094139,
+  "name" : "Computers_2"
+}

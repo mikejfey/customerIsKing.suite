@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="go2Login_script" package="customerIsKing.suite" timestamp="2020-11-02 16:58:40.809 -0600"
+ tests="1"  failures="0" errors="0" time="70.855303">
+  <properties>
+   <property name="RunDate" value="2020-11-02 16:58:40.809 -0600"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="go2Login.script" assertions="1" status="error"  time="70.851754">
+    <error type="Exception" message="No Image Found On Screen: &quot;LOGIN_mobile&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

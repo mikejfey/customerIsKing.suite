@@ -1,0 +1,147 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="LoadDataFromExcel">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>9</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-06-26 14:31:06 -0500</FirstRun>
+  <LastRun>2020-06-30 12:51:13 -0500</LastRun>
+  <TotalTimeOnSuccess>1.875928</TotalTimeOnSuccess>
+ </script>
+ <script name="navLaptops">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>50</NumberOfRuns>
+  <NumberOfFails>39</NumberOfFails>
+  <FirstRun>2020-06-08 09:05:12 -0500</FirstRun>
+  <LastRun>2020-08-12 14:21:10 -0500</LastRun>
+  <TotalTimeOnSuccess>67.605138</TotalTimeOnSuccess>
+ </script>
+ <script name="callaFunction">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>15</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2020-05-06 22:28:08 -0500</FirstRun>
+  <LastRun>2020-05-06 22:41:48 -0500</LastRun>
+  <TotalTimeOnSuccess>87.338925</TotalTimeOnSuccess>
+ </script>
+ <script name="go2Login">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>225</NumberOfRuns>
+  <NumberOfFails>23</NumberOfFails>
+  <FirstRun>2020-04-14 17:28:04 -0500</FirstRun>
+  <LastRun>2020-08-17 16:00:32 -0500</LastRun>
+  <TotalTimeOnSuccess>527.113053</TotalTimeOnSuccess>
+ </script>
+ <script name="mobile_add2Cart">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-08-13 15:01:36 -0500</FirstRun>
+  <LastRun>2020-08-17 15:59:14 -0500</LastRun>
+  <TotalTimeOnSuccess>576.112895</TotalTimeOnSuccess>
+ </script>
+ <script name="Utilities">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-04-14 12:58:41 -0500</FirstRun>
+  <LastRun>2020-06-25 15:49:44 -0500</LastRun>
+  <TotalTimeOnSuccess>0.008209</TotalTimeOnSuccess>
+ </script>
+ <script name="mobileNavDesktop">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>12</NumberOfFails>
+  <FirstRun>2020-08-13 12:59:02 -0500</FirstRun>
+  <LastRun>2020-08-17 15:59:01 -0500</LastRun>
+  <TotalTimeOnSuccess>156.493299</TotalTimeOnSuccess>
+ </script>
+ <script name="checkout_flow">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-08-13 15:47:29 -0500</FirstRun>
+  <LastRun>2020-08-17 16:00:51 -0500</LastRun>
+  <TotalTimeOnSuccess>93.064662</TotalTimeOnSuccess>
+ </script>
+ <script name="Login2Commerce">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-06-08 12:13:51 -0500</FirstRun>
+  <LastRun>2020-06-08 12:13:51 -0500</LastRun>
+  <TotalTimeOnSuccess>1.109230</TotalTimeOnSuccess>
+ </script>
+ <script name="CustomerKing_pwd">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>28</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-08-13 14:29:59 -0500</FirstRun>
+  <LastRun>2020-08-17 16:00:42 -0500</LastRun>
+  <TotalTimeOnSuccess>33.332377</TotalTimeOnSuccess>
+ </script>
+ <script name="LaunchMobileApp">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>43</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-08-13 12:46:25 -0500</FirstRun>
+  <LastRun>2020-08-17 15:58:26 -0500</LastRun>
+  <TotalTimeOnSuccess>700.766098</TotalTimeOnSuccess>
+ </script>
+ <script name="go2Cart">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-08-13 15:47:25 -0500</FirstRun>
+  <LastRun>2020-08-17 16:00:47 -0500</LastRun>
+  <TotalTimeOnSuccess>4.071460</TotalTimeOnSuccess>
+ </script>
+ <script name="customerIsKing_username">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>32</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2020-08-13 14:26:14 -0500</FirstRun>
+  <LastRun>2020-08-17 16:00:39 -0500</LastRun>
+  <TotalTimeOnSuccess>176.558268</TotalTimeOnSuccess>
+ </script>
+ <script name="verifyPrice">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>16</NumberOfFails>
+  <FirstRun>2020-07-01 13:56:02 -0500</FirstRun>
+  <LastRun>2020-07-14 11:10:23 -0500</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="GetStockPrice-API">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>64</NumberOfRuns>
+  <NumberOfFails>9</NumberOfFails>
+  <FirstRun>2020-06-24 12:29:38 -0500</FirstRun>
+  <LastRun>2020-06-24 14:58:11 -0500</LastRun>
+  <TotalTimeOnSuccess>219.966240</TotalTimeOnSuccess>
+ </script>
+ <script name="checkout">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-08-13 15:32:01 -0500</FirstRun>
+  <LastRun>2020-08-19 08:15:44 -0500</LastRun>
+  <TotalTimeOnSuccess>21.099137</TotalTimeOnSuccess>
+ </script>
+ <script name="Gherkin_Desktop-Feature">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2020-06-08 16:36:51 -0500</FirstRun>
+  <LastRun>2020-06-09 08:37:07 -0500</LastRun>
+  <TotalTimeOnSuccess>41.149551</TotalTimeOnSuccess>
+ </script>
+ <script name="callaFunctionyou">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-06-26 15:42:42 -0500</FirstRun>
+  <LastRun>2020-06-26 15:43:26 -0500</LastRun>
+  <TotalTimeOnSuccess>64.267314</TotalTimeOnSuccess>
+ </script>
+</statistics>

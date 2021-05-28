@@ -1,0 +1,10 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2021-05-24 10:49:03
+  From session:  smokeNav
+  Captured on:  2021-05-24 10:47:39
+  From server:  daiserver2
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click (Image:"Computers_0001", WaitFor:4)
+Click (Image:"Electronics_0001", WaitFor:4)
+Click (Image:"Apparel", WaitFor:4)

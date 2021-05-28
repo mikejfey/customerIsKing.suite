@@ -1,0 +1,78 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/noXY.script",
+      "timestamp" : "2020-11-16 10:01:55.652 -0600"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(810,646,880,667)",
+      "timestamp" : "2020-11-16 10:01:56.246 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.com",
+      "timestamp" : "2020-11-16 10:01:56.259 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "[15,17]",
+      "timestamp" : "2020-11-16 10:01:56.264 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (810, 646)",
+      "identifier" : "drag",
+      "image" : "zzzz\/nhl__A",
+      "handlerLine" : 9,
+      "timestamp" : "2020-11-16 10:01:56.805 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (1131, 489)",
+      "identifier" : "drop",
+      "image" : "zzzz\/AIAgentBookmark",
+      "handlerLine" : 10,
+      "timestamp" : "2020-11-16 10:01:58.564 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(1090,518,1160,539)",
+      "timestamp" : "2020-11-16 10:02:00.242 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.ccU^",
+      "timestamp" : "2020-11-16 10:02:00.246 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.023702\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-16 10:01:55 -0600\", Successes:\"1\", TestCase:\"emr\/noXY.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-16 10:02:00.677 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 emr\/noXY.script",
+      "timestamp" : "2020-11-16 10:02:00.775 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-11-16 10:01:55.653 -0600"
+}

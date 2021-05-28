@@ -1,0 +1,14 @@
+﻿2020-11-02 17:57:43.274 -0600	START		Running emr/Validate.script	1	execute string	(null)
+2020-11-02 17:57:43.302 -0600	connect		daiserver2:(null)	1	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:43.355 -0600	typetext		[windowsKey]r	2	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:44.076 -0600	waitfor	RunWindowLogo	found at (45, 892)	3	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:44.610 -0600	typetext		chrome http://nopcommerce.testplant.com[return]	4	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:45.746 -0600	waitfor	NopCommerce_Logo	found at (392, 181)	5	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:45.952 -0600	click	Computers	at (535, 291)	8	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:46.756 -0600	click	Laptops/Laps.png	at (1096, 642)	9	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:47.471 -0600	typetext		[pageDown]	10	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:48.863 -0600	readtext		(699,321,769,347)
+2020-11-02 17:57:48.881 -0600	Log		1,800 00	12	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:48.937 -0600	LogError		1,800 00 does not match 1650.00	25	on_emr_validate	emr/Validate.script
+2020-11-02 17:57:48.966 -0600	EndTestCase		(Duration:"5.68989", Errors:"1", Exceptions:"0", StartTime:"2020-11-02 17:57:43 -0600", Successes:"0", TestCase:"emr/Validate.script", Warnings:"0")	1	execute string	(null)
+2020-11-02 17:57:49.395 -0600	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:05 emr/Validate.script	1	execute string	(null)

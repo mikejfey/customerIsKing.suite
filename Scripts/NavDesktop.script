@@ -1,0 +1,24 @@
+﻿params device
+
+if device = "desktop"
+	Click {Image:"Computers", WaitFor:30}
+	Click (Image:"Desktops_web", WaitFor:4)
+	
+else
+	
+	wait 1
+	tap (Image:"CATEGORIES", WaitFor:5)
+	wait 3
+	tap (Image:"Computers_mobile", WaitFor:5)
+	MobileUtilities.ScrollUntilFound "mobileComputersImage", "up" 
+	Tap imageName:"mobileComputersImage", waitFor:5
+	
+	
+	
+end if
+
+
+
+
+
+

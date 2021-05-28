@@ -1,0 +1,108 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LoadDataFromExcel.script",
+      "timestamp" : "2021-04-06 09:49:28.775 -0500"
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "[{dosage:\"one to be taken each day\", doseqty:28, originalproduct:\"Colofac 135mg tablets\", productsearchstring:\"colofac\", timesdaily:1},{dosage:\"one to be taken each day\", doseqty:20, originalproduct:\"Spasmonal 60mg capsules\", productsearchstring:\"spasmonal\", timesdaily:1}]",
+      "timestamp" : "2021-04-06 09:49:28.825 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "======================",
+      "timestamp" : "2021-04-06 09:49:28.831 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "{dosage:\"one to be taken each day\", doseqty:28, originalproduct:\"Colofac 135mg tablets\", productsearchstring:\"colofac\", timesdaily:1}",
+      "timestamp" : "2021-04-06 09:49:28.844 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "colofac",
+      "timestamp" : "2021-04-06 09:49:28.867 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "Colofac 135mg tablets",
+      "timestamp" : "2021-04-06 09:49:28.873 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "one to be taken each day",
+      "timestamp" : "2021-04-06 09:49:28.881 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "==================",
+      "timestamp" : "2021-04-06 09:49:28.887 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "{dosage:\"one to be taken each day\", doseqty:20, originalproduct:\"Spasmonal 60mg capsules\", productsearchstring:\"spasmonal\", timesdaily:1}",
+      "timestamp" : "2021-04-06 09:49:28.899 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "spasmonal",
+      "timestamp" : "2021-04-06 09:49:28.920 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "Spasmonal 60mg capsules",
+      "timestamp" : "2021-04-06 09:49:28.926 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 21
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "one to be taken each day",
+      "timestamp" : "2021-04-06 09:49:28.931 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 22
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.526716\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-06 09:49:28 -0500\", Successes:\"1\", TestCase:\"LoadDataFromExcel.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-06 09:49:29.303 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 LoadDataFromExcel.script",
+      "timestamp" : "2021-04-06 09:49:29.418 -0500"
+    }
+  ],
+  "createdTimestamp" : "2021-04-06 09:49:28.776 -0500"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="mobileNavDesktop_script" package="nopCommerce.suite" timestamp="2020-08-13 13:53:27.945 -0500"
+ tests="1"  failures="1" errors="0" time="3.158974">
+  <properties>
+   <property name="RunDate" value="2020-08-13 13:53:27.945 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="mobileNavDesktop.script" assertions="1" status="failure"  time="3.154901">
+    <failure type="FAILURE" message="STUnknownMessage ERROR: No Such Command: 'scrolluntilfound' -- Execution Time 0:00:03 mobileNavDesktop.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

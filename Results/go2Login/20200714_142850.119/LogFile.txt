@@ -1,0 +1,7 @@
+﻿2020-07-14 14:28:50.121 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-07-14 14:28:50.142 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-07-14 14:28:50.700 -0500	waitfor	NopCommerce_Logo	found at (392, 181)	3	on_backtotop	Utilities.script
+2020-07-14 14:28:51.205 -0500	waitfor	RefreshButton.png	found at (86, 50)	3	on_go2login	go2Login.script
+2020-07-14 14:28:51.794 -0500	click	go2loginCommerce	at (1278, 92)	6	on_go2login	go2Login.script
+2020-07-14 14:28:51.797 -0500	EndTestCase		(Duration:"1.674597", Errors:"0", Exceptions:"0", StartTime:"2020-07-14 14:28:50 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"0")	1	execute string	(null)
+2020-07-14 14:28:51.864 -0500	SUCCESS		Execution Time 0:00:01 go2Login.script	1	execute string	(null)

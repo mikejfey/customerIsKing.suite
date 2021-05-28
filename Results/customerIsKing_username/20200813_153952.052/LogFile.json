@@ -1,0 +1,43 @@
+{
+  "entries" : [
+    {
+      "message" : "Running customerIsKing_username.script",
+      "timestamp" : "2020-08-13 15:39:52.054 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-13 15:39:52.110 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 15:39:52.966 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "message" : "(Duration:\"0.921001\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-13 15:39:52 -0500\", Successes:\"0\", TestCase:\"customerIsKing_username.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 15:39:52.977 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 customerIsKing_username.script",
+      "timestamp" : "2020-08-13 15:39:52.981 -0500",
+      "identifier" : "ABORTED",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 15:39:52.056 -0500"
+}

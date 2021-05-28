@@ -1,0 +1,6 @@
+﻿2020-11-02 17:48:58.374 -0600	START		Running emr/lauchEMR.script	1	execute string	(null)
+2020-11-02 17:48:58.420 -0600	Log		Login with: admin	3	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:48:58.439 -0600	Log		Password is: pass	4	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:48:58.448 -0600	Exception		Remote Connection Unavailable	5	on_emr_lauchemr	emr/lauchEMR.script
+2020-11-02 17:48:58.453 -0600	EndTestCase		(Duration:"0.076625", Errors:"1", Exceptions:"1", StartTime:"2020-11-02 17:48:58 -0600", Successes:"0", TestCase:"emr/lauchEMR.script", Warnings:"0")	1	execute string	(null)
+2020-11-02 17:48:58.795 -0600	FAILURE		No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 emr/lauchEMR.script	1	execute string	(null)

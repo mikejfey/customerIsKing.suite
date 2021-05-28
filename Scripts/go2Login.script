@@ -1,0 +1,19 @@
+﻿
+params device
+put "desktop" into device
+
+if device = "desktop"
+	Utilities.BacktoTop
+	WaitFor 5, "RefreshButton.png"
+	Click (Image:"go2loginCommerce", WaitFor:3)
+	
+else
+	Tap imageName:"LOGIN_mobile", waitFor:5
+	wait 3
+	log "your already logged in"
+	
+	
+end if
+
+
+

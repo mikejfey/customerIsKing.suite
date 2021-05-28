@@ -1,0 +1,27 @@
+{
+  "originalcapturelocation" : [
+    691,
+    551,
+    261,
+    157
+  ],
+  "createddate" : 1604070060.4093299,
+  "lastmodifieddate" : 1604070060.4093308,
+  "name" : "cams",
+  "testlocationdata" : [
+    {
+      "name" : "cams.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        691,
+        551,
+        261,
+        157
+      ]
+    }
+  ]
+}

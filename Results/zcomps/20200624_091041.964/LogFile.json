@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running zcomps.script",
+      "timestamp" : "2020-06-24 09:10:41.966 -0500"
+    },
+    {
+      "handlerName" : "on_zcomps",
+      "message" : "at (532, 295)",
+      "identifier" : "click",
+      "image" : "zzzComputers_0001",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-24 09:10:42.553 -0500",
+      "scriptName" : "zcomps.script"
+    },
+    {
+      "handlerName" : "on_zcomps",
+      "message" : "at (1102, 641)",
+      "identifier" : "click",
+      "image" : "zzznps",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-24 09:10:43.674 -0500",
+      "scriptName" : "zcomps.script"
+    },
+    {
+      "handlerName" : "on_zcomps",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-06-24 09:10:44.434 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "zcomps.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.819612\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-24 09:10:41 -0500\", Successes:\"1\", TestCase:\"zcomps.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 09:10:44.787 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 zcomps.script",
+      "timestamp" : "2020-06-24 09:10:44.834 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 09:10:41.967 -0500"
+}

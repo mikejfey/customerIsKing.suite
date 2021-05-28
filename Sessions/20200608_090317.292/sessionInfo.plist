@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstant</key>
+	<integer>7</integer>
+	<key>commandList</key>
+	<string>[{captureRect:[481.2436, 1140.969059, 571.2436, 1161.969059], elementName:"Computers", eventNum:2, folderPath:"", hotSpot:[535.2436, 290.030941], imageName:"Computers", itemEvent:"TurboListItemEvent_Click", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", OCRText:"Computers", screenShotFile:"Screen0002.png", searchType:"Smoothed for Text", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:12}, {captureRect:[1000, 747, 1243, 894], elementName:"Laps", eventNum:4, folderPath:"delete", hotSpot:[1096.969447, 642.933168], imageName:"Laps", itemEvent:"TurboListItemEvent_Click", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", screenShotFile:"Screen0004.png", searchType:"Tolerant of Background", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}, {captureRect:[743, 887, 893, 919], elementName:"Pos", eventNum:6, folderPath:"delete", hotSpot:[883.501239, 537.20297], imageName:"Pos", itemEvent:"TurboListItemEvent_Click", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", screenShotFile:"Screen0006.png", searchType:"Tolerant of Background", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}, {captureRect:[752.609827, 797.925743, 869.609827, 814.925743], elementName:"PriceHightoLow", eventNum:8, folderPath:"delete", hotSpot:[854.609827, 635.074257], imageName:"PriceHightoLow", itemEvent:"TurboListItemEvent_Click", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", OCRText:"Price: High to Low", screenShotFile:"Screen0008.png", searchType:"Smoothed for Text", skipStep:False, userModified:False, usingTempImageName:False, waitForTime:-1}, {captureRect:[1522, 890, 1551, 916], elementName:"Grid", eventNum:10, folderPath:"delete", hotSpot:[1535.208505, 538.923267], imageName:"Grid", itemEvent:"TurboListItemEvent_Click", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", screenShotFile:"Screen0010.png", searchType:"Tolerant of Background", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}, {captureRect:[355, 1234, 428, 1289], elementName:"Logo", eventNum:12, folderPath:"delete", hotSpot:[393.288604, 186.237624], imageName:"Logo", itemEvent:"TurboListItemEvent_Click", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", screenShotFile:"Screen0012.png", searchType:"Tolerant of Background", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}]</string>
+	<key>dilations</key>
+	<integer>3</integer>
+	<key>maxSize</key>
+	<integer>300</integer>
+	<key>minSize</key>
+	<integer>16</integer>
+	<key>savedWithEpfVersion</key>
+	<integer>2004021851</integer>
+	<key>sessionType</key>
+	<string>turboSession</string>
+	<key>sessionUsesDOMObjects</key>
+	<false/>
+</dict>
+</plist>

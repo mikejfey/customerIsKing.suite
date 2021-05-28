@@ -1,0 +1,1 @@
+2020-06-24 14:45:41.174 -0500,Failure,0:00:05,1,0,0,20200624_144541.174/LogFile.txt,"","AssertionFailed --  (assertion: myStockPrice is expectedStockPrice; actually: 366 IS NOT equal to 6.15)",1

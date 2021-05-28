@@ -1,0 +1,10 @@
+﻿2020-10-20 14:35:04.075 -0500	START		Running camsearch.script
+2020-10-20 14:35:04.727 -0500	click	Searchstore_0002	at (1235, 178)	8	on_camsearch	camsearch.script
+2020-10-20 14:35:05.511 -0500	typetext		camera	9	on_camsearch	camsearch.script
+2020-10-20 14:35:06.333 -0500	click	SEARCH_0001	at (1519, 180)	10	on_camsearch	camsearch.script
+2020-10-20 14:35:07.607 -0500	click	image0007	at (801, 924)	11	on_camsearch	camsearch.script
+2020-10-20 14:35:08.486 -0500	click	ADDTOCARTzzzz	at (1038, 728)	12	on_camsearch	camsearch.script
+2020-10-20 14:35:09.309 -0500	click	Computers	at (535, 291)	14	on_camsearch	camsearch.script
+2020-10-20 14:35:10.149 -0500	click	noDCc	at (452, 167)	16	on_camsearch	camsearch.script
+2020-10-20 14:35:12.755 -0500	EndTestCase		(Duration:"8.677414", Errors:"0", Exceptions:"0", StartTime:"2020-10-20 14:35:04 -0500", Successes:"1", TestCase:"camsearch.script", Warnings:"0")
+2020-10-20 14:35:12.882 -0500	SUCCESS		Execution Time 0:00:08 camsearch.script

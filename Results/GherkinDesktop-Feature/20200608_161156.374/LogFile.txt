@@ -1,0 +1,9 @@
+﻿2020-06-08 16:11:56.376 -0500	START		Running FeatureFile.feature
+2020-06-08 16:11:56.377 -0500	LogWarning		Execution issue at step: I am connected to a device	14	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:11:56.378 -0500	EndTestCase		(Duration:"0.000951", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:11:56 -0500", Successes:"0", TestCase:"I am connected to a device", Warnings:"1")
+2020-06-08 16:11:56.379 -0500	LogWarning		Execution issue at step: I enter the nopCommerce URL	15	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:11:56.381 -0500	EndTestCase		(Duration:"0.001066", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:11:56 -0500", Successes:"0", TestCase:"I enter the nopCommerce URL", Warnings:"1")
+2020-06-08 16:11:56.381 -0500	LogWarning		Execution issue at step: I should see the home page	16	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:11:56.383 -0500	EndTestCase		(Duration:"0.000809", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:11:56 -0500", Successes:"0", TestCase:"I should see the home page", Warnings:"1")
+2020-06-08 16:11:56.384 -0500	EndTestCase		(Duration:"0.006477", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:11:56 -0500", Successes:"1", TestCase:"FeatureFile.feature", Warnings:"3")
+2020-06-08 16:11:56.947 -0500	FAILURE	Screen_Error.png	1 scenarios (1 failed, 0 passed) 3 steps (0 failed, 3 skipped, 0 passed) Execution Time 0:00:00

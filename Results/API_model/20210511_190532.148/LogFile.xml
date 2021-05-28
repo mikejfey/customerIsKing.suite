@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="API_model_script" package="customerIsKing.suite" timestamp="2021-05-11 19:05:32.148 -0500"
+ tests="1"  failures="1" errors="0" time="0.525567">
+  <properties>
+   <property name="RunDate" value="2021-05-11 19:05:32.148 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="API_model.script" assertions="1" status="failure"  time="0.521979">
+    <failure type="FAILURE" message="STUnknownMessage ERROR: No Such Function: 'respsonsebody' -- Execution Time 0:00:00 API_model.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

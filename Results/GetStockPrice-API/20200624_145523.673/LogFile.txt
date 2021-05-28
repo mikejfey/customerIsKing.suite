@@ -1,0 +1,11 @@
+﻿2020-06-24 14:55:23.679 -0500	START		Running GetStockPrice.apitest
+2020-06-24 14:55:24.800 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	4	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:55:24.832 -0500	Log		"symbol":"AAPL"	13	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:55:24.845 -0500	Log		AAPL	15	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:55:24.863 -0500	Log		"close":366.53	18	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:55:24.880 -0500	Log		366	20	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:55:32.297 -0500	imagefound	(TEXT:"AAPL")	found at (287, 292)	22	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:55:32.300 -0500	LogSuccess		Assertion Succeeded: (true: ImageFound(text:myStockName, waitFor:5))	22	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:55:32.323 -0500	Exception	ImageFound	Could Not Open Image: ImageFound	23	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:55:34.353 -0500	EndTestCase		(Duration:"10.669686", Errors:"1", Exceptions:"1", StartTime:"2020-06-24 14:55:23 -0500", Successes:"2", TestCase:"GetStockPrice.apitest", Warnings:"0")
+2020-06-24 14:55:35.133 -0500	FAILURE	Screen_Error.png	File Not Found moveto Error - Could Not Open Image: ImageFound -- Execution Time 0:00:10 GetStockPrice.apitest

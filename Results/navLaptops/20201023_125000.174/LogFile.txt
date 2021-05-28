@@ -1,0 +1,6 @@
+﻿2020-10-23 12:50:00.176 -0500	START		Running navLaptops.script	1	execute string	(null)
+2020-10-23 12:50:00.366 -0500	click	Computers	at (535, 291)	3	on_navlaptops	navLaptops.script
+2020-10-23 12:50:01.260 -0500	click	Laptops/Laps.png	at (1096, 642)	4	on_navlaptops	navLaptops.script
+2020-10-23 12:50:01.977 -0500	typetext		[pageDown]	5	on_navlaptops	navLaptops.script
+2020-10-23 12:50:29.452 -0500	EndTestCase		(Duration:"29.273667", Errors:"1", Exceptions:"0", StartTime:"2020-10-23 12:50:00 -0500", Successes:"0", TestCase:"navLaptops.script", Warnings:"0")	1	execute string	(null)
+2020-10-23 12:50:29.457 -0500	ABORTED		Execution Time 0:00:29 navLaptops.script	1	execute string	(null)

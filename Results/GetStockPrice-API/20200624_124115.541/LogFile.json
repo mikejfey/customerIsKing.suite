@@ -1,0 +1,25 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.apitest",
+      "timestamp" : "2020-06-24 12:41:15.544 -0500"
+    },
+    {
+      "identifier" : "LogWarning",
+      "message" : "Validation Warning: Missing HTTP.",
+      "timestamp" : "2020-06-24 12:41:15.548 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.233466\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-24 12:41:15 -0500\", Successes:\"1\", TestCase:\"Untitled.apitest\", Warnings:\"1\")",
+      "timestamp" : "2020-06-24 12:41:16.778 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 Untitled.apitest",
+      "timestamp" : "2020-06-24 12:41:16.802 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 12:41:15.545 -0500"
+}

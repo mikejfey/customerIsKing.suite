@@ -1,0 +1,80 @@
+{
+  "entries" : [
+    {
+      "message" : "Running navLap.script",
+      "timestamp" : "2020-06-08 09:11:16.145 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_navlap",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-08 09:11:16.669 -0500",
+      "scriptName" : "navLap.script"
+    },
+    {
+      "handlerName" : "on_navlap",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "delete\/Laps",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-08 09:11:17.612 -0500",
+      "scriptName" : "navLap.script"
+    },
+    {
+      "handlerName" : "on_navlap",
+      "message" : "at (883, 537)",
+      "identifier" : "click",
+      "image" : "delete\/Pos",
+      "handlerLine" : 10,
+      "timestamp" : "2020-06-08 09:11:18.408 -0500",
+      "scriptName" : "navLap.script"
+    },
+    {
+      "handlerName" : "on_navlap",
+      "message" : "at (854, 636)",
+      "identifier" : "click",
+      "image" : "delete\/PriceHightoLow",
+      "handlerLine" : 11,
+      "timestamp" : "2020-06-08 09:11:19.336 -0500",
+      "scriptName" : "navLap.script"
+    },
+    {
+      "handlerName" : "on_navlap",
+      "message" : "at (1535, 538)",
+      "identifier" : "click",
+      "image" : "delete\/Grid",
+      "handlerLine" : 12,
+      "timestamp" : "2020-06-08 09:11:20.190 -0500",
+      "scriptName" : "navLap.script"
+    },
+    {
+      "handlerName" : "on_navlap",
+      "message" : "at (393, 186)",
+      "identifier" : "click",
+      "image" : "delete\/Logo",
+      "handlerLine" : 13,
+      "timestamp" : "2020-06-08 09:11:21.155 -0500",
+      "scriptName" : "navLap.script"
+    },
+    {
+      "message" : "(Duration:\"5.010373\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-08 09:11:16 -0500\", Successes:\"1\", TestCase:\"navLap.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-08 09:11:21.158 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:05 navLap.script",
+      "timestamp" : "2020-06-08 09:11:21.197 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-06-08 09:11:16.147 -0500"
+}

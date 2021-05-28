@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="searcMobile">
+ <run>
+  <RunDate>2020-10-01 09:54:46.149 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>10.961473</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201001_095446.149/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

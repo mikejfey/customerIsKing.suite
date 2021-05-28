@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="calc_script" package="customerIsKing.suite" timestamp="2020-10-07 11:12:00.114 -0500"
+ tests="1"  failures="0" errors="0" time="5.409252">
+  <properties>
+   <property name="RunDate" value="2020-10-07 11:12:00.114 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="calc.script" assertions="1" status="success"  time="5.405729">
+  </testcase>
+ </testsuite>
+</testsuites>

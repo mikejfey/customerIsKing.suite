@@ -1,0 +1,120 @@
+{
+  "entries" : [
+    {
+      "message" : "Running customerIsKing_username.script",
+      "timestamp" : "2020-08-17 15:54:04.657 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-17 15:54:04.700 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-17 15:54:04.886 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-17 15:54:05.730 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-17 15:54:09.964 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-17 15:54:10.780 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-17 15:54:14.994 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-17 15:54:15.836 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-17 15:54:20.096 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-17 15:54:20.911 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image Mobile_Email",
+      "identifier" : "imagefound",
+      "image" : "Mobile_Email",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-17 15:54:25.144 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Image not found - Image not found while scrolling Up.",
+      "timestamp" : "2020-08-17 15:54:25.162 -0500",
+      "identifier" : "Throw",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 5
+    },
+    {
+      "message" : "(Duration:\"20.511548\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-17 15:54:04 -0500\", Successes:\"0\", TestCase:\"customerIsKing_username.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-17 15:54:25.171 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Image not found Image not found while scrolling Up. -- Execution Time 0:00:20 customerIsKing_username.script",
+      "timestamp" : "2020-08-17 15:54:25.341 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-08-17 15:54:04.659 -0500"
+}

@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-08-17 15:42:08.803 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "(Duration:\"0.929817\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-17 15:42:08 -0500\", Successes:\"0\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-17 15:42:09.735 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 go2Login.script",
+      "timestamp" : "2020-08-17 15:42:09.758 -0500",
+      "identifier" : "ABORTED",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-17 15:42:08.805 -0500"
+}

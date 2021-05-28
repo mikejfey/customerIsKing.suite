@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running API.apitest",
+      "timestamp" : "2020-06-24 12:51:35.392 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.802726\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-24 12:51:35 -0500\", Successes:\"1\", TestCase:\"API.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 12:51:37.196 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 API.apitest",
+      "timestamp" : "2020-06-24 12:51:37.246 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 12:51:35.393 -0500"
+}

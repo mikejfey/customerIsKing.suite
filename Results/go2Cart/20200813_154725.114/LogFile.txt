@@ -1,0 +1,4 @@
+﻿2020-08-13 15:47:25.117 -0500	START		Running go2Cart.script	1	execute string	(null)
+2020-08-13 15:47:25.701 -0500	click	Shoppingcart	at (1467, 94)	1	on_go2cart	go2Cart.script
+2020-08-13 15:47:25.719 -0500	EndTestCase		(Duration:"0.600196", Errors:"0", Exceptions:"0", StartTime:"2020-08-13 15:47:25 -0500", Successes:"1", TestCase:"go2Cart.script", Warnings:"0")	1	execute string	(null)
+2020-08-13 15:47:25.870 -0500	SUCCESS		Execution Time 0:00:00 go2Cart.script	1	execute string	(null)

@@ -1,0 +1,39 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running mobileNavDesktop.script",
+      "timestamp" : "2020-08-13 13:53:27.948 -0500"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (194, 1023)",
+      "identifier" : "click",
+      "image" : "CATEGORIES",
+      "handlerLine" : 1,
+      "timestamp" : "2020-08-13 13:53:28.926 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (169, 1121)",
+      "identifier" : "click",
+      "image" : "Computers_mobile",
+      "handlerLine" : 2,
+      "timestamp" : "2020-08-13 13:53:30.344 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"3.154901\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-13 13:53:27 -0500\", Successes:\"0\", TestCase:\"mobileNavDesktop.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 13:53:31.105 -0500"
+    },
+    {
+      "message" : "STUnknownMessage ERROR: No Such Command: 'scrolluntilfound' -- Execution Time 0:00:03 mobileNavDesktop.script",
+      "timestamp" : "2020-08-13 13:53:31.759 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 13:53:27.950 -0500"
+}

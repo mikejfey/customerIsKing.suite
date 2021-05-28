@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="mobileNavDesktop_script" package="nopCommerce.suite" timestamp="2020-08-14 11:49:08.063 -0500"
+ tests="1"  failures="0" errors="0" time="12.228451">
+  <properties>
+   <property name="RunDate" value="2020-08-14 11:49:08.063 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="mobileNavDesktop.script" assertions="1" status="success"  time="12.223012">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,118 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Electronics.script",
+      "timestamp" : "2020-10-30 10:16:06.558 -0500"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (657, 288)",
+      "identifier" : "click",
+      "image" : "Electronics_1",
+      "handlerLine" : 1,
+      "timestamp" : "2020-10-30 10:16:07.175 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (821, 629)",
+      "identifier" : "click",
+      "image" : "cams",
+      "handlerLine" : 2,
+      "timestamp" : "2020-10-30 10:16:08.086 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (829, 869)",
+      "identifier" : "click",
+      "image" : "nikon",
+      "handlerLine" : 3,
+      "timestamp" : "2020-10-30 10:16:08.893 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (392, 181)",
+      "identifier" : "click",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 4,
+      "timestamp" : "2020-10-30 10:16:09.925 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (527, 289)",
+      "identifier" : "click",
+      "image" : "(TEXT:\"Computers\")",
+      "handlerLine" : 8,
+      "timestamp" : "2020-10-30 10:16:11.718 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (676, 287)",
+      "identifier" : "click",
+      "image" : "(TEXT:\"Electronics\")",
+      "handlerLine" : 10,
+      "timestamp" : "2020-10-30 10:16:14.067 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "Unable to Find Text: Elecronics -- AutoUpdate engaged",
+      "timestamp" : "2020-10-30 10:16:18.086 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "Electronics.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerLine" : 12,
+      "handlerName" : "on_electronics",
+      "timestamp" : "2020-10-30 10:16:18.670 -0500",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "contextInfo" : "\"Name\" = \"TextDifference\"; \"Info\" = \"TextDifference:1\"; ",
+      "message" : "Found Text -- Using TextDifference:1",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "(TEXT:\"Elecronics\")",
+      "otherProperties" : {
+        "foundRect" : [
+          373,
+          529,
+          77,
+          12
+        ],
+        "Info" : "TextDifference:1"
+      },
+      "handlerLine" : 12,
+      "timestamp" : "2020-10-30 10:16:18.671 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (411, 535)",
+      "identifier" : "click",
+      "image" : "(TEXT:\"Elecronics\")",
+      "handlerLine" : 12,
+      "timestamp" : "2020-10-30 10:16:19.209 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"13.116652\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-30 10:16:06 -0500\", Successes:\"1\", TestCase:\"Electronics.script\", Warnings:\"1\")",
+      "timestamp" : "2020-10-30 10:16:19.676 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:13 Electronics.script",
+      "timestamp" : "2020-10-30 10:16:19.841 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-30 10:16:06.559 -0500"
+}

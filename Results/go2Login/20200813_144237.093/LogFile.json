@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-08-13 14:42:37.096 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Could Not Open Image: mobileLOGIN",
+      "identifier" : "Exception",
+      "image" : "mobileLOGIN",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-13 14:42:37.154 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"0.062454\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-13 14:42:37 -0500\", Successes:\"0\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 14:42:37.161 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "File Not Found tap Error - Could Not Open Image: mobileLOGIN -- Execution Time 0:00:00 go2Login.script",
+      "timestamp" : "2020-08-13 14:42:38.205 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 14:42:37.097 -0500"
+}

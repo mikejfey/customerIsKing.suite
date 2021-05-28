@@ -1,0 +1,10 @@
+﻿2020-06-24 14:59:05.585 -0500	START		Running zzzrunStockAPI.script
+2020-06-24 14:59:06.427 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	4	on_<initialhandler>	
+2020-06-24 14:59:06.439 -0500	Log		"symbol":"AAPL"	13	on_<initialhandler>	
+2020-06-24 14:59:06.445 -0500	Log		AAPL	15	on_<initialhandler>	
+2020-06-24 14:59:06.453 -0500	Log		"close":366.53	18	on_<initialhandler>	
+2020-06-24 14:59:06.458 -0500	Log		366	20	on_<initialhandler>	
+2020-06-24 14:59:13.647 -0500	imagefound	(TEXT:"AAPL")	found at (287, 292)	22	on_<initialhandler>	
+2020-06-24 14:59:13.649 -0500	LogSuccess		Assertion Succeeded: (true: ImageFound(text:myStockName, waitFor:5))	22	on_<initialhandler>	
+2020-06-24 14:59:15.820 -0500	EndTestCase		(Duration:"10.231864", Errors:"0", Exceptions:"0", StartTime:"2020-06-24 14:59:05 -0500", Successes:"2", TestCase:"zzzrunStockAPI.script", Warnings:"0")
+2020-06-24 14:59:15.941 -0500	SUCCESS		Execution Time 0:00:10 zzzrunStockAPI.script

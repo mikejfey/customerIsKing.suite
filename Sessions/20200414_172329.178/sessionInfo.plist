@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstant</key>
+	<integer>7</integer>
+	<key>commandList</key>
+	<string>[{captureRect:[84, 276, 126, 292], elementName:"Email4Login", elementType:"Field", eventNum:-1, folderPath:"", hotSpot:[153, 99], imageName:"Email4Login", itemEvent:"TurboListItemEvent_Element", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", OCRText:"Email:", screenShotFile:"Screen0002.png", searchType:"Smoothed for Text", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}, {captureRect:[57, 221, 126, 237], elementName:"Password", elementType:"Field", eventNum:-1, folderPath:"", hotSpot:[156, 155], imageName:"Password", itemEvent:"TurboListItemEvent_Element", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", OCRText:"Password:", screenShotFile:"Screen0002.png", searchType:"Smoothed for Text", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}, {captureRect:[236, 65, 382, 108], elementName:"LOGINbutton", elementType:"Button", eventNum:-1, folderPath:"", imageName:"LOGINbutton", itemEvent:"TurboListItemEvent_Element", itemMode:"TurboListItemMode_Existing", itemType:"TurboListItemType_Image", OCRText:"LOG IN", screenShotFile:"Screen0002.png", searchType:"Smoothed for Text", skipStep:False, userModified:True, usingTempImageName:False, waitForTime:-1}]</string>
+	<key>dilations</key>
+	<integer>3</integer>
+	<key>maxSize</key>
+	<integer>300</integer>
+	<key>minSize</key>
+	<integer>16</integer>
+	<key>savedWithEpfVersion</key>
+	<integer>2003152353</integer>
+	<key>sessionType</key>
+	<string>autoscanSession</string>
+	<key>sessionUsesDOMObjects</key>
+	<false/>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Login2Commerce_script" package="nopCommerce.suite" timestamp="2020-06-08 12:13:51.886 -0500"
+ tests="1"  failures="0" errors="0" time="1.109230">
+  <properties>
+   <property name="RunDate" value="2020-06-08 12:13:51.886 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Login2Commerce.script" assertions="1" status="success"  time="1.105936">
+  </testcase>
+ </testsuite>
+</testsuites>

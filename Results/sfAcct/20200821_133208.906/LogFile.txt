@@ -1,0 +1,7 @@
+﻿2020-08-21 13:32:08.909 -0500	START		Running sfAcct.script
+2020-08-21 13:32:09.979 -0500	click	Accounts	at (241, 139)	8	on_sfacct	sfAcct.script
+2020-08-21 13:32:14.389 -0500	click	HallmarkCards	at (155, 310)	9	on_sfacct	sfAcct.script
+2020-08-21 13:32:24.365 -0500	LogWarning		Unable to Find Image(s): ARHallmarkCardsDAI.png -- AutoUpdate engaged	10	on_sfacct	sfAcct.script
+2020-08-21 13:32:56.311 -0500	Exception	ARHallmarkCardsDAI	No Image Found On Screen: "ARHallmarkCardsDAI"	10	on_sfacct	sfAcct.script
+2020-08-21 13:32:57.474 -0500	EndTestCase		(Duration:"48.562312", Errors:"1", Exceptions:"1", StartTime:"2020-08-21 13:32:08 -0500", Successes:"0", TestCase:"sfAcct.script", Warnings:"1")
+2020-08-21 13:32:57.733 -0500	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "ARHallmarkCardsDAI" -- Execution Time 0:00:48 sfAcct.script

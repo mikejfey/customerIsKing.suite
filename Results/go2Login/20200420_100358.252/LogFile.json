@@ -1,0 +1,52 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-04-20 10:03:58.253 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-04-20 10:03:58.275 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (320, 169)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-04-20 10:03:59.546 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1119, 91)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 2,
+      "timestamp" : "2020-04-20 10:03:59.802 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"1.549941\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-20 10:03:58 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-20 10:03:59.805 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 go2Login.script",
+      "timestamp" : "2020-04-20 10:03:59.879 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-04-20 10:03:58.255 -0500"
+}

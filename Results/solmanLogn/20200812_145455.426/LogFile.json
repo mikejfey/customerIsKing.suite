@@ -1,0 +1,38 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running solmanLogn.script",
+      "timestamp" : "2020-08-12 14:54:55.428 -0500"
+    },
+    {
+      "handlerName" : "on_solmanlogn",
+      "message" : "Unable to Find Image(s): User.png -- AutoUpdate engaged",
+      "timestamp" : "2020-08-12 14:55:00.521 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "solmanLogn.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_solmanlogn",
+      "message" : "No Image Found On Screen: \"User\"",
+      "identifier" : "Exception",
+      "image" : "User",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-12 14:55:01.044 -0500",
+      "scriptName" : "solmanLogn.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.057874\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-12 14:54:55 -0500\", Successes:\"0\", TestCase:\"solmanLogn.script\", Warnings:\"1\")",
+      "timestamp" : "2020-08-12 14:55:01.487 -0500"
+    },
+    {
+      "message" : "Image Not Found click Error - No Image Found On Screen: \"User\" -- Execution Time 0:00:06 solmanLogn.script",
+      "timestamp" : "2020-08-12 14:55:01.535 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-08-12 14:54:55.429 -0500"
+}

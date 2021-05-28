@@ -1,0 +1,7 @@
+﻿2020-06-17 14:17:46.785 -0500	START		Running navLaptops.script
+2020-06-17 14:17:47.424 -0500	click	Computers	at (535, 291)	8	on_navlaptops	navLaptops.script
+2020-06-17 14:17:48.601 -0500	click	Laptops/Laps.png	at (1096, 642)	9	on_navlaptops	navLaptops.script
+2020-06-17 14:17:49.318 -0500	typetext		[pageDown]	10	on_navlaptops	navLaptops.script
+2020-06-17 14:17:53.707 -0500	LogWarning		Unable to Find Image(s): Notebook_price_A.png -- AutoUpdate engaged	11	on_navlaptops	navLaptops.script
+2020-06-17 14:18:02.219 -0500	EndTestCase		(Duration:"15.432597", Errors:"1", Exceptions:"0", StartTime:"2020-06-17 14:17:46 -0500", Successes:"0", TestCase:"navLaptops.script", Warnings:"1")
+2020-06-17 14:18:02.220 -0500	ABORTED		Execution Time 0:00:15 navLaptops.script

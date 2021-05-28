@@ -1,0 +1,43 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-08-13 14:32:20.008 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Unable to Find Image(s): mobileLOGIN.png -- AutoUpdate engaged",
+      "timestamp" : "2020-08-13 14:32:26.141 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "No Image Found On Screen: \"mobileLOGIN\"",
+      "identifier" : "Exception",
+      "image" : "mobileLOGIN",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-13 14:32:38.844 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"18.841069\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-13 14:32:20 -0500\", Successes:\"0\", TestCase:\"go2Login.script\", Warnings:\"1\")",
+      "timestamp" : "2020-08-13 14:32:38.851 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:18 go2Login.script",
+      "timestamp" : "2020-08-13 14:32:38.855 -0500",
+      "identifier" : "ABORTED",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 14:32:20.009 -0500"
+}

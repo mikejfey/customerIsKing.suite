@@ -1,0 +1,85 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-06-17 14:13:23.786 -0500"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-17 14:13:24.247 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps.png",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-17 14:13:25.402 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-06-17 14:13:26.120 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(680,318,770,353)",
+      "timestamp" : "2020-06-17 14:13:27.804 -0500"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "$1,800.00",
+      "timestamp" : "2020-06-17 14:13:27.808 -0500",
+      "identifier" : "Log",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-06-17 14:13:27.836 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (392, 181)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-06-17 14:13:29.086 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (392, 181)",
+      "identifier" : "click",
+      "image" : "NopCommerce_Logo.png",
+      "handlerLine" : 15,
+      "timestamp" : "2020-06-17 14:13:29.800 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.42166\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-17 14:13:23 -0500\", Successes:\"1\", TestCase:\"navLaptops.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-17 14:13:30.210 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:06 navLaptops.script",
+      "timestamp" : "2020-06-17 14:13:30.258 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-17 14:13:23.787 -0500"
+}

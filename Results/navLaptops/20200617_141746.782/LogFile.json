@@ -1,0 +1,54 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-06-17 14:17:46.785 -0500"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-17 14:17:47.424 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps.png",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-17 14:17:48.601 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-06-17 14:17:49.318 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "Unable to Find Image(s): Notebook_price_A.png -- AutoUpdate engaged",
+      "timestamp" : "2020-06-17 14:17:53.707 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 11
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"15.432597\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-06-17 14:17:46 -0500\", Successes:\"0\", TestCase:\"navLaptops.script\", Warnings:\"1\")",
+      "timestamp" : "2020-06-17 14:18:02.219 -0500"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:15 navLaptops.script",
+      "timestamp" : "2020-06-17 14:18:02.220 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-17 14:17:46.786 -0500"
+}

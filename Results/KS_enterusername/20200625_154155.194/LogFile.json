@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running KS_enterusername.script",
+      "timestamp" : "2020-06-25 15:41:55.196 -0500"
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "at (1282, 95)",
+      "identifier" : "click",
+      "image" : "KSLogin",
+      "handlerLine" : 1,
+      "timestamp" : "2020-06-25 15:41:55.461 -0500",
+      "scriptName" : "KS_enterusername.script"
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "at (1128, 523)",
+      "identifier" : "click",
+      "image" : "KSEmail",
+      "handlerLine" : 2,
+      "timestamp" : "2020-06-25 15:41:56.791 -0500",
+      "scriptName" : "KS_enterusername.script"
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "mike.fey@eggplant.io",
+      "timestamp" : "2020-06-25 15:41:57.758 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "KS_enterusername.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"3.038606\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-25 15:41:55 -0500\", Successes:\"1\", TestCase:\"KS_enterusername.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-25 15:41:58.238 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:03 KS_enterusername.script",
+      "timestamp" : "2020-06-25 15:41:58.283 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-25 15:41:55.199 -0500"
+}

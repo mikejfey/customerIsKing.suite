@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-11-02 17:30:58.712 -0600,"Failure",0:00:00,1,0,0,"20201102_173058.712/LogFile.txt","","SenseTalk Compiler Exception -- in emr_validate:\nSyntax Error at line 30: Syntax Error - can't understand [end of script] at character 1",0
+2020-11-02 17:31:08.368 -0600,"Failure",0:00:00,1,0,0,"20201102_173108.368/LogFile.txt","","SenseTalk Compiler Exception -- in emr_validate:\nSyntax Error at line 30: Syntax Error - can't understand [end of script] at character 1",0
+2020-11-02 17:31:35.857 -0600,"Failure",0:00:08,1,0,0,"20201102_173135.857/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:32:25.750 -0600,"Failure",0:00:05,1,0,0,"20201102_173225.750/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:49:46.094 -0600,"Failure",0:00:06,1,0,0,"20201102_174946.094/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:52:08.770 -0600,"Failure",0:00:05,1,0,0,"20201102_175208.770/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:55:11.926 -0600,"Failure",0:00:05,1,0,0,"20201102_175511.926/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:57:43.272 -0600,"Failure",0:00:05,1,0,0,"20201102_175743.272/LogFile.txt","","Script Error -- Number of Errors logged: 1",0

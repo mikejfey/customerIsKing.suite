@@ -1,0 +1,4 @@
+﻿2020-11-16 09:52:02.487 -0600	START		Running emr/noXY.script
+2020-11-16 09:52:03.452 -0600	readtext		(1089,520,1160,539)	2	on_emr_noxy	emr/noXY.script
+2020-11-16 09:52:03.857 -0600	EndTestCase		(Duration:"1.368351", Errors:"0", Exceptions:"0", StartTime:"2020-11-16 09:52:02 -0600", Successes:"1", TestCase:"emr/noXY.script", Warnings:"0")
+2020-11-16 09:52:03.966 -0600	SUCCESS		Execution Time 0:00:01 emr/noXY.script

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0"?>
+<runHistory script="emr/zzzEMRLogin">
+ <run>
+  <RunDate>2020-11-02 17:14:53.696 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.082438</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171453.696/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- waitfor Error - Could Not Open Image: (empty)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:15:10.784 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.076692</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171510.784/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- waitfor Error - Could Not Open Image: (empty)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:15:50.531 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.856372</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171550.531/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- waitfor Error - Could Not Open Image: (empty)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:16:00.326 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.842993</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171600.326/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- imagefound Error - Could Not Open Image: Login/NoThanks</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:16:10.956 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.870725</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171610.956/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- click Error - Could Not Open Image: Login/Username</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:16:28.447 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>7.247361</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171628.447/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:16:57.796 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>6.375085</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171657.796/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:17:42.588 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>6.348167</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171742.588/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:19:35.844 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.643110</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171935.844/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:25:38.897 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.652941</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_172538.897/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:26:51.231 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.669020</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_172651.231/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:32:13.301 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.661262</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_173213.301/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:49:33.451 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.638954</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_174933.451/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:51:56.320 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.687383</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_175156.320/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:54:59.441 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.669706</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_175459.441/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:57:30.773 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>11.644601</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_175730.773/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

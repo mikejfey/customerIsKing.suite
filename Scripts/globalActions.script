@@ -1,0 +1,24 @@
+﻿to SearchStore_EnterText SearchTerm
+	Utilities.BacktoTop
+	Click "Searchstore"
+	log SearchTerm
+	TypeText return
+end SearchStore_EnterText
+
+to Currency_Click Currency
+	Utilities.BacktoTop
+	If not imageFound(Currency & "_MenuItem") then
+		Click "Euro_MenuItem", "Dollar_MenuItem"
+		Set the SearchRectangle to ("currency_rect_A","currency_rect_B")
+		Click text:Currency
+		Set the SearchRectangle to ()
+	else
+		Log "Chosen currency already selected."
+	end if
+end Currency_Click
+
+to NopCommerceLogo_Click
+	Utilities.BacktoTop
+	Click "NopCommerce_Logo"
+	// WaitFor 15, "LEARNMORE"
+end NopCommerceLogo_Click

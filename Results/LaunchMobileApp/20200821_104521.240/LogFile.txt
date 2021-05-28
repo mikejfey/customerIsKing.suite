@@ -1,0 +1,6 @@
+﻿2020-08-21 10:45:21.245 -0500	START		Running LaunchMobileApp.script	1	execute string	(null)
+2020-08-21 10:45:21.265 -0500	connect		iphone:(null)	1	on_launchmobileapp	LaunchMobileApp.script
+2020-08-21 10:45:21.270 -0500	show		remote	2	on_launchmobileapp	LaunchMobileApp.script
+2020-08-21 10:45:21.682 -0500	launchapp		Safari	3	on_launchmobileapp	LaunchMobileApp.script
+2020-08-21 10:45:21.687 -0500	EndTestCase		(Duration:"0.439498", Errors:"0", Exceptions:"0", StartTime:"2020-08-21 10:45:21 -0500", Successes:"1", TestCase:"LaunchMobileApp.script", Warnings:"0")	1	execute string	(null)
+2020-08-21 10:45:21.860 -0500	SUCCESS		Execution Time 0:00:00 LaunchMobileApp.script	1	execute string	(null)

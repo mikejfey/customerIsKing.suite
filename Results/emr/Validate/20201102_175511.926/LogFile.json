@@ -1,0 +1,108 @@
+{
+  "entries" : [
+    {
+      "message" : "Running emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:55:11.928 -0600",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2020-11-02 17:55:12.001 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/Validate.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "found at (45, 892)",
+      "identifier" : "waitfor",
+      "image" : "RunWindowLogo",
+      "handlerLine" : 2,
+      "timestamp" : "2020-11-02 17:55:12.742 -0600",
+      "scriptName" : "emr\/Validate.script"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "chrome http:\/\/nopcommerce.testplant.com[return]",
+      "timestamp" : "2020-11-02 17:55:13.276 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/Validate.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "found at (392, 181)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 4,
+      "timestamp" : "2020-11-02 17:55:14.498 -0600",
+      "scriptName" : "emr\/Validate.script"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 7,
+      "timestamp" : "2020-11-02 17:55:14.681 -0600",
+      "scriptName" : "emr\/Validate.script"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps.png",
+      "handlerLine" : 8,
+      "timestamp" : "2020-11-02 17:55:15.480 -0600",
+      "scriptName" : "emr\/Validate.script"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-11-02 17:55:16.193 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/Validate.script",
+      "handlerLine" : 9
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(699,321,769,347)",
+      "timestamp" : "2020-11-02 17:55:17.566 -0600"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "1,800 00",
+      "timestamp" : "2020-11-02 17:55:17.577 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/Validate.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "1,800 00 does not match 1650.00",
+      "timestamp" : "2020-11-02 17:55:17.639 -0600",
+      "identifier" : "LogError",
+      "scriptName" : "emr\/Validate.script",
+      "handlerLine" : 24
+    },
+    {
+      "message" : "(Duration:\"5.73674\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-11-02 17:55:11 -0600\", Successes:\"0\", TestCase:\"emr\/Validate.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:55:17.667 -0600",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Script Error Number of Errors logged: 1 -- Execution Time 0:00:05 emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:55:18.106 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:55:11.929 -0600"
+}

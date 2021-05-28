@@ -1,0 +1,30 @@
+﻿Click "zzzz/spyglass"
+
+put ReadText(["zzzz/nhl__A","zzzz/nhl__B"]) into var1
+log var1
+
+
+
+
+Drag "zzzz/nhl__A"
+Drop "zzzz/AIAgentBookmark"
+Click "zzzz/spyglass"
+put ReadText(["zzzz/nhl__A","zzzz/nhl__B"]) into var1
+log var1
+
+Drag "zzzz/nhl__A"
+Drop "zzzz/nopBookmark"
+Click "zzzz/spyglass"
+put ReadText(["zzzz/nhl__A","zzzz/nhl__B"]) into var1
+log var1
+
+
+Drag "zzzz/nhl__A"
+Drop "zzzz/eggyBookmark"
+Click "zzzz/spyglass"
+put ReadText(["zzzz/nhl__A","zzzz/nhl__B"]) into var1
+log var1
+
+
+
+

@@ -1,0 +1,60 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running zcomps.script",
+      "timestamp" : "2020-06-24 09:11:44.418 -0500"
+    },
+    {
+      "handlerName" : "on_zcomps",
+      "message" : "at (532, 295)",
+      "identifier" : "click",
+      "image" : "zzzComputers_0001",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-24 09:11:45.005 -0500",
+      "scriptName" : "zcomps.script"
+    },
+    {
+      "handlerName" : "on_zcomps",
+      "message" : "at (1102, 641)",
+      "identifier" : "click",
+      "image" : "zzznps",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-24 09:11:46.210 -0500",
+      "scriptName" : "zcomps.script"
+    },
+    {
+      "handlerName" : "on_zcomps",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-06-24 09:11:46.925 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "zcomps.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(685,263,769,291)",
+      "timestamp" : "2020-06-24 09:11:48.523 -0500"
+    },
+    {
+      "handlerName" : "on_verifyprice",
+      "message" : "$1,800.00",
+      "timestamp" : "2020-06-24 09:11:48.525 -0500",
+      "identifier" : "Log",
+      "scriptName" : "verifyPrice.script",
+      "handlerLine" : 2
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.389631\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-06-24 09:11:44 -0500\", Successes:\"0\", TestCase:\"zcomps.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 09:11:48.809 -0500"
+    },
+    {
+      "message" : "AssertionFailed  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00) -- Execution Time 0:00:04 zcomps.script",
+      "timestamp" : "2020-06-24 09:11:49.083 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 09:11:44.419 -0500"
+}

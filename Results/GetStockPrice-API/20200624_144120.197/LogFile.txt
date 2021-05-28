@@ -1,0 +1,9 @@
+﻿2020-06-24 14:41:20.203 -0500	START		Running GetStockPrice.apitest
+2020-06-24 14:41:20.888 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	4	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:41:20.943 -0500	Log		"symbol":"F"	13	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:41:20.975 -0500	Log		F	15	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:41:21.009 -0500	Log		"close":6.15	18	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:41:21.041 -0500	Log		6.15	20	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:41:21.063 -0500	LogSuccess		Assertion Succeeded:  (assertion: myStockPrice is expectedStockPrice; true: 6.15 IS equal to 6.15)	23	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:41:24.782 -0500	EndTestCase		(Duration:"4.574363", Errors:"0", Exceptions:"0", StartTime:"2020-06-24 14:41:20 -0500", Successes:"2", TestCase:"GetStockPrice.apitest", Warnings:"0")
+2020-06-24 14:41:24.870 -0500	SUCCESS		Execution Time 0:00:04 GetStockPrice.apitest

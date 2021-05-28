@@ -1,0 +1,62 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running call.script",
+      "timestamp" : "2020-05-06 22:30:31.590 -0500"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "Unable to Find Image(s): Email4Login.png -- AutoUpdate engaged",
+      "timestamp" : "2020-05-06 22:30:39.970 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "Login2Commerce.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerLine" : 6,
+      "handlerName" : "on_email4login_entertext",
+      "timestamp" : "2020-05-06 22:30:48.311 -0500",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "Login2Commerce.script"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "Found Alternate Image -- Using Discrepancy Search 11",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "Email4Login.png",
+      "handlerLine" : 6,
+      "timestamp" : "2020-05-06 22:30:48.312 -0500",
+      "scriptName" : "Login2Commerce.script"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "at (1359, 89)",
+      "identifier" : "click",
+      "image" : "Email4Login.png",
+      "handlerLine" : 6,
+      "timestamp" : "2020-05-06 22:30:49.355 -0500",
+      "scriptName" : "Login2Commerce.script"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "mike[tab]",
+      "timestamp" : "2020-05-06 22:30:50.117 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Login2Commerce.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"19.425271\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-05-06 22:30:31 -0500\", Successes:\"1\", TestCase:\"call.script\", Warnings:\"1\")",
+      "timestamp" : "2020-05-06 22:30:51.017 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:19 call.script",
+      "timestamp" : "2020-05-06 22:30:51.065 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-05-06 22:30:31.591 -0500"
+}

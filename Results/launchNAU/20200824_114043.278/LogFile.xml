@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="launchNAU_script" package="customerIsKing.suite" timestamp="2020-08-24 11:40:43.278 -0500"
+ tests="1"  failures="0" errors="0" time="35.014700">
+  <properties>
+   <property name="RunDate" value="2020-08-24 11:40:43.278 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="launchNAU.script" assertions="1" status="error"  time="35.011177">
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;Home&quot;)&quot;. Text might be too low contrast to detect." />
+  </testcase>
+ </testsuite>
+</testsuites>

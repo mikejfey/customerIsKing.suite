@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="navLaptops_script" package="nopCommerce.suite" timestamp="2020-07-14 10:58:44.870 -0500"
+ tests="1"  failures="1" errors="1" time="18.745218">
+  <properties>
+   <property name="RunDate" value="2020-07-14 10:58:44.870 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="navLaptops.script" assertions="1" status="error"  time="18.74117">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;Computers&quot; -- Execution Time 0:00:18 navLaptops.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Computers&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

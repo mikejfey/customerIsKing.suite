@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LaunchMobileApp_script" package="customerIsKing.suite" timestamp="2020-09-04 08:59:10.908 -0500"
+ tests="1"  failures="0" errors="0" time="14.792033">
+  <properties>
+   <property name="RunDate" value="2020-09-04 08:59:10.908 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="LaunchMobileApp.script" assertions="1" status="error"  time="14.787166">
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;nop_logo_mobile&quot; within 10.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

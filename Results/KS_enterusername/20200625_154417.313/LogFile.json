@@ -1,0 +1,72 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running KS_enterusername.script",
+      "timestamp" : "2020-06-25 15:44:17.315 -0500"
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "at (1282, 95)",
+      "identifier" : "click",
+      "image" : "KSLogin",
+      "handlerLine" : 1,
+      "timestamp" : "2020-06-25 15:44:17.915 -0500",
+      "scriptName" : "KS_enterusername.script"
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "at (1128, 523)",
+      "identifier" : "click",
+      "image" : "KSEmail",
+      "handlerLine" : 2,
+      "timestamp" : "2020-06-25 15:44:18.747 -0500",
+      "scriptName" : "KS_enterusername.script"
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "mike.fey@eggplant.io",
+      "timestamp" : "2020-06-25 15:44:19.704 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "KS_enterusername.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "at (1122, 578)",
+      "identifier" : "click",
+      "image" : "KSPassword",
+      "handlerLine" : 4,
+      "timestamp" : "2020-06-25 15:44:20.878 -0500",
+      "scriptName" : "KS_enterusername.script"
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "eggydemo",
+      "timestamp" : "2020-06-25 15:44:21.688 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "KS_enterusername.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_ks_enterusername",
+      "message" : "at (1274, 716)",
+      "identifier" : "click",
+      "image" : "KS_LOGINBTN",
+      "handlerLine" : 6,
+      "timestamp" : "2020-06-25 15:44:22.897 -0500",
+      "scriptName" : "KS_enterusername.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.059407\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-25 15:44:17 -0500\", Successes:\"1\", TestCase:\"KS_enterusername.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-25 15:44:23.376 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:06 KS_enterusername.script",
+      "timestamp" : "2020-06-25 15:44:23.414 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-25 15:44:17.316 -0500"
+}

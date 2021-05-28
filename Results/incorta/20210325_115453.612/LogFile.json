@@ -1,0 +1,63 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running incorta.script",
+      "timestamp" : "2021-03-25 11:54:53.615 -0500"
+    },
+    {
+      "handlerName" : "on_incorta",
+      "message" : "at (1111, 556)",
+      "identifier" : "doubleclick",
+      "image" : "Email-field",
+      "handlerLine" : 2,
+      "timestamp" : "2021-03-25 11:54:54.053 -0500",
+      "scriptName" : "incorta.script"
+    },
+    {
+      "handlerName" : "on_incorta",
+      "message" : "mike@eggplant.com",
+      "timestamp" : "2021-03-25 11:54:55.154 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "incorta.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_incorta",
+      "message" : "at (1128, 617)",
+      "identifier" : "doubleclick",
+      "image" : "Password2",
+      "handlerLine" : 5,
+      "timestamp" : "2021-03-25 11:54:56.426 -0500",
+      "scriptName" : "incorta.script"
+    },
+    {
+      "handlerName" : "on_incorta",
+      "message" : "password",
+      "timestamp" : "2021-03-25 11:54:57.310 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "incorta.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_incorta",
+      "message" : "at (1265, 753)",
+      "identifier" : "click",
+      "image" : "LOGIN2",
+      "handlerLine" : 7,
+      "timestamp" : "2021-03-25 11:54:58.523 -0500",
+      "scriptName" : "incorta.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.615756\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-03-25 11:54:53 -0500\", Successes:\"1\", TestCase:\"incorta.script\", Warnings:\"0\")",
+      "timestamp" : "2021-03-25 11:54:59.233 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 incorta.script",
+      "timestamp" : "2021-03-25 11:54:59.779 -0500"
+    }
+  ],
+  "createdTimestamp" : "2021-03-25 11:54:53.617 -0500"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LaunchMobileApp_script" package="nopCommerce.suite" timestamp="2020-08-17 15:39:59.288 -0500"
+ tests="1"  failures="0" errors="0" time="128.553815">
+  <properties>
+   <property name="RunDate" value="2020-08-17 15:39:59.288 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="LaunchMobileApp.script" assertions="1" status="failure"  time="128.546656">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

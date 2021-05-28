@@ -1,0 +1,71 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-05-14 09:39:38.925 -0500"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "windows_sut:(null)",
+      "timestamp" : "2020-05-14 09:39:39.024 -0500",
+      "identifier" : "connect",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-05-14 09:39:39.076 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (448, 169)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-05-14 09:39:40.101 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "found at (1247, 91)",
+      "identifier" : "imagefound",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 4,
+      "timestamp" : "2020-05-14 09:39:40.242 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Assertion Succeeded: (true: ImageFound(\"go2loginCommerce\"))",
+      "timestamp" : "2020-05-14 09:39:40.243 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1247, 91)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 5,
+      "timestamp" : "2020-05-14 09:39:40.464 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.992892\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-05-14 09:39:38 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-05-14 09:39:40.923 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 go2Login.script",
+      "timestamp" : "2020-05-14 09:39:40.977 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-05-14 09:39:38.929 -0500"
+}

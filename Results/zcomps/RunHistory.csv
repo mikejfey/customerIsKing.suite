@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-06-24 09:10:41.964 -0500,"Success",0:00:02,0,0,0,"20200624_091041.964/LogFile.txt","","",1
+2020-06-24 09:11:44.415 -0500,"Failure",0:00:04,1,0,0,"20200624_091144.415/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0

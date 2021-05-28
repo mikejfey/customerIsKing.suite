@@ -1,0 +1,5 @@
+﻿2020-08-13 13:53:27.948 -0500	START		Running mobileNavDesktop.script
+2020-08-13 13:53:28.926 -0500	click	CATEGORIES	at (194, 1023)	1	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 13:53:30.344 -0500	click	Computers_mobile	at (169, 1121)	2	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 13:53:31.105 -0500	EndTestCase		(Duration:"3.154901", Errors:"1", Exceptions:"0", StartTime:"2020-08-13 13:53:27 -0500", Successes:"0", TestCase:"mobileNavDesktop.script", Warnings:"0")
+2020-08-13 13:53:31.759 -0500	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'scrolluntilfound' -- Execution Time 0:00:03 mobileNavDesktop.script

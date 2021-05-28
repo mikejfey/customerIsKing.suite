@@ -1,0 +1,12 @@
+﻿Tap "Searchstore_1"
+typetext "camera"
+Tap "SEARCH_1"
+SwipeUp 
+SwipeUp 
+Tap "CATEGORIE"
+Tap "logoNop"
+
+
+
+
+

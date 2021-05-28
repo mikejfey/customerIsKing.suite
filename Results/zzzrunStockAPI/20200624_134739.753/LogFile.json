@@ -1,0 +1,37 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running zzzrunStockAPI.script",
+      "timestamp" : "2020-06-24 13:47:39.760 -0500"
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-06-24 13:47:40.545 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "\"low\":6.14",
+      "timestamp" : "2020-06-24 13:47:40.563 -0500",
+      "identifier" : "Log",
+      "scriptName" : "",
+      "handlerLine" : 11
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.483582\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-06-24 13:47:39 -0500\", Successes:\"1\", TestCase:\"zzzrunStockAPI.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 13:47:44.248 -0500"
+    },
+    {
+      "message" : "STUnknownMessage ERROR: 'params' was called as a Command, but is only available as a Function -- Execution Time 0:00:04 zzzrunStockAPI.script",
+      "timestamp" : "2020-06-24 13:47:44.833 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 13:47:39.763 -0500"
+}

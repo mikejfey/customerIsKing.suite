@@ -1,0 +1,27 @@
+﻿params device
+if device = "desktop"
+	Click (Image:"item2cart_web", WaitFor:3)
+	if ImageFound(imageName:"400GB_web", waitFor:5)
+		
+		Click (Image:"400GB_web", WaitFor:7.2)
+	end if
+	Click "ADDTOCART_web"
+	
+	
+else
+	
+	MobileUtilities.ScrollUntilFound "mobile_ADDTOCART", "up" //Calls a handler "ScrollUntilFound", passing two parameters representing an image and a direction.
+	tap imageName:"mobile_ADDTOCART", waitFor:4
+	wait 4
+	MobileUtilities.ScrollUntilFound "mobile_ADDTOCART", "up" //Calls a handler 
+	if ImageFound(imageName:"mobile_HD_radio", waitFor:5)
+		Tap (Image:"mobile_HD_radio", WaitFor:2)
+		//MobileUtilities.ScrollUntilFound "mobile_ADDTOCART", "up" 
+	end if 
+	
+	tap imageName:"mobile_ADDTOCART", waitFor:4
+	wait 4
+	MobileUtilities.ScrollUntilFound "Mobile_SHOPPINGCART", "down" //Calls a handler 
+	
+	
+end if

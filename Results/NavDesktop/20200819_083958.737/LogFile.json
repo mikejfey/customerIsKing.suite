@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "message" : "Running mobileNavDesktop.script",
+      "timestamp" : "2020-08-19 08:39:58.740 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-19 08:39:59.234 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (817, 633)",
+      "identifier" : "click",
+      "image" : "Desktops_web",
+      "handlerLine" : 5,
+      "timestamp" : "2020-08-19 08:40:00.176 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "message" : "(Duration:\"1.461401\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-19 08:39:58 -0500\", Successes:\"1\", TestCase:\"mobileNavDesktop.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-19 08:40:00.203 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 mobileNavDesktop.script",
+      "timestamp" : "2020-08-19 08:40:00.248 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-19 08:39:58.741 -0500"
+}

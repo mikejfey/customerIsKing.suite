@@ -1,0 +1,1 @@
+2020-10-01 08:10:56.316 -0500,Failure,0:00:31,1,0,0,20201001_081056.316/LogFile.txt,"","AssertionFailed -- (false: ImageFound(text:myStockName, waitFor:5))",1

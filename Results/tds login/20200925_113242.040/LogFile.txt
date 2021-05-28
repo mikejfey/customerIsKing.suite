@@ -1,0 +1,9 @@
+﻿2020-09-25 11:32:42.043 -0500	START		Running tds login.script
+2020-09-25 11:32:42.591 -0500	click	Login_tds	at (1282, 91)	8	on_tds_login	tds login.script
+2020-09-25 11:32:43.465 -0500	click	Email_tds	at (1122, 522)	9	on_tds_login	tds login.script
+2020-09-25 11:32:44.430 -0500	typetext		mike.fey@eggplant.io	10	on_tds_login	tds login.script
+2020-09-25 11:32:45.653 -0500	click	Password_0001	at (1138, 579)	11	on_tds_login	tds login.script
+2020-09-25 11:32:46.465 -0500	typetext		eggydemo	12	on_tds_login	tds login.script
+2020-09-25 11:32:47.698 -0500	click	loginButton	at (1258, 722)	13	on_tds_login	tds login.script
+2020-09-25 11:32:48.133 -0500	EndTestCase		(Duration:"6.088692", Errors:"0", Exceptions:"0", StartTime:"2020-09-25 11:32:42 -0500", Successes:"1", TestCase:"tds login.script", Warnings:"0")
+2020-09-25 11:32:48.232 -0500	SUCCESS		Execution Time 0:00:06 tds login.script

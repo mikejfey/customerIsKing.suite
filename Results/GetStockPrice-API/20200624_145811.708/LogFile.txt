@@ -1,0 +1,12 @@
+﻿2020-06-24 14:58:11.714 -0500	START		Running GetStockPrice.apitest
+2020-06-24 14:58:12.787 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	4	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:12.818 -0500	Log		"symbol":"AAPL"	13	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:12.831 -0500	Log		AAPL	15	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:12.849 -0500	Log		"close":366.53	18	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:12.866 -0500	Log		366	20	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:20.083 -0500	imagefound	(TEXT:"AAPL")	found at (287, 292)	22	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:20.085 -0500	LogSuccess		Assertion Succeeded: (true: ImageFound(text:myStockName, waitFor:5))	22	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:20.232 -0500	moveto		at (287, 292)	23	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:20.236 -0500	Log		[287,292]	24	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:58:22.263 -0500	EndTestCase		(Duration:"10.545225", Errors:"0", Exceptions:"0", StartTime:"2020-06-24 14:58:11 -0500", Successes:"2", TestCase:"GetStockPrice.apitest", Warnings:"0")
+2020-06-24 14:58:22.347 -0500	SUCCESS		Execution Time 0:00:10 GetStockPrice.apitest

@@ -1,0 +1,8 @@
+﻿2020-10-28 12:50:43.781 -0500	START		Running virtu.script
+2020-10-28 12:50:44.070 -0500	tap	Searchstore_1	at (292, 1080)	1	on_virtu	virtu.script
+2020-10-28 12:50:44.847 -0500	typetext		camera	2	on_virtu	virtu.script
+2020-10-28 12:50:45.823 -0500	tap	SEARCH_1	at (850, 1088)	3	on_virtu	virtu.script
+2020-10-28 12:50:46.792 -0500	swipeup		Swiped up from (540, 1554) to (540, 666)	4	on_virtu	virtu.script
+2020-10-28 12:50:47.766 -0500	swipeup		Swiped up from (540, 1554) to (540, 666)	5	on_virtu	virtu.script
+2020-10-28 12:50:48.264 -0500	EndTestCase		(Duration:"4.480811", Errors:"0", Exceptions:"0", StartTime:"2020-10-28 12:50:43 -0500", Successes:"1", TestCase:"virtu.script", Warnings:"0")
+2020-10-28 12:50:48.383 -0500	SUCCESS		Execution Time 0:00:04 virtu.script

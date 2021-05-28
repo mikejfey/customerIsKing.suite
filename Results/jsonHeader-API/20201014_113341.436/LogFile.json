@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running jsonHeader.apitest",
+      "timestamp" : "2020-10-14 11:33:41.438 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.609168\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-14 11:33:41 -0500\", Successes:\"1\", TestCase:\"jsonHeader.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-10-14 11:33:43.049 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 jsonHeader.apitest",
+      "timestamp" : "2020-10-14 11:33:43.121 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-14 11:33:41.439 -0500"
+}

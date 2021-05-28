@@ -1,0 +1,4 @@
+﻿//special offer script
+Utilities.BacktoTop
+assert that ImageFound("NopCommerce_Logo")
+Click (text:"Special Offers", WaitFor:3)

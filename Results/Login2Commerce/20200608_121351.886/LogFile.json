@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Login2Commerce.script",
+      "timestamp" : "2020-06-08 12:13:51.888 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.105936\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-08 12:13:51 -0500\", Successes:\"1\", TestCase:\"Login2Commerce.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-08 12:13:52.995 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 Login2Commerce.script",
+      "timestamp" : "2020-06-08 12:13:53.023 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-08 12:13:51.889 -0500"
+}

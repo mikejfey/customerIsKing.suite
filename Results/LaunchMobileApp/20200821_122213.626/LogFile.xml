@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LaunchMobileApp_script" package="customerIsKing.suite" timestamp="2020-08-21 12:22:13.626 -0500"
+ tests="1"  failures="1" errors="0" time="0.348494">
+  <properties>
+   <property name="RunDate" value="2020-08-21 12:22:13.626 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="LaunchMobileApp.script" assertions="1" status="failure"  time="0.34179">
+    <failure type="FAILURE" message="STUnknownMessage ERROR: No Such Command: 'waitfor10' -- Execution Time 0:00:00 LaunchMobileApp.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

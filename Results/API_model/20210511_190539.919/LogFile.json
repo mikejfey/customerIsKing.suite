@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running API_model.script",
+      "timestamp" : "2021-05-11 19:05:39.922 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.554317\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-05-11 19:05:39 -0500\", Successes:\"0\", TestCase:\"API_model.script\", Warnings:\"0\")",
+      "timestamp" : "2021-05-11 19:05:40.478 -0500"
+    },
+    {
+      "message" : "CapturedErrorScreenshot",
+      "timestamp" : "2021-05-11 19:05:40.813 -0500",
+      "identifier" : "Error Screen",
+      "image" : "\/Users\/michafey\/Documents\/EggplantSuites\/customerIsKing.suite\/Results\/API_model\/20210511_190539.919\/Screen_Error.png"
+    },
+    {
+      "message" : "STUnknownMessage ERROR: No Such Function: 'responsebody' -- Execution Time 0:00:00 API_model.script",
+      "timestamp" : "2021-05-11 19:05:40.814 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-05-11 19:05:39.923 -0500"
+}

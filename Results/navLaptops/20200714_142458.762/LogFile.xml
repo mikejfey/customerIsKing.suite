@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="navLaptops_script" package="nopCommerce.suite" timestamp="2020-07-14 14:24:58.762 -0500"
+ tests="1"  failures="1" errors="0" time="2.807175">
+  <properties>
+   <property name="RunDate" value="2020-07-14 14:24:58.762 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="navLaptops.script" assertions="1" status="failure"  time="2.803201">
+    <failure type="FAILURE" message="AssertionFailed  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00) -- Execution Time 0:00:02 navLaptops.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

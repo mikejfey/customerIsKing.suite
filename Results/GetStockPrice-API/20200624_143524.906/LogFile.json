@@ -1,0 +1,60 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running GetStockPrice.apitest",
+      "timestamp" : "2020-06-24 14:35:24.913 -0500"
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-06-24 14:35:25.539 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "{\"pagination\":{\"limit\":100",
+      "timestamp" : "2020-06-24 14:35:25.578 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "nati",
+      "timestamp" : "2020-06-24 14:35:25.600 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "\"count\":16",
+      "timestamp" : "2020-06-24 14:35:25.634 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 16
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "16",
+      "timestamp" : "2020-06-24 14:35:25.666 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 19
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.550638\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-24 14:35:24 -0500\", Successes:\"1\", TestCase:\"GetStockPrice.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 14:35:29.468 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:04 GetStockPrice.apitest",
+      "timestamp" : "2020-06-24 14:35:29.563 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 14:35:24.915 -0500"
+}

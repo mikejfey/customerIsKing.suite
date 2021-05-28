@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running virtu.script",
+      "timestamp" : "2020-10-28 12:49:08.116 -0500"
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "at (292, 1080)",
+      "identifier" : "tap",
+      "image" : "Searchstore_1",
+      "handlerLine" : 1,
+      "timestamp" : "2020-10-28 12:49:08.544 -0500",
+      "scriptName" : "virtu.script"
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "camera",
+      "timestamp" : "2020-10-28 12:49:09.322 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "virtu.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "at (850, 1088)",
+      "identifier" : "tap",
+      "image" : "SEARCH_1",
+      "handlerLine" : 3,
+      "timestamp" : "2020-10-28 12:49:10.233 -0500",
+      "scriptName" : "virtu.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.6072\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-28 12:49:08 -0500\", Successes:\"1\", TestCase:\"virtu.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-28 12:49:10.724 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 virtu.script",
+      "timestamp" : "2020-10-28 12:49:10.884 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-28 12:49:08.117 -0500"
+}

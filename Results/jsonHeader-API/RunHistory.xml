@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<runHistory script="jsonHeader-API">
+ <run>
+  <RunDate>2020-10-14 11:33:41.436 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.612513</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201014_113341.436/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-10-14 11:34:03.562 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.613259</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201014_113403.562/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-10-14 11:36:09.738 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.415319</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201014_113609.738/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: api().statusCode is 200; actually: 405 IS NOT equal to 200)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-10-14 11:58:23.031 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>1.664413</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201014_115823.031/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

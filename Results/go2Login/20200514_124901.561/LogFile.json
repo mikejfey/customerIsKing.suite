@@ -1,0 +1,69 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-05-14 12:49:01.564 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-05-14 12:49:01.587 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (392, 181)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-05-14 12:49:02.602 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "found at (1278, 92)",
+      "identifier" : "imagefound",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 5,
+      "timestamp" : "2020-05-14 12:49:03.678 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Assertion Succeeded: (true: ImageFound(\"go2loginCommerce\"))",
+      "timestamp" : "2020-05-14 12:49:03.679 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1278, 92)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 6,
+      "timestamp" : "2020-05-14 12:49:04.778 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"3.215375\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-05-14 12:49:01 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-05-14 12:49:04.781 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:03 go2Login.script",
+      "timestamp" : "2020-05-14 12:49:04.848 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-05-14 12:49:01.565 -0500"
+}

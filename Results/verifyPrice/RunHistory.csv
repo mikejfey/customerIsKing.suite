@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-07-01 13:56:02.789 -0500,"Failure",0:00:01,1,0,0,"20200701_135602.789/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0
+2020-07-01 13:56:34.424 -0500,"Failure",0:00:01,1,0,0,"20200701_135634.424/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00)",0
+2020-07-01 13:56:57.904 -0500,"Failure",0:00:01,1,0,0,"20200701_135657.904/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00 )",0
+2020-07-14 11:03:01.259 -0500,"Failure",0:00:01,1,0,0,"20200714_110301.259/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1600.00)",0
+2020-07-14 11:03:33.182 -0500,"Failure",0:00:01,1,0,0,"20200714_110333.182/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1600.00)",0
+2020-07-14 11:03:43.388 -0500,"Failure",0:00:01,1,0,0,"20200714_110343.388/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1600.00)",0
+2020-07-14 11:04:03.192 -0500,"Failure",0:00:01,1,0,0,"20200714_110403.192/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00)",0
+2020-07-14 11:05:08.002 -0500,"Failure",0:00:01,1,0,0,"20200714_110508.002/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is ""$1800.00""; actually: $1,800.00 IS NOT equal to $1800.00)",0
+2020-07-14 11:05:21.523 -0500,"Failure",0:00:01,1,0,0,"20200714_110521.523/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is ""$1800.00 ""; actually: $1,800.00 IS NOT equal to $1800.00 )",0
+2020-07-14 11:05:30.202 -0500,"Failure",0:00:01,1,0,0,"20200714_110530.202/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is "" $1800.00""; actually: $1,800.00 IS NOT equal to  $1800.00)",0
+2020-07-14 11:08:02.262 -0500,"Failure",0:00:01,1,0,0,"20200714_110802.262/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is ""$1800.00""; actually: 1,800.00 IS NOT equal to $1800.00)",0
+2020-07-14 11:08:16.152 -0500,"Failure",0:00:01,1,0,0,"20200714_110816.152/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is ""1800.00""; actually: 1,800.00 IS NOT equal to 1800.00)",0
+2020-07-14 11:08:56.468 -0500,"Failure",0:00:01,1,0,0,"20200714_110856.468/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is ""1800.00""; actually: 1,800.00 IS NOT equal to 1800.00)",0
+2020-07-14 11:10:01.127 -0500,"Failure",0:00:01,1,0,0,"20200714_111001.127/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is ""1800.00""; actually: 1,800.00 IS NOT equal to 1800.00)",0
+2020-07-14 11:10:09.039 -0500,"Failure",0:00:01,1,0,0,"20200714_111009.039/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is ""1800.00""; actually: 1,800.00 IS NOT equal to 1800.00)",0
+2020-07-14 11:10:23.702 -0500,"Failure",0:00:01,1,0,0,"20200714_111023.702/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-26 13:31:28.138 -0500,"Failure",0:00:02,1,0,0,"20200826_133128.138/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0

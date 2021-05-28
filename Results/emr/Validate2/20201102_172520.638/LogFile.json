@@ -1,0 +1,42 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:25:20.641 -0600"
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(277,215,347,246)",
+      "timestamp" : "2020-11-02 17:25:21.464 -0600"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "Tuesday",
+      "timestamp" : "2020-11-02 17:25:21.478 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/Validate.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "Tuesday not match Wednesday",
+      "timestamp" : "2020-11-02 17:25:21.551 -0600",
+      "identifier" : "LogError",
+      "scriptName" : "emr\/Validate.script",
+      "handlerLine" : 9
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.717734\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-11-02 17:25:20 -0600\", Successes:\"0\", TestCase:\"emr\/Validate.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:25:22.360 -0600"
+    },
+    {
+      "message" : "Script Error Number of Errors logged: 1 -- Execution Time 0:00:01 emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:25:22.583 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:25:20.642 -0600"
+}

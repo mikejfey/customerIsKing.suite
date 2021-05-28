@@ -1,0 +1,65 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running calc.script",
+      "timestamp" : "2020-10-07 11:12:00.116 -0500"
+    },
+    {
+      "handlerName" : "on_calc",
+      "message" : "at (954, 568)",
+      "identifier" : "click",
+      "image" : "six",
+      "handlerLine" : 8,
+      "timestamp" : "2020-10-07 11:12:00.927 -0500",
+      "scriptName" : "calc.script"
+    },
+    {
+      "handlerName" : "on_calc",
+      "message" : "at (956, 626)",
+      "identifier" : "click",
+      "image" : "three",
+      "handlerLine" : 9,
+      "timestamp" : "2020-10-07 11:12:01.961 -0500",
+      "scriptName" : "calc.script"
+    },
+    {
+      "handlerName" : "on_calc",
+      "message" : "at (1033, 623)",
+      "identifier" : "click",
+      "image" : "plus",
+      "handlerLine" : 10,
+      "timestamp" : "2020-10-07 11:12:03.021 -0500",
+      "scriptName" : "calc.script"
+    },
+    {
+      "handlerName" : "on_calc",
+      "message" : "at (882, 555)",
+      "identifier" : "click",
+      "image" : "five",
+      "handlerLine" : 11,
+      "timestamp" : "2020-10-07 11:12:04.106 -0500",
+      "scriptName" : "calc.script"
+    },
+    {
+      "handlerName" : "on_calc",
+      "message" : "at (1032, 684)",
+      "identifier" : "click",
+      "image" : "equalls",
+      "handlerLine" : 12,
+      "timestamp" : "2020-10-07 11:12:05.192 -0500",
+      "scriptName" : "calc.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.405729\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-07 11:12:00 -0500\", Successes:\"1\", TestCase:\"calc.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-07 11:12:05.523 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 calc.script",
+      "timestamp" : "2020-10-07 11:12:05.617 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-07 11:12:00.117 -0500"
+}

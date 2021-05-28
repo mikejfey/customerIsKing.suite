@@ -1,0 +1,86 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running GetStockPrice.apitest",
+      "timestamp" : "2020-10-01 08:11:32.101 -0500"
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-10-01 08:11:32.950 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "========================",
+      "timestamp" : "2020-10-01 08:11:32.967 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "115.81",
+      "timestamp" : "2020-10-01 08:11:32.974 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "\"symbol\":\"AAPL\"",
+      "timestamp" : "2020-10-01 08:11:32.987 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 23
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "AAPL",
+      "timestamp" : "2020-10-01 08:11:32.998 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 25
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "\"close\":115.81",
+      "timestamp" : "2020-10-01 08:11:33.008 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 28
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "115",
+      "timestamp" : "2020-10-01 08:11:33.018 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 30
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "Unable to Find Image (TEXT:\"AAPL\"). Text might be too low contrast to detect.",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"AAPL\")",
+      "handlerLine" : 32,
+      "timestamp" : "2020-10-01 08:12:03.525 -0500",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"31.665525\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-10-01 08:11:32 -0500\", Successes:\"1\", TestCase:\"GetStockPrice.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-10-01 08:12:03.768 -0500"
+    },
+    {
+      "message" : "AssertionFailed (false: ImageFound(text:myStockName, waitFor:5)) -- Execution Time 0:00:31 GetStockPrice.apitest",
+      "timestamp" : "2020-10-01 08:12:03.917 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-10-01 08:11:32.102 -0500"
+}

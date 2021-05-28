@@ -1,0 +1,7 @@
+﻿2020-08-13 14:09:28.185 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-08-13 14:09:34.121 -0500	LogWarning		Unable to Find Image(s): mobileLOGIN.png -- AutoUpdate engaged	8	on_go2login	go2Login.script
+2020-08-13 14:10:04.727 -0500	AutoUpdateCaptureScreen	AutoUpdate_0001.png		8	on_go2login	go2Login.script
+2020-08-13 14:10:04.729 -0500	AutoUpdateWarning	mobileLOGIN.png	Found Alternate Image -- Using Dynamic Tolerance 99	8	on_go2login	go2Login.script	"Name" = "Dynamic Tolerance"; "Info" = "99"; 
+2020-08-13 14:10:05.716 -0500	click	mobileLOGIN.png	at (549, 273)	8	on_go2login	go2Login.script
+2020-08-13 14:10:05.727 -0500	EndTestCase		(Duration:"37.538231", Errors:"0", Exceptions:"0", StartTime:"2020-08-13 14:09:28 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"1")	1	execute string	(null)
+2020-08-13 14:10:05.822 -0500	SUCCESS		Execution Time 0:00:37 go2Login.script	1	execute string	(null)

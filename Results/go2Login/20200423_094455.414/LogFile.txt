@@ -1,0 +1,8 @@
+﻿2020-04-23 09:44:55.417 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-04-23 09:44:55.445 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-04-23 09:44:56.525 -0500	waitfor	NopCommerce_Logo	found at (448, 169)	3	on_backtotop	Utilities.script
+2020-04-23 09:44:57.413 -0500	imagefound	go2loginCommerce	found at (1247, 91)	3	on_go2login	go2Login.script
+2020-04-23 09:44:57.415 -0500	LogSuccess		Assertion Succeeded: (true: ImageFound("go2loginCommerce"))	3	on_go2login	go2Login.script
+2020-04-23 09:44:58.434 -0500	click	go2loginCommerce	at (1247, 91)	4	on_go2login	go2Login.script
+2020-04-23 09:44:58.438 -0500	EndTestCase		(Duration:"3.017472", Errors:"0", Exceptions:"0", StartTime:"2020-04-23 09:44:55 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"0")	1	execute string	(null)
+2020-04-23 09:44:58.541 -0500	SUCCESS		Execution Time 0:00:03 go2Login.script	1	execute string	(null)

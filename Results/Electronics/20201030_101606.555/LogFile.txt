@@ -1,0 +1,13 @@
+﻿2020-10-30 10:16:06.558 -0500	START		Running Electronics.script
+2020-10-30 10:16:07.175 -0500	click	Electronics_1	at (657, 288)	1	on_electronics	Electronics.script
+2020-10-30 10:16:08.086 -0500	click	cams	at (821, 629)	2	on_electronics	Electronics.script
+2020-10-30 10:16:08.893 -0500	click	nikon	at (829, 869)	3	on_electronics	Electronics.script
+2020-10-30 10:16:09.925 -0500	click	NopCommerce_Logo	at (392, 181)	4	on_electronics	Electronics.script
+2020-10-30 10:16:11.718 -0500	click	(TEXT:"Computers")	at (527, 289)	8	on_electronics	Electronics.script
+2020-10-30 10:16:14.067 -0500	click	(TEXT:"Electronics")	at (676, 287)	10	on_electronics	Electronics.script
+2020-10-30 10:16:18.086 -0500	LogWarning		Unable to Find Text: Elecronics -- AutoUpdate engaged	12	on_electronics	Electronics.script
+2020-10-30 10:16:18.670 -0500	AutoUpdateCaptureScreen	AutoUpdate_0001.png		12	on_electronics	Electronics.script
+2020-10-30 10:16:18.671 -0500	AutoUpdateWarning	(TEXT:"Elecronics")	Found Text -- Using TextDifference:1	12	on_electronics	Electronics.script	"Name" = "TextDifference"; "Info" = "TextDifference:1"; 
+2020-10-30 10:16:19.209 -0500	click	(TEXT:"Elecronics")	at (411, 535)	12	on_electronics	Electronics.script
+2020-10-30 10:16:19.676 -0500	EndTestCase		(Duration:"13.116652", Errors:"0", Exceptions:"0", StartTime:"2020-10-30 10:16:06 -0500", Successes:"1", TestCase:"Electronics.script", Warnings:"1")
+2020-10-30 10:16:19.841 -0500	SUCCESS		Execution Time 0:00:13 Electronics.script

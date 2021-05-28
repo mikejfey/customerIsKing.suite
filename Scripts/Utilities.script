@@ -1,0 +1,106 @@
+﻿to BacktoTop
+	TypeText HomeKey
+	WaitFor 10, "NopCommerce_Logo"
+end BacktoTop
+
+to ScrollUntilFound ImageName
+	set the imagesearchcount to 3
+	Repeat until imageFound(image:ImageName)
+		if the repeatIndex is 6 then throw "Image not found.", "Problem occurred while scrolling to find image."
+		TypeText PageDown
+		wait 1
+	end repeat
+	set the imagesearchcount to 7
+end ScrollUntilFound
+
+to LaunchOurApp
+	connect {serverID: "daiserver2", width: "1920", height: "1080"}
+	show remote
+	//wait 1
+	moveto [connectioninfo().ScreenSize.x,connectioninfo().ScreenSize.y]
+	waitfor 20, "WindowsLogo"
+	
+	wait 2
+	TypeText WindowsKey,"r"
+	WaitFor 30.0, "RunWindowLogo"
+	TypeText "chrome http://nopcommerce.testplant.com",return
+	WaitFor 10, "NopCommerce_Logo"
+	put the result into perfTime1
+	log "time to load homepage"&&perfTime1
+	
+	
+end LaunchOurApp
+
+to CloseBrowser
+	TypeText AltKey,F4
+	//WaitFor 10, "ChromeIcon"
+end CloseBrowser
+
+to Cleanup
+	if imagefound(image:"CloseButton",waitFor:0) then
+		CloseBrowser
+	end if
+end Cleanup
+
+on CaptureScreenshot
+	CaptureScreen 
+end CaptureScreenshot
+
+put "SDK Path" into tessPass
+put rectTextReader.someText_text(tessPass) into thisText
+log thisText
+
+put rectTextReader.someText_image("Installing_anchor") into thisText
+log thisText
+
+// a quick way to readtext
+put ImageRectangle(text:"Installing") into myRectangle
+Log readText((topRight(myRectangle) + [4,0]), (bottomLeft(myRectangle) + [400,0]))
+
+function someText_text anchorText
+
+	//put "Preparing" into anchorText
+	put ImageRectangle(text:anchorText) into myRectangle
+	log myRectangle
+	
+	set imageRight = right(myRectangle)
+	set imageTop = top(myRectangle)
+	set imageBottom = bottom(myRectangle)
+	
+	set startLeftEdge= imageRight + 5
+	set endRightEdge = startLeftEdge + 1000
+	
+	set UL = [startLeftEdge, imageTop]
+	set BR = [endRightEdge, imageBottom]
+
+	set the SearchRectangle to [UL,BR]
+
+	put ReadText(UL,BR) into gottenText
+	//log gottenText
+	Return gottenText
+	set the searchRectangle to []
+end someText_text
+
+function someText_image anchorImage
+
+	//put "Preparing" into anchorText
+	put ImageRectangle(anchorImage) into myRectangle
+	log myRectangle
+	
+	set imageRight = right(myRectangle)
+	set imageTop = top(myRectangle)
+	set imageBottom = bottom(myRectangle)
+	
+	set startLeftEdge= imageRight + 5
+	set endRightEdge = startLeftEdge + 1000
+	
+	set UL = [startLeftEdge, imageTop]
+	set BR = [endRightEdge, imageBottom]
+
+	set the SearchRectangle to [UL,BR]
+
+	put ReadText(UL,BR) into gottenText
+	//log gottenText
+	Return gottenText
+	set the searchRectangle to []
+end someText_image

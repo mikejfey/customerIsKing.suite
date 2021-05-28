@@ -1,0 +1,14 @@
+﻿put "admin" into username
+put "pass" into password
+log "Login with:" && username
+log "Password is:" && password
+TypeText windowsKey & "r"
+TypeText "chrome.exe", returnkey
+//waitfor 15,"Chrome/Refresh Icon"
+TypeText controlKey & "l" 
+TypeText  "http://localhost/openemr/" , return
+wait 1
+return [username, password]
+
+put "Electronics" into clixImage
+click clixImage

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<runHistory script="emr/Validate">
+ <run>
+  <RunDate>2020-11-02 17:30:58.712 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.004400</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_173058.712/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in emr_validate:
+Syntax Error at line 30: Syntax Error - can&#x27;t understand [end of script] at character 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:31:08.368 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.004241</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_173108.368/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in emr_validate:
+Syntax Error at line 30: Syntax Error - can&#x27;t understand [end of script] at character 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:31:35.857 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>8.178554</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_173135.857/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:32:25.750 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.825073</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_173225.750/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:49:46.094 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.060476</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_174946.094/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:52:08.770 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.397803</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_175208.770/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:55:11.926 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.740601</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_175511.926/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:57:43.272 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>5.693716</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_175743.272/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Script Error -- Number of Errors logged: 1</ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,6 @@
+﻿2021-04-06 09:31:20.308 -0500	START		Running LoadDataFromExcel.script
+2021-04-06 09:31:20.346 -0500	Log		[{dosage:"one to be taken each day", doseqty:28, originalproduct:"Colofac 135mg tablets", productsearchstring:"colofac", timesdaily:1},{dosage:"one to be taken each day", doseqty:20, originalproduct:"Spasmonal 60mg capsules", productsearchstring:"spasmonal", timesdaily:1}]	4	on_loaddatafromexcel	LoadDataFromExcel.script
+2021-04-06 09:31:20.353 -0500	Log		{dosage:"one to be taken each day", doseqty:20, originalproduct:"Spasmonal 60mg capsules", productsearchstring:"spasmonal", timesdaily:1}	7	on_loaddatafromexcel	LoadDataFromExcel.script
+2021-04-06 09:31:20.360 -0500	Log			8	on_loaddatafromexcel	LoadDataFromExcel.script
+2021-04-06 09:31:20.723 -0500	EndTestCase		(Duration:"0.413531", Errors:"0", Exceptions:"0", StartTime:"2021-04-06 09:31:20 -0500", Successes:"1", TestCase:"LoadDataFromExcel.script", Warnings:"0")
+2021-04-06 09:31:20.833 -0500	SUCCESS		Execution Time 0:00:00 LoadDataFromExcel.script

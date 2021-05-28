@@ -1,0 +1,71 @@
+{
+  "entries" : [
+    {
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-06-08 13:03:58.688 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-08 13:03:59.056 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-08 13:04:00.279 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (883, 833)",
+      "identifier" : "click",
+      "image" : "Laptops\/Pos",
+      "handlerLine" : 10,
+      "timestamp" : "2020-06-08 13:04:01.604 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "Unable to Find Image(s): PriceHightoLow.png -- AutoUpdate engaged",
+      "timestamp" : "2020-06-08 13:04:05.028 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "No Image Found On Screen: \"Laptops\/PriceHightoLow\"",
+      "identifier" : "Exception",
+      "image" : "Laptops\/PriceHightoLow",
+      "handlerLine" : 11,
+      "timestamp" : "2020-06-08 13:04:16.957 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "message" : "(Duration:\"18.274553\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-06-08 13:03:58 -0500\", Successes:\"0\", TestCase:\"navLaptops.script\", Warnings:\"1\")",
+      "timestamp" : "2020-06-08 13:04:16.964 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Image Not Found click Error - No Image Found On Screen: \"Laptops\/PriceHightoLow\" -- Execution Time 0:00:18 navLaptops.script",
+      "timestamp" : "2020-06-08 13:04:17.132 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-06-08 13:03:58.689 -0500"
+}

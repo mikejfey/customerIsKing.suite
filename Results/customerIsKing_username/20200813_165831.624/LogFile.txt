@@ -1,0 +1,5 @@
+﻿2020-08-13 16:58:31.627 -0500	START		Running customerIsKing_username.script	1	execute string	(null)
+2020-08-13 16:58:32.192 -0500	click	Email4Login	at (1054, 523)	4	on_customerisking_username	customerIsKing_username.script
+2020-08-13 16:58:33.145 -0500	typetext		mike.fey@eggplant.io	6	on_customerisking_username	customerIsKing_username.script
+2020-08-13 16:58:33.154 -0500	EndTestCase		(Duration:"1.524435", Errors:"0", Exceptions:"0", StartTime:"2020-08-13 16:58:31 -0500", Successes:"1", TestCase:"customerIsKing_username.script", Warnings:"0")	1	execute string	(null)
+2020-08-13 16:58:33.304 -0500	SUCCESS		Execution Time 0:00:01 customerIsKing_username.script	1	execute string	(null)

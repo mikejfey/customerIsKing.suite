@@ -1,0 +1,25 @@
+﻿set myExcelDB to table ("Sheet1") of {type:"excel", file:ResourcePath("OptumDrugs.xlsx")}
+put the records of myExcelDB into results
+
+Log results
+log "======================"
+Put any item of results into newDrugRow
+Log newDrugRow
+put newDrugRow."productSearchString" into prodString
+put  newDrugRow."originalProduct" into origProd
+put newDrugRow."dosage" into dosage
+log prodString
+log origProd
+log dosage
+log "=================="
+Put item 2 of results into secondDrugRow
+Log secondDrugRow
+put secondDrugRow."productSearchString" into prodString
+put  secondDrugRow."originalProduct" into origProd
+put secondDrugRow."dosage" into dosage
+log prodString
+log origProd
+log dosage
+
+
+

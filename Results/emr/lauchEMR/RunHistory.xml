@@ -1,0 +1,207 @@
+﻿<?xml version="1.0"?>
+<runHistory script="emr/lauchEMR">
+ <run>
+  <RunDate>2020-11-02 17:11:46.422 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.318852</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_171146.422/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- waitfor Error - Could Not Open Image: Chrome/Refresh Icon</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:14:04.653 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.767108</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171404.653/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:14:37.987 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.771862</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171437.987/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:14:48.598 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.719541</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171448.598/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:15:05.655 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.790492</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171505.655/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:16:52.759 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.728466</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171652.759/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:17:37.693 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.722652</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171737.693/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:19:30.619 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.743693</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_171930.619/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:25:33.712 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.702036</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_172533.712/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:26:46.041 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.748040</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_172646.041/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:32:08.455 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.722479</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_173208.455/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:48:58.370 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.083066</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201102_174858.370/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:49:28.181 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.731299</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_174928.181/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:51:51.202 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.705767</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_175151.202/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:54:54.093 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.736537</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_175454.093/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-02 17:57:25.721 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>3.717020</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201102_175725.721/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2021-02-10 14:31:13.714 -0600</RunDate>
+  <Status>Success</Status>
+  <Duration>4.645568</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20210210_143113.714/LogFile.txt</LogFile>
+  <ReturnValue>[&quot;admin&quot;,&quot;pass&quot;]</ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

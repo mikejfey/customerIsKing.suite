@@ -1,0 +1,23 @@
+{
+  "originalcapturelocation" : [
+    740,
+    814,
+    179,
+    154
+  ],
+  "createddate" : 1603222421.228842,
+  "lastmodifieddate" : 1603222421.228843,
+  "name" : "image0007",
+  "testlocationdata" : [
+    {
+      "name" : "image0007.png",
+      "type" : 1,
+      "capturerect" : [
+        740,
+        814,
+        179,
+        154
+      ]
+    }
+  ]
+}

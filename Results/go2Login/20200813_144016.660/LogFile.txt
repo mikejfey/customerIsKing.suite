@@ -1,0 +1,5 @@
+﻿2020-08-13 14:40:16.665 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-08-13 14:40:21.921 -0500	LogWarning		Unable to Find Image(s): mobileLOGIN.png -- AutoUpdate engaged	8	on_go2login	go2Login.script
+2020-08-13 14:40:37.088 -0500	Exception	mobileLOGIN	No Image Found On Screen: "mobileLOGIN"	8	on_go2login	go2Login.script
+2020-08-13 14:40:37.105 -0500	EndTestCase		(Duration:"20.436701", Errors:"1", Exceptions:"1", StartTime:"2020-08-13 14:40:16 -0500", Successes:"0", TestCase:"go2Login.script", Warnings:"1")	1	execute string	(null)
+2020-08-13 14:40:37.127 -0500	ABORTED		Execution Time 0:00:20 go2Login.script	1	execute string	(null)

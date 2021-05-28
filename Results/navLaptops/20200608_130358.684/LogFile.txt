@@ -1,0 +1,8 @@
+﻿2020-06-08 13:03:58.688 -0500	START		Running navLaptops.script	1	execute string	(null)
+2020-06-08 13:03:59.056 -0500	click	Computers	at (535, 291)	8	on_navlaptops	navLaptops.script
+2020-06-08 13:04:00.279 -0500	click	Laptops/Laps	at (1096, 642)	9	on_navlaptops	navLaptops.script
+2020-06-08 13:04:01.604 -0500	click	Laptops/Pos	at (883, 833)	10	on_navlaptops	navLaptops.script
+2020-06-08 13:04:05.028 -0500	LogWarning		Unable to Find Image(s): PriceHightoLow.png -- AutoUpdate engaged	11	on_navlaptops	navLaptops.script
+2020-06-08 13:04:16.957 -0500	Exception	Laptops/PriceHightoLow	No Image Found On Screen: "Laptops/PriceHightoLow"	11	on_navlaptops	navLaptops.script
+2020-06-08 13:04:16.964 -0500	EndTestCase		(Duration:"18.274553", Errors:"1", Exceptions:"1", StartTime:"2020-06-08 13:03:58 -0500", Successes:"0", TestCase:"navLaptops.script", Warnings:"1")	1	execute string	(null)
+2020-06-08 13:04:17.132 -0500	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Laptops/PriceHightoLow" -- Execution Time 0:00:18 navLaptops.script	1	execute string	(null)

@@ -1,0 +1,7 @@
+﻿2020-10-30 09:30:43.672 -0500	START		Running navLaptops.script	1	execute string	(null)
+2020-10-30 09:30:44.044 -0500	click	Computers	at (535, 291)	3	on_navlaptops	navLaptops.script
+2020-10-30 09:30:45.580 -0500	click	Laptops/Laps.png	at (1096, 642)	4	on_navlaptops	navLaptops.script
+2020-10-30 09:30:46.297 -0500	typetext		[pageDown]	5	on_navlaptops	navLaptops.script
+2020-10-30 09:30:50.170 -0500	LogWarning		Unable to Find Image(s): AppleMacBookPro13inch_price_TL.png -- AutoUpdate engaged	6	on_navlaptops	navLaptops.script
+2020-10-30 09:31:22.885 -0500	EndTestCase		(Duration:"39.210292", Errors:"1", Exceptions:"0", StartTime:"2020-10-30 09:30:43 -0500", Successes:"0", TestCase:"navLaptops.script", Warnings:"1")	1	execute string	(null)
+2020-10-30 09:31:22.900 -0500	ABORTED		Execution Time 0:00:39 navLaptops.script	1	execute string	(null)

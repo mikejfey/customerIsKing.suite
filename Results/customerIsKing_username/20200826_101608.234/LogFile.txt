@@ -1,0 +1,14 @@
+﻿2020-08-26 10:16:08.237 -0500	START		Running customerIsKing_username.script	1	execute string	(null)
+2020-08-26 10:16:08.342 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:09.163 -0500	imagefound	Mobile_Email	Unable to Find Image Mobile_Email	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:10.063 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:14.894 -0500	imagefound	Mobile_Email	Unable to Find Image Mobile_Email	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:15.798 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:20.016 -0500	imagefound	Mobile_Email	Unable to Find Image Mobile_Email	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:20.913 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:25.431 -0500	imagefound	Mobile_Email	Unable to Find Image Mobile_Email	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:26.318 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:30.553 -0500	imagefound	Mobile_Email	Unable to Find Image Mobile_Email	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:30.574 -0500	Throw		Image not found - Image not found while scrolling Up.	5	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:16:30.587 -0500	EndTestCase		(Duration:"22.348503", Errors:"1", Exceptions:"1", StartTime:"2020-08-26 10:16:08 -0500", Successes:"0", TestCase:"customerIsKing_username.script", Warnings:"0")	1	execute string	(null)
+2020-08-26 10:16:30.793 -0500	FAILURE	Screen_Error.png	Image not found Image not found while scrolling Up. -- Execution Time 0:00:22 customerIsKing_username.script	1	execute string	(null)

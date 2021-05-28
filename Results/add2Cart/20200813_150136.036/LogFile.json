@@ -1,0 +1,80 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running mobile_add2Cart.script",
+      "timestamp" : "2020-08-13 15:01:36.038 -0500"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-13 15:01:36.142 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 15:01:37.004 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 15:01:37.874 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 15:01:42.130 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 15:01:42.979 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (256, 1376)",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 15:01:47.297 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_mobile_add2cart",
+      "message" : "at (256, 1376)",
+      "identifier" : "tap",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 2,
+      "timestamp" : "2020-08-13 15:01:47.605 -0500",
+      "scriptName" : "mobile_add2Cart.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"12.577214\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-13 15:01:36 -0500\", Successes:\"1\", TestCase:\"mobile_add2Cart.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 15:01:48.617 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:12 mobile_add2Cart.script",
+      "timestamp" : "2020-08-13 15:01:48.714 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 15:01:36.039 -0500"
+}

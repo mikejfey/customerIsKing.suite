@@ -1,0 +1,8 @@
+﻿2020-08-26 10:16:00.922 -0500	START		Running LaunchMobileApp.script	1	execute string	(null)
+2020-08-26 10:16:00.952 -0500	connect		iphone:(null)	1	on_launchmobileapp	LaunchMobileApp.script
+2020-08-26 10:16:00.957 -0500	show		remote	2	on_launchmobileapp	LaunchMobileApp.script
+2020-08-26 10:16:00.965 -0500	launchapp		Safari	3	on_launchmobileapp	LaunchMobileApp.script
+2020-08-26 10:16:02.363 -0500	waitfor	nop_logo_mobile	found at (193, 518)	4	on_launchmobileapp	LaunchMobileApp.script
+2020-08-26 10:16:02.475 -0500	tap		at (193, 518)	5	on_launchmobileapp	LaunchMobileApp.script
+2020-08-26 10:16:02.480 -0500	EndTestCase		(Duration:"1.55506", Errors:"0", Exceptions:"0", StartTime:"2020-08-26 10:16:00 -0500", Successes:"1", TestCase:"LaunchMobileApp.script", Warnings:"0")	1	execute string	(null)
+2020-08-26 10:16:02.607 -0500	SUCCESS		Execution Time 0:00:01 LaunchMobileApp.script	1	execute string	(null)

@@ -1,0 +1,16 @@
+﻿2020-08-13 13:53:45.294 -0500	START		Running mobileNavDesktop.script
+2020-08-13 13:53:45.978 -0500	click	CATEGORIES	at (194, 1023)	1	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 13:53:46.903 -0500	click	Computers_mobile	at (169, 1121)	2	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 13:53:46.923 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:53:47.476 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:53:48.454 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:53:53.299 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:53:54.179 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:53:59.004 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:54:00.381 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:54:05.413 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:54:06.244 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:54:10.467 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:54:10.476 -0500	Throw		Image not found - Image not found while scrolling up.	5	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 13:54:11.200 -0500	EndTestCase		(Duration:"25.904619", Errors:"1", Exceptions:"1", StartTime:"2020-08-13 13:53:45 -0500", Successes:"0", TestCase:"mobileNavDesktop.script", Warnings:"0")
+2020-08-13 13:54:11.311 -0500	FAILURE	Screen_Error.png	Image not found Image not found while scrolling up. -- Execution Time 0:00:25 mobileNavDesktop.script

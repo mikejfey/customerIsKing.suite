@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="zcomps_script" package="nopCommerce.suite" timestamp="2020-06-24 09:10:41.964 -0500"
+ tests="1"  failures="0" errors="0" time="2.823055">
+  <properties>
+   <property name="RunDate" value="2020-06-24 09:10:41.964 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="zcomps.script" assertions="1" status="success"  time="2.819612">
+  </testcase>
+ </testsuite>
+</testsuites>

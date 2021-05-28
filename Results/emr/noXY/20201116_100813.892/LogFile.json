@@ -1,0 +1,88 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/noXY.script",
+      "timestamp" : "2020-11-16 10:08:13.894 -0600"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (706, 386)",
+      "identifier" : "click",
+      "image" : "zzzz\/spyglass",
+      "handlerLine" : 1,
+      "timestamp" : "2020-11-16 10:08:14.395 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(810,646,880,667)",
+      "timestamp" : "2020-11-16 10:08:15.861 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.com",
+      "timestamp" : "2020-11-16 10:08:15.873 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (810, 646)",
+      "identifier" : "drag",
+      "image" : "zzzz\/nhl__A",
+      "handlerLine" : 9,
+      "timestamp" : "2020-11-16 10:08:16.424 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (1131, 489)",
+      "identifier" : "drop",
+      "image" : "zzzz\/AIAgentBookmark",
+      "handlerLine" : 10,
+      "timestamp" : "2020-11-16 10:08:18.192 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (706, 386)",
+      "identifier" : "click",
+      "image" : "zzzz\/spyglass",
+      "handlerLine" : 11,
+      "timestamp" : "2020-11-16 10:08:19.387 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(1090,518,1160,539)",
+      "timestamp" : "2020-11-16 10:08:20.875 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.com",
+      "timestamp" : "2020-11-16 10:08:20.887 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 13
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"7.455891\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-16 10:08:13 -0600\", Successes:\"1\", TestCase:\"emr\/noXY.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-16 10:08:21.351 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:07 emr\/noXY.script",
+      "timestamp" : "2020-11-16 10:08:21.447 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-11-16 10:08:13.895 -0600"
+}

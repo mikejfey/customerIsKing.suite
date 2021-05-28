@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="GetStockPrice_apitest" package="nopCommerce.suite" timestamp="2020-06-24 14:55:23.673 -0500"
+ tests="1"  failures="1" errors="1" time="10.678278">
+  <properties>
+   <property name="RunDate" value="2020-06-24 14:55:23.673 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="GetStockPrice.apitest" assertions="3" status="error"  time="10.669686">
+    <failure type="FAILURE" message="File Not Found moveto Error - Could Not Open Image: ImageFound -- Execution Time 0:00:10 GetStockPrice.apitest" />
+    <error type="Exception" message="Could Not Open Image: ImageFound" />
+  </testcase>
+ </testsuite>
+</testsuites>

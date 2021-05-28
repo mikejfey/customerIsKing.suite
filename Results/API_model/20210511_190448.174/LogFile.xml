@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="API_model_script" package="customerIsKing.suite" timestamp="2021-05-11 19:04:48.174 -0500"
+ tests="1"  failures="1" errors="0" time="1.052466">
+  <properties>
+   <property name="RunDate" value="2021-05-11 19:04:48.174 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="API_model.script" assertions="2" status="failure"  time="1.049074">
+    <failure type="FAILURE" message="Invalid JSON Can't get value of JSON expression '{authenticationtype:&quot;None&quot;, httpmethod:&quot;GET&quot;, mimeType:&quot;application/json&quot;, oauthToken:&quot;&quot;, passwor...' (reason: No string key for value in object around character 1.) -- Execution Time 0:00:01 API_model.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

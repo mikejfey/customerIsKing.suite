@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2020-09-18 00:30:45 +0000";
+    CaptureHost = "AG:424554424e443498";
+    CaptureScreenSize =     (
+        1440,
+        2960
+    );
+    HasAlpha = 1;
+    HotSpotX = 539;
+    HotSpotY = 400;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 161;
+    OriginalLocationY = 1554;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = "mobileComputersImage/mobileComputersImage_andr";
+    tags =     (
+    );
+}

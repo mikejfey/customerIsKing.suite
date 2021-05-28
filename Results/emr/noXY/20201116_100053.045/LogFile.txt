@@ -1,0 +1,13 @@
+﻿2020-11-16 10:00:53.047 -0600	START		Running emr/noXY.script
+2020-11-16 10:00:56.617 -0600	LogWarning		Unable to Find Image(s): nhl__A.png -- AutoUpdate engaged	2	on_emr_noxy	emr/noXY.script
+2020-11-16 10:00:57.803 -0600	AutoUpdateCaptureScreen	AutoUpdate_0001.png		2	on_emr_noxy	emr/noXY.script
+2020-11-16 10:00:57.828 -0600	AutoUpdateWarning	zzzz/nhl__A.png	Found Alternate Image -- Using Scaling Search 0.9500. Applying change to image.	2	on_emr_noxy	emr/noXY.script	"Name" = "Scaling Search"; "Info" = "0.9500"; 
+2020-11-16 10:00:58.692 -0600	readtext		(810,646,880,667)	2	on_emr_noxy	emr/noXY.script
+2020-11-16 10:00:58.699 -0600	Log		NHL.cdm-	3	on_emr_noxy	emr/noXY.script
+2020-11-16 10:00:58.714 -0600	Log		[15,17]	6	on_emr_noxy	emr/noXY.script
+2020-11-16 10:00:59.170 -0600	drag	zzzz/nhl__A	at (810, 646)	9	on_emr_noxy	emr/noXY.script
+2020-11-16 10:01:00.893 -0600	drop	zzzz/AIAgentBookmark	at (1131, 489)	10	on_emr_noxy	emr/noXY.script
+2020-11-16 10:01:02.634 -0600	readtext		(1090,518,1160,539)	12	on_emr_noxy	emr/noXY.script
+2020-11-16 10:01:02.639 -0600	Log		NHL.cdm-	13	on_emr_noxy	emr/noXY.script
+2020-11-16 10:01:03.076 -0600	EndTestCase		(Duration:"10.027276", Errors:"0", Exceptions:"0", StartTime:"2020-11-16 10:00:53 -0600", Successes:"1", TestCase:"emr/noXY.script", Warnings:"1")
+2020-11-16 10:01:03.184 -0600	SUCCESS		Execution Time 0:00:10 emr/noXY.script

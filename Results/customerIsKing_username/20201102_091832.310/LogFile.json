@@ -1,0 +1,59 @@
+{
+  "entries" : [
+    {
+      "message" : "Running customerIsKing_username.script",
+      "timestamp" : "2020-11-02 09:18:32.312 -0600",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "at (1054, 523)",
+      "identifier" : "click",
+      "image" : "Email4Login",
+      "handlerLine" : 4,
+      "timestamp" : "2020-11-02 09:18:32.547 -0600",
+      "scriptName" : "customerIsKing_username.script"
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "bill@hagrary.com",
+      "timestamp" : "2020-11-02 09:18:32.552 -0600",
+      "identifier" : "Log",
+      "scriptName" : "customerIsKing_username.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "desktop",
+      "timestamp" : "2020-11-02 09:18:32.557 -0600",
+      "identifier" : "Log",
+      "scriptName" : "customerIsKing_username.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "bill@hagrary.com",
+      "timestamp" : "2020-11-02 09:18:33.443 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "customerIsKing_username.script",
+      "handlerLine" : 8
+    },
+    {
+      "message" : "(Duration:\"1.13501\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-02 09:18:32 -0600\", Successes:\"1\", TestCase:\"customerIsKing_username.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 09:18:33.449 -0600",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 customerIsKing_username.script",
+      "timestamp" : "2020-11-02 09:18:33.609 -0600",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 09:18:32.313 -0600"
+}

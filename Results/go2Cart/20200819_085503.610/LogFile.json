@@ -1,0 +1,35 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Cart.script",
+      "timestamp" : "2020-08-19 08:55:03.612 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_go2cart",
+      "message" : "at (1467, 94)",
+      "identifier" : "click",
+      "image" : "Shoppingcart",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-19 08:55:13.824 -0500",
+      "scriptName" : "go2Cart.script"
+    },
+    {
+      "message" : "(Duration:\"10.216027\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-19 08:55:03 -0500\", Successes:\"1\", TestCase:\"go2Cart.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-19 08:55:13.830 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:10 go2Cart.script",
+      "timestamp" : "2020-08-19 08:55:13.900 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-19 08:55:03.613 -0500"
+}

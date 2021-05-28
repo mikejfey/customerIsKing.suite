@@ -1,0 +1,6 @@
+﻿2020-11-16 09:59:29.794 -0600	START		Running emr/noXY.script
+2020-11-16 09:59:30.042 -0600	readtext		(865,520,936,539)	2	on_emr_noxy	emr/noXY.script
+2020-11-16 09:59:30.045 -0600	Log		NHL.com	3	on_emr_noxy	emr/noXY.script
+2020-11-16 09:59:30.053 -0600	Log		[15,17]	6	on_emr_noxy	emr/noXY.script
+2020-11-16 09:59:30.491 -0600	EndTestCase		(Duration:"0.695438", Errors:"0", Exceptions:"0", StartTime:"2020-11-16 09:59:29 -0600", Successes:"1", TestCase:"emr/noXY.script", Warnings:"0")
+2020-11-16 09:59:30.618 -0600	SUCCESS		Execution Time 0:00:00 emr/noXY.script

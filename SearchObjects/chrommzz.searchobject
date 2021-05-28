@@ -1,0 +1,29 @@
+{
+  "ocrcapturestring" : "c (ffilfrlfil-",
+  "originalcapturelocation" : [
+    7,
+    106,
+    80,
+    87
+  ],
+  "createddate" : 1603222771.2765961,
+  "lastmodifieddate" : 1603222833.461472,
+  "name" : "chrommzz",
+  "testlocationdata" : [
+    {
+      "name" : "chrommzz.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "c (ffilfrlfil-",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        7,
+        106,
+        80,
+        87
+      ]
+    }
+  ]
+}

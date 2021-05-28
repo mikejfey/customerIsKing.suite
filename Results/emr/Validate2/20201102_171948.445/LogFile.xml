@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="emr/Validate_script" package="customerIsKing.suite" timestamp="2020-11-02 17:19:48.445 -0600"
+ tests="1"  failures="1" errors="1" time="0.049994">
+  <properties>
+   <property name="RunDate" value="2020-11-02 17:19:48.445 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="emr/Validate.script" assertions="1" status="error"  time="0.046285">
+    <failure type="FAILURE" message="File Not Found readtext Error - Could Not Open Image: miketopMenu/monday_TL -- Execution Time 0:00:00 emr/Validate.script" />
+    <error type="Exception" message="Could Not Open Image: miketopMenu/monday_TL" />
+  </testcase>
+ </testsuite>
+</testsuites>

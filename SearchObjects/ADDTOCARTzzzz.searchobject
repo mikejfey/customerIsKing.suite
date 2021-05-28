@@ -1,0 +1,26 @@
+{
+  "ocrcapturestring" : "ADD TO CART",
+  "originalcapturelocation" : [
+    994,
+    723,
+    105,
+    15
+  ],
+  "createddate" : 1603222422.8146939,
+  "lastmodifieddate" : 1605541567.7608199,
+  "name" : "ADDTOCARTzzzz",
+  "testlocationdata" : [
+    {
+      "capturerect" : [
+        994,
+        723,
+        105,
+        15
+      ],
+      "deleted" : true,
+      "capturedocrtext" : "ADD TO CART",
+      "name" : "ADDTOCARTzzzz.png",
+      "type" : 1
+    }
+  ]
+}

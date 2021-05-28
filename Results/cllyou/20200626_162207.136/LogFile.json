@@ -1,0 +1,159 @@
+{
+  "entries" : [
+    {
+      "message" : "Running cllyou.script",
+      "timestamp" : "2020-06-26 16:22:07.139 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "iPhone:(null)",
+      "timestamp" : "2020-06-26 16:22:07.149 -0500",
+      "identifier" : "connect",
+      "scriptName" : "cllyou.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "remote",
+      "timestamp" : "2020-06-26 16:22:07.150 -0500",
+      "identifier" : "show",
+      "scriptName" : "cllyou.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (161, 1641)",
+      "identifier" : "click",
+      "image" : "phone",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-26 16:22:07.446 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (646, 1073)",
+      "identifier" : "click",
+      "image" : "image0001",
+      "handlerLine" : 10,
+      "timestamp" : "2020-06-26 16:22:09.376 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (414, 879)",
+      "identifier" : "click",
+      "image" : "image0002",
+      "handlerLine" : 11,
+      "timestamp" : "2020-06-26 16:22:11.171 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (422, 666)",
+      "identifier" : "click",
+      "image" : "image0003",
+      "handlerLine" : 12,
+      "timestamp" : "2020-06-26 16:22:12.933 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (662, 845)",
+      "identifier" : "click",
+      "image" : "image0004",
+      "handlerLine" : 13,
+      "timestamp" : "2020-06-26 16:22:14.663 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (182, 869)",
+      "identifier" : "click",
+      "image" : "image0005",
+      "handlerLine" : 14,
+      "timestamp" : "2020-06-26 16:22:16.405 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (666, 1076)",
+      "identifier" : "click",
+      "image" : "image0006",
+      "handlerLine" : 15,
+      "timestamp" : "2020-06-26 16:22:18.151 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (670, 1069)",
+      "identifier" : "click",
+      "image" : "image0007",
+      "handlerLine" : 16,
+      "timestamp" : "2020-06-26 16:22:20.033 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (181, 646)",
+      "identifier" : "click",
+      "image" : "image0008",
+      "handlerLine" : 17,
+      "timestamp" : "2020-06-26 16:22:21.306 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (176, 1052)",
+      "identifier" : "click",
+      "image" : "image0009",
+      "handlerLine" : 18,
+      "timestamp" : "2020-06-26 16:22:22.219 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (176, 1052)",
+      "identifier" : "click",
+      "image" : "image0010",
+      "handlerLine" : 19,
+      "timestamp" : "2020-06-26 16:22:23.399 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (417, 1454)",
+      "identifier" : "click",
+      "image" : "image0011",
+      "handlerLine" : 20,
+      "timestamp" : "2020-06-26 16:22:24.362 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "handlerName" : "on_cllyou",
+      "message" : "at (423, 1463)",
+      "identifier" : "click",
+      "image" : "image0012",
+      "handlerLine" : 23,
+      "timestamp" : "2020-06-26 16:22:35.307 -0500",
+      "scriptName" : "cllyou.script"
+    },
+    {
+      "message" : "(Duration:\"28.170174\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-26 16:22:07 -0500\", Successes:\"1\", TestCase:\"cllyou.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-26 16:22:35.312 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:28 cllyou.script",
+      "timestamp" : "2020-06-26 16:22:35.476 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-06-26 16:22:07.141 -0500"
+}

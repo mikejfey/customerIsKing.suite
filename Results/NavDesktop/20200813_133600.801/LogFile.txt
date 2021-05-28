@@ -1,0 +1,15 @@
+﻿2020-08-13 13:36:00.805 -0500	START		Running mobileNavDesktop.script
+2020-08-13 13:36:01.483 -0500	click	CATEGORIES	at (194, 1023)	1	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 13:36:03.458 -0500	click	Computers_mobile	at (169, 1121)	2	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 13:36:04.178 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	3	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:04.422 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:06.668 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	11	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:06.912 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:09.177 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	11	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:09.444 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:11.739 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	11	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:11.971 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:14.194 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	11	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:14.224 -0500	Throw		Image not found - Image not found while scrolling up.	5	on_scrolluntilfound	mobileNavDesktop.script
+2020-08-13 13:36:14.839 -0500	EndTestCase		(Duration:"14.033065", Errors:"1", Exceptions:"1", StartTime:"2020-08-13 13:36:00 -0500", Successes:"0", TestCase:"mobileNavDesktop.script", Warnings:"0")
+2020-08-13 13:36:14.965 -0500	FAILURE	Screen_Error.png	Image not found Image not found while scrolling up. -- Execution Time 0:00:14 mobileNavDesktop.script

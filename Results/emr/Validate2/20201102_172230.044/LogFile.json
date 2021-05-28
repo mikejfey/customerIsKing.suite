@@ -1,0 +1,34 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:22:30.046 -0600"
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(283,223,346,243)",
+      "timestamp" : "2020-11-02 17:22:30.671 -0600"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : " not match Wednesday",
+      "timestamp" : "2020-11-02 17:22:30.685 -0600",
+      "identifier" : "LogError",
+      "scriptName" : "emr\/Validate.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.403326\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-11-02 17:22:30 -0600\", Successes:\"0\", TestCase:\"emr\/Validate.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:22:31.451 -0600"
+    },
+    {
+      "message" : "Script Error Number of Errors logged: 1 -- Execution Time 0:00:01 emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:22:31.719 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:22:30.047 -0600"
+}

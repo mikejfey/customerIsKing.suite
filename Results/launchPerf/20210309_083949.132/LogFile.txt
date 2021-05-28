@@ -1,0 +1,13 @@
+﻿2021-03-09 08:39:49.135 -0600	START		Running launchPerf.script
+2021-03-09 08:39:49.374 -0600	connect		daiserver2:(null)	1	on_launchperf	launchPerf.script
+2021-03-09 08:39:49.382 -0600	show		remote	2	on_launchperf	launchPerf.script
+2021-03-09 08:39:49.397 -0600	moveto		at (1920, 1080)	4	on_launchperf	launchPerf.script
+2021-03-09 08:39:49.659 -0600	waitfor	WindowsLogo	found at (28, 1066)	5	on_launchperf	launchPerf.script
+2021-03-09 08:39:51.729 -0600	typetext		[windowsKey]r	8	on_launchperf	launchPerf.script
+2021-03-09 08:39:52.723 -0600	waitfor	RunWindowLogo	found at (45, 892)	9	on_launchperf	launchPerf.script
+2021-03-09 08:39:53.679 -0600	typetext		chrome http://nopcommerce.testplant.com[return]	10	on_launchperf	launchPerf.script
+2021-03-09 08:39:53.884 -0600	waitfor	NopCommerce_Logo	found at (392, 213)	11	on_launchperf	launchPerf.script
+2021-03-09 08:39:53.922 -0600	Log		time to load homepage 0.198997 seconds	13	on_launchperf	launchPerf.script
+2021-03-09 08:39:53.948 -0600	Log		Writing to file	14	on_launchperf	launchPerf.script
+2021-03-09 08:39:54.847 -0600	EndTestCase		(Duration:"5.710746", Errors:"0", Exceptions:"0", StartTime:"2021-03-09 08:39:49 -0600", Successes:"1", TestCase:"launchPerf.script", Warnings:"0")
+2021-03-09 08:39:55.002 -0600	SUCCESS		Execution Time 0:00:05 launchPerf.script

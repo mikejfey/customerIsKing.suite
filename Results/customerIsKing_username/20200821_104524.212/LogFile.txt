@@ -1,0 +1,9 @@
+﻿2020-08-21 10:45:24.214 -0500	START		Running customerIsKing_username.script	1	execute string	(null)
+2020-08-21 10:45:24.238 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-21 10:45:24.456 -0500	imagefound	Mobile_Email	Unable to Find Image Mobile_Email	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-21 10:45:25.389 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-21 10:45:29.701 -0500	imagefound	Mobile_Email	found at (411, 1040)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-21 10:45:30.639 -0500	click	Mobile_Email	at (411, 1040)	12	on_customerisking_username	customerIsKing_username.script
+2020-08-21 10:45:31.587 -0500	typetext		mike.fey@eggplant.io	13	on_customerisking_username	customerIsKing_username.script
+2020-08-21 10:45:31.594 -0500	EndTestCase		(Duration:"7.377866", Errors:"0", Exceptions:"0", StartTime:"2020-08-21 10:45:24 -0500", Successes:"1", TestCase:"customerIsKing_username.script", Warnings:"0")	1	execute string	(null)
+2020-08-21 10:45:31.685 -0500	SUCCESS		Execution Time 0:00:07 customerIsKing_username.script	1	execute string	(null)

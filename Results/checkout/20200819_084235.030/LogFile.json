@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "message" : "Running checkout.script",
+      "timestamp" : "2020-08-19 08:42:35.032 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_checkout",
+      "message" : "Unable to Find Image(s): CHECKOUT_terms.png -- AutoUpdate engaged",
+      "timestamp" : "2020-08-19 08:42:40.535 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "checkout.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_checkout",
+      "message" : "No Image Found On Screen: \"CHECKOUT_terms\"",
+      "identifier" : "Exception",
+      "image" : "CHECKOUT_terms",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-19 08:42:51.767 -0500",
+      "scriptName" : "checkout.script"
+    },
+    {
+      "message" : "(Duration:\"16.736809\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-19 08:42:35 -0500\", Successes:\"0\", TestCase:\"checkout.script\", Warnings:\"1\")",
+      "timestamp" : "2020-08-19 08:42:51.771 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Image Not Found click Error - No Image Found On Screen: \"CHECKOUT_terms\" -- Execution Time 0:00:16 checkout.script",
+      "timestamp" : "2020-08-19 08:42:51.880 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-08-19 08:42:35.034 -0500"
+}

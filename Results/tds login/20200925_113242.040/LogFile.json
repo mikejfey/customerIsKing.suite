@@ -1,0 +1,72 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running tds login.script",
+      "timestamp" : "2020-09-25 11:32:42.043 -0500"
+    },
+    {
+      "handlerName" : "on_tds_login",
+      "message" : "at (1282, 91)",
+      "identifier" : "click",
+      "image" : "Login_tds",
+      "handlerLine" : 8,
+      "timestamp" : "2020-09-25 11:32:42.591 -0500",
+      "scriptName" : "tds login.script"
+    },
+    {
+      "handlerName" : "on_tds_login",
+      "message" : "at (1122, 522)",
+      "identifier" : "click",
+      "image" : "Email_tds",
+      "handlerLine" : 9,
+      "timestamp" : "2020-09-25 11:32:43.465 -0500",
+      "scriptName" : "tds login.script"
+    },
+    {
+      "handlerName" : "on_tds_login",
+      "message" : "mike.fey@eggplant.io",
+      "timestamp" : "2020-09-25 11:32:44.430 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "tds login.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_tds_login",
+      "message" : "at (1138, 579)",
+      "identifier" : "click",
+      "image" : "Password_0001",
+      "handlerLine" : 11,
+      "timestamp" : "2020-09-25 11:32:45.653 -0500",
+      "scriptName" : "tds login.script"
+    },
+    {
+      "handlerName" : "on_tds_login",
+      "message" : "eggydemo",
+      "timestamp" : "2020-09-25 11:32:46.465 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "tds login.script",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_tds_login",
+      "message" : "at (1258, 722)",
+      "identifier" : "click",
+      "image" : "loginButton",
+      "handlerLine" : 13,
+      "timestamp" : "2020-09-25 11:32:47.698 -0500",
+      "scriptName" : "tds login.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.088692\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-09-25 11:32:42 -0500\", Successes:\"1\", TestCase:\"tds login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-09-25 11:32:48.133 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:06 tds login.script",
+      "timestamp" : "2020-09-25 11:32:48.232 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-09-25 11:32:42.044 -0500"
+}

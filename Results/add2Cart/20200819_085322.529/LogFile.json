@@ -1,0 +1,53 @@
+{
+  "entries" : [
+    {
+      "message" : "Running mobile_add2Cart.script",
+      "timestamp" : "2020-08-19 08:53:22.531 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_mobile_add2cart",
+      "message" : "at (775, 1217)",
+      "identifier" : "click",
+      "image" : "dtop2cart_web",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-19 08:53:22.716 -0500",
+      "scriptName" : "mobile_add2Cart.script"
+    },
+    {
+      "handlerName" : "on_mobile_add2cart",
+      "message" : "at (940, 942)",
+      "identifier" : "click",
+      "image" : "400GB_web",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-19 08:53:26.882 -0500",
+      "scriptName" : "mobile_add2Cart.script"
+    },
+    {
+      "handlerName" : "on_mobile_add2cart",
+      "message" : "at (1059, 1249)",
+      "identifier" : "click",
+      "image" : "ADDTOCART_web",
+      "handlerLine" : 5,
+      "timestamp" : "2020-08-19 08:53:27.773 -0500",
+      "scriptName" : "mobile_add2Cart.script"
+    },
+    {
+      "message" : "(Duration:\"5.290155\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-19 08:53:22 -0500\", Successes:\"1\", TestCase:\"mobile_add2Cart.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-19 08:53:27.823 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:05 mobile_add2Cart.script",
+      "timestamp" : "2020-08-19 08:53:27.858 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-19 08:53:22.532 -0500"
+}

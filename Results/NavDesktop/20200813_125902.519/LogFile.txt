@@ -1,0 +1,6 @@
+﻿2020-08-13 12:59:02.522 -0500	START		Running mobileNavDesktop.script
+2020-08-13 12:59:03.351 -0500	click	CATEGORIES	at (194, 1023)	1	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 12:59:05.238 -0500	click	Computers_mobile	at (169, 1121)	2	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 12:59:06.151 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	3	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 12:59:06.767 -0500	EndTestCase		(Duration:"4.243822", Errors:"0", Exceptions:"0", StartTime:"2020-08-13 12:59:02 -0500", Successes:"1", TestCase:"mobileNavDesktop.script", Warnings:"0")
+2020-08-13 12:59:06.816 -0500	SUCCESS		Execution Time 0:00:04 mobileNavDesktop.script

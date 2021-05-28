@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="KS_enterusername">
+ <run>
+  <RunDate>2020-06-25 15:41:55.194 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.044173</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200625_154155.194/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-25 15:43:59.557 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>6.087875</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200625_154359.557/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-25 15:44:17.313 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>6.062634</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200625_154417.313/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

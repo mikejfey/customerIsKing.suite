@@ -1,0 +1,6 @@
+﻿2020-06-24 13:44:21.284 -0500	START		Running zzzrunStockAPI.script
+2020-06-24 13:44:22.071 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	3	on_<initialhandler>	
+2020-06-24 13:44:22.089 -0500	Log		"low":6.14	11	on_<initialhandler>	
+2020-06-24 13:44:22.106 -0500	Log		stockPrice	3	on_zzzrunstockapi	zzzrunStockAPI.script
+2020-06-24 13:44:25.771 -0500	EndTestCase		(Duration:"4.481854", Errors:"0", Exceptions:"0", StartTime:"2020-06-24 13:44:21 -0500", Successes:"1", TestCase:"zzzrunStockAPI.script", Warnings:"0")
+2020-06-24 13:44:25.914 -0500	SUCCESS		Execution Time 0:00:04 zzzrunStockAPI.script

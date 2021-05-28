@@ -1,0 +1,13 @@
+﻿Params device
+if device = "desktop"
+	Click imageName:"Password", waitFor:8
+	//Type theValue and optional terminator (such as 'return' or 'tab') into the field.
+	TypeText "eggydemo"
+	else
+	Click "Password_mobile"
+	//Tap "Next_andr"
+	
+	TypeText "eggydemo"
+	Click (Image:"keyboard_down_andr", WaitFor:60)
+	
+end if

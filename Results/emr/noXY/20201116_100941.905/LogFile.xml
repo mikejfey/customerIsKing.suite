@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="emr/noXY_script" package="customerIsKing.suite" timestamp="2020-11-16 10:09:41.905 -0600"
+ tests="1"  failures="0" errors="0" time="12.854388">
+  <properties>
+   <property name="RunDate" value="2020-11-16 10:09:41.905 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="emr/noXY.script" assertions="1" status="success"  time="12.8512">
+  </testcase>
+ </testsuite>
+</testsuites>

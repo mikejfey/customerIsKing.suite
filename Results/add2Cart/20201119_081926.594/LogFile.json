@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running add2Cart.script",
+      "timestamp" : "2020-11-19 08:19:26.596 -0600"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-11-19 08:19:40.852 -0600",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Remote Connection Unavailable",
+      "timestamp" : "2020-11-19 08:19:40.868 -0600",
+      "identifier" : "Exception",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"14.450529\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-11-19 08:19:26 -0600\", Successes:\"0\", TestCase:\"add2Cart.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-19 08:19:41.050 -0600"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "No Remote Connection imagefound Error - Remote Connection Unavailable -- Execution Time 0:00:14 add2Cart.script",
+      "timestamp" : "2020-11-19 08:19:41.163 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-11-19 08:19:26.599 -0600"
+}

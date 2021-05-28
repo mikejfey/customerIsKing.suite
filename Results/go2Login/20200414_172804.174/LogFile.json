@@ -1,0 +1,29 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-04-14 17:28:04.176 -0500"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1197, 87)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 1,
+      "timestamp" : "2020-04-14 17:28:05.310 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.848403\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-14 17:28:04 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-14 17:28:07.026 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 go2Login.script",
+      "timestamp" : "2020-04-14 17:28:07.197 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-04-14 17:28:04.177 -0500"
+}

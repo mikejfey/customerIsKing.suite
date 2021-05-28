@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2020-10-28 17:51:25 +0000";
+    CaptureHost = android;
+    CaptureScreenSize =     (
+        1080,
+        2220
+    );
+    HasAlpha = 1;
+    HotSpotX = 94;
+    HotSpotY = 22;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 94;
+    OriginalLocationY = 1214;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = CATEGORIE;
+    tags =     (
+    );
+}

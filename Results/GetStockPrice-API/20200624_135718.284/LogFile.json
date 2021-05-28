@@ -1,0 +1,52 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running GetStockPrice.apitest",
+      "timestamp" : "2020-06-24 13:57:18.291 -0500"
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-06-24 13:57:19.044 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "\"low\":6.14",
+      "timestamp" : "2020-06-24 13:57:19.090 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "\"total\":16}",
+      "timestamp" : "2020-06-24 13:57:19.113 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "16}",
+      "timestamp" : "2020-06-24 13:57:19.133 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 17
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.640117\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-24 13:57:18 -0500\", Successes:\"1\", TestCase:\"GetStockPrice.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 13:57:22.936 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:04 GetStockPrice.apitest",
+      "timestamp" : "2020-06-24 13:57:23.078 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 13:57:18.294 -0500"
+}

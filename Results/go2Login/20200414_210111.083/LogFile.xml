@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="go2Login_script" package="DesktopExercise.suite" timestamp="2020-04-14 21:01:11.083 -0500"
+ tests="1"  failures="0" errors="0" time="0.893922">
+  <properties>
+   <property name="RunDate" value="2020-04-14 21:01:11.083 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="go2Login.script" assertions="1" status="success"  time="0.890007">
+  </testcase>
+ </testsuite>
+</testsuites>

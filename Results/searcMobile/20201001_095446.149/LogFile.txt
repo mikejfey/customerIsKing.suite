@@ -1,0 +1,11 @@
+﻿2020-10-01 09:54:46.152 -0500	START		Running searcMobile.script
+2020-10-01 09:54:49.088 -0500	click	searchMObb	at (368, 1450)	8	on_searcmobile	searcMobile.script
+2020-10-01 09:54:50.375 -0500	click	image0001	at (533, 2537)	9	on_searcmobile	searcMobile.script
+2020-10-01 09:54:51.638 -0500	click	image0002	at (57, 2297)	10	on_searcmobile	searcMobile.script
+2020-10-01 09:54:52.640 -0500	click	Ill	at (1087, 2496)	11	on_searcmobile	searcMobile.script
+2020-10-01 09:54:53.638 -0500	click	image0003	at (374, 2083)	12	on_searcmobile	searcMobile.script
+2020-10-01 09:54:54.594 -0500	click	image0004	at (529, 2074)	13	on_searcmobile	searcMobile.script
+2020-10-01 09:54:55.551 -0500	click	image0005	at (99, 2292)	14	on_searcmobile	searcMobile.script
+2020-10-01 09:54:56.494 -0500	click	image0006	at (1120, 1468)	15	on_searcmobile	searcMobile.script
+2020-10-01 09:54:57.111 -0500	EndTestCase		(Duration:"10.957761", Errors:"0", Exceptions:"0", StartTime:"2020-10-01 09:54:46 -0500", Successes:"1", TestCase:"searcMobile.script", Warnings:"0")
+2020-10-01 09:54:57.207 -0500	SUCCESS		Execution Time 0:00:10 searcMobile.script

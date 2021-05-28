@@ -1,0 +1,69 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-06-17 16:31:06.429 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-06-17 16:31:06.471 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (392, 181)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-06-17 16:31:06.725 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "found at (1278, 92)",
+      "identifier" : "imagefound",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 5,
+      "timestamp" : "2020-06-17 16:31:07.231 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Assertion Succeeded: (true: ImageFound(\"go2loginCommerce\"))",
+      "timestamp" : "2020-06-17 16:31:07.232 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1278, 92)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 6,
+      "timestamp" : "2020-06-17 16:31:07.818 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"1.39039\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-17 16:31:06 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-17 16:31:07.821 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 go2Login.script",
+      "timestamp" : "2020-06-17 16:31:07.864 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-06-17 16:31:06.430 -0500"
+}

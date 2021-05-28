@@ -1,0 +1,56 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running sfAcct.script",
+      "timestamp" : "2020-08-21 13:32:08.909 -0500"
+    },
+    {
+      "handlerName" : "on_sfacct",
+      "message" : "at (241, 139)",
+      "identifier" : "click",
+      "image" : "Accounts",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-21 13:32:09.979 -0500",
+      "scriptName" : "sfAcct.script"
+    },
+    {
+      "handlerName" : "on_sfacct",
+      "message" : "at (155, 310)",
+      "identifier" : "click",
+      "image" : "HallmarkCards",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-21 13:32:14.389 -0500",
+      "scriptName" : "sfAcct.script"
+    },
+    {
+      "handlerName" : "on_sfacct",
+      "message" : "Unable to Find Image(s): ARHallmarkCardsDAI.png -- AutoUpdate engaged",
+      "timestamp" : "2020-08-21 13:32:24.365 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "sfAcct.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_sfacct",
+      "message" : "No Image Found On Screen: \"ARHallmarkCardsDAI\"",
+      "identifier" : "Exception",
+      "image" : "ARHallmarkCardsDAI",
+      "handlerLine" : 10,
+      "timestamp" : "2020-08-21 13:32:56.311 -0500",
+      "scriptName" : "sfAcct.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"48.562312\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-21 13:32:08 -0500\", Successes:\"0\", TestCase:\"sfAcct.script\", Warnings:\"1\")",
+      "timestamp" : "2020-08-21 13:32:57.474 -0500"
+    },
+    {
+      "message" : "Image Not Found click Error - No Image Found On Screen: \"ARHallmarkCardsDAI\" -- Execution Time 0:00:48 sfAcct.script",
+      "timestamp" : "2020-08-21 13:32:57.733 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 13:32:08.911 -0500"
+}

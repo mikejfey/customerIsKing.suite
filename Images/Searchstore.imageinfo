@@ -1,0 +1,18 @@
+﻿{
+    CaptureDate = "2020-05-14 17:30:06 +0000";
+    CaptureHost = "windows_sut";
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 44;
+    HotSpotY = 10;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1192;
+    OriginalLocationY = 168;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+}

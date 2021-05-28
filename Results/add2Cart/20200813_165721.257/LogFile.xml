@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="mobile_add2Cart_script" package="nopCommerce.suite" timestamp="2020-08-13 16:57:21.257 -0500"
+ tests="1"  failures="0" errors="0" time="55.751184">
+  <properties>
+   <property name="RunDate" value="2020-08-13 16:57:21.257 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="mobile_add2Cart.script" assertions="1" status="success"  time="55.745292">
+  </testcase>
+ </testsuite>
+</testsuites>

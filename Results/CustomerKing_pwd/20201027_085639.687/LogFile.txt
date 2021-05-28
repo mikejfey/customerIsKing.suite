@@ -1,0 +1,5 @@
+﻿2020-10-27 08:56:39.688 -0500	START		Running CustomerKing_pwd.script	1	execute string	(null)
+2020-10-27 08:56:39.990 -0500	click	Password	at (1105, 779)	3	on_customerking_pwd	CustomerKing_pwd.script
+2020-10-27 08:56:40.792 -0500	typetext		eggydemo	5	on_customerking_pwd	CustomerKing_pwd.script
+2020-10-27 08:56:40.797 -0500	EndTestCase		(Duration:"1.107031", Errors:"0", Exceptions:"0", StartTime:"2020-10-27 08:56:39 -0500", Successes:"1", TestCase:"CustomerKing_pwd.script", Warnings:"0")	1	execute string	(null)
+2020-10-27 08:56:40.942 -0500	SUCCESS		Execution Time 0:00:01 CustomerKing_pwd.script	1	execute string	(null)

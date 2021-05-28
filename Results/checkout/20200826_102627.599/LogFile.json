@@ -1,0 +1,112 @@
+{
+  "entries" : [
+    {
+      "message" : "Running checkout.script",
+      "timestamp" : "2020-08-26 10:26:27.602 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-26 10:26:27.661 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image CHECKOUT_mobile",
+      "identifier" : "imagefound",
+      "image" : "CHECKOUT_mobile",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-26 10:26:27.890 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-26 10:26:28.798 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image CHECKOUT_mobile",
+      "identifier" : "imagefound",
+      "image" : "CHECKOUT_mobile",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-26 10:26:33.796 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-26 10:26:34.699 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image CHECKOUT_mobile",
+      "identifier" : "imagefound",
+      "image" : "CHECKOUT_mobile",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-26 10:26:39.007 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-26 10:26:39.927 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (411, 1300)",
+      "identifier" : "imagefound",
+      "image" : "CHECKOUT_mobile",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-26 10:26:44.191 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_checkout",
+      "message" : "at (179, 1159)",
+      "identifier" : "tap",
+      "image" : "Shoppingcart\/CHECKOUT_mobile_terms",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-26 10:26:45.257 -0500",
+      "scriptName" : "checkout.script"
+    },
+    {
+      "handlerName" : "on_checkout",
+      "message" : "at (411, 1296)",
+      "identifier" : "tap",
+      "image" : "CHECKOUT_mobile",
+      "handlerLine" : 12,
+      "timestamp" : "2020-08-26 10:26:46.683 -0500",
+      "scriptName" : "checkout.script"
+    },
+    {
+      "message" : "(Duration:\"19.084355\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-26 10:26:27 -0500\", Successes:\"1\", TestCase:\"checkout.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-26 10:26:46.689 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:19 checkout.script",
+      "timestamp" : "2020-08-26 10:26:46.891 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-26 10:26:27.604 -0500"
+}

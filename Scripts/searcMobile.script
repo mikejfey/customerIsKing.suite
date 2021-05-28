@@ -1,0 +1,15 @@
+(* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  Script generated:  2020-10-01 09:54:19
+  From session:  searcMobile
+  Captured on:  2020-10-01 09:51:22
+  From server:  AG424554424e443498
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *)
+
+Click (Image:"searchMObb", WaitFor:5)
+Click (Image:"image0001", WaitFor:4)
+Click "image0002"
+Click "Ill"
+Click "image0003"
+Click "image0004"
+Click "image0005"
+Click "image0006"

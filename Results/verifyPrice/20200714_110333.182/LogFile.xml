@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="verifyPrice_script" package="nopCommerce.suite" timestamp="2020-07-14 11:03:33.182 -0500"
+ tests="1"  failures="1" errors="0" time="1.329232">
+  <properties>
+   <property name="RunDate" value="2020-07-14 11:03:33.182 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="verifyPrice.script" assertions="1" status="failure"  time="1.324827">
+    <failure type="FAILURE" message="AssertionFailed  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1600.00) -- Execution Time 0:00:01 verifyPrice.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

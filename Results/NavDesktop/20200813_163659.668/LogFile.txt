@@ -1,0 +1,6 @@
+﻿2020-08-13 16:36:59.670 -0500	START		Running mobileNavDesktop.script	1	execute string	(null)
+2020-08-13 16:37:03.602 -0500	tap	CATEGORIES	at (194, 1023)	2	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 16:37:09.817 -0500	LogWarning		Unable to Find Image(s): Computers_mobile.png -- AutoUpdate engaged	3	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 16:37:24.089 -0500	Exception	Computers_mobile	No Image Found On Screen: "Computers_mobile"	3	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 16:37:24.100 -0500	EndTestCase		(Duration:"24.427987", Errors:"1", Exceptions:"1", StartTime:"2020-08-13 16:36:59 -0500", Successes:"0", TestCase:"mobileNavDesktop.script", Warnings:"1")	1	execute string	(null)
+2020-08-13 16:37:24.104 -0500	ABORTED		Execution Time 0:00:24 mobileNavDesktop.script	1	execute string	(null)

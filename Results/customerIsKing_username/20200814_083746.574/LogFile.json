@@ -1,0 +1,43 @@
+{
+  "entries" : [
+    {
+      "message" : "Running customerIsKing_username.script",
+      "timestamp" : "2020-08-14 08:37:46.577 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "at (1054, 523)",
+      "identifier" : "click",
+      "image" : "Email4Login",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-14 08:37:46.922 -0500",
+      "scriptName" : "customerIsKing_username.script"
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "mike.fey@eggplant.io",
+      "timestamp" : "2020-08-14 08:37:47.869 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "customerIsKing_username.script",
+      "handlerLine" : 6
+    },
+    {
+      "message" : "(Duration:\"1.295103\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-14 08:37:46 -0500\", Successes:\"1\", TestCase:\"customerIsKing_username.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-14 08:37:47.874 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 customerIsKing_username.script",
+      "timestamp" : "2020-08-14 08:37:48.053 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-14 08:37:46.578 -0500"
+}

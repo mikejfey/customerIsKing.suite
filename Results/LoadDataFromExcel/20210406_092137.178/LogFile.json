@@ -1,0 +1,27 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LoadDataFromExcel.script",
+      "timestamp" : "2021-04-06 09:21:37.182 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.389195\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2021-04-06 09:21:37 -0500\", Successes:\"0\", TestCase:\"LoadDataFromExcel.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-06 09:21:37.573 -0500"
+    },
+    {
+      "message" : "CapturedErrorScreenshot",
+      "timestamp" : "2021-04-06 09:21:38.240 -0500",
+      "identifier" : "Error Screen",
+      "image" : "\/Users\/michafey\/Documents\/EggplantSuites\/customerIsKing.suite\/Results\/LoadDataFromExcel\/20210406_092137.178\/Screen_Error.png"
+    },
+    {
+      "message" : "Workbook Error Wrong file type (must be 'xls' or 'xlsx' file): \/Users\/michafey\/Documents\/EggplantSuites\/customerIsKing.suite\/Resources\/DrugToAdd.csv -- Execution Time 0:00:00 LoadDataFromExcel.script",
+      "timestamp" : "2021-04-06 09:21:38.241 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2021-04-06 09:21:37.183 -0500"
+}

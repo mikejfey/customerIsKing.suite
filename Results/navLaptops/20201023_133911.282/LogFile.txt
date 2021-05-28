@@ -1,0 +1,5 @@
+﻿2020-10-23 13:39:11.285 -0500	START		Running navLaptops.script	1	execute string	(null)
+2020-10-23 13:39:23.549 -0500	LogWarning		Unable to Find Image(s): Computers.png -- AutoUpdate engaged	3	on_navlaptops	navLaptops.script
+2020-10-23 13:39:29.642 -0500	Exception	Computers	No Image Found On Screen: "Computers"	3	on_navlaptops	navLaptops.script
+2020-10-23 13:39:29.651 -0500	EndTestCase		(Duration:"18.364254", Errors:"1", Exceptions:"1", StartTime:"2020-10-23 13:39:11 -0500", Successes:"0", TestCase:"navLaptops.script", Warnings:"1")	1	execute string	(null)
+2020-10-23 13:39:29.896 -0500	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Computers" -- Execution Time 0:00:18 navLaptops.script	1	execute string	(null)

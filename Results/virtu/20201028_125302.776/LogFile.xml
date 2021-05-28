@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="virtu_script" package="customerIsKing.suite" timestamp="2020-10-28 12:53:02.776 -0500"
+ tests="1"  failures="1" errors="1" time="21.922527">
+  <properties>
+   <property name="RunDate" value="2020-10-28 12:53:02.776 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="virtu.script" assertions="1" status="error"  time="21.919498">
+    <failure type="FAILURE" message="Image Not Found tap Error - No Image Found On Screen: &quot;CATEGORIE&quot; -- Execution Time 0:00:21 virtu.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;CATEGORIE&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

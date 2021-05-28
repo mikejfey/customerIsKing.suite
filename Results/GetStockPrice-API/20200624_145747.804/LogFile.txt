@@ -1,0 +1,12 @@
+﻿2020-06-24 14:57:47.810 -0500	START		Running GetStockPrice.apitest
+2020-06-24 14:57:48.813 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	4	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:48.845 -0500	Log		"symbol":"AAPL"	13	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:48.861 -0500	Log		AAPL	15	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:48.881 -0500	Log		"close":366.53	18	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:48.898 -0500	Log		366	20	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:56.086 -0500	imagefound	(TEXT:"AAPL")	found at (287, 292)	22	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:56.088 -0500	LogSuccess		Assertion Succeeded: (true: ImageFound(text:myStockName, waitFor:5))	22	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:56.235 -0500	moveto		at (287, 292)	23	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:56.239 -0500	Log		{CaseSensitive:"No", contrast:"Off", dpi:"72", EnableAggressiveTextExtraction:"No", EnhanceLocalContrast:"No", IgnoreNewLines:"No", IgnoreSpaces:"No", ImageLocation:[287,292], ImageRectangle:[268,286,306,298], Language:"English", LowResolutionMode:"Yes", text:"AAPL", TextPlatform:"Generic OCR", TextStyleName:"Default", ValidCharacters:"", ValidPattern:"", ValidWords:"", waitFor:5}	24	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/APITests/GetStockPrice.apitest
+2020-06-24 14:57:58.249 -0500	EndTestCase		(Duration:"10.435397", Errors:"0", Exceptions:"0", StartTime:"2020-06-24 14:57:47 -0500", Successes:"2", TestCase:"GetStockPrice.apitest", Warnings:"0")
+2020-06-24 14:57:58.330 -0500	SUCCESS		Execution Time 0:00:10 GetStockPrice.apitest

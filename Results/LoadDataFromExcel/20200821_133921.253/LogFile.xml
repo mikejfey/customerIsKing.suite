@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LoadDataFromExcel_script" package="customerIsKing.suite" timestamp="2020-08-21 13:39:21.253 -0500"
+ tests="1"  failures="0" errors="0" time="1.517748">
+  <properties>
+   <property name="RunDate" value="2020-08-21 13:39:21.253 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="LoadDataFromExcel.script" assertions="1" status="success"  time="1.511236">
+  </testcase>
+ </testsuite>
+</testsuites>

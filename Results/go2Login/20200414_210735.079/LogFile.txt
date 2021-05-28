@@ -1,0 +1,7 @@
+﻿2020-04-14 21:07:35.081 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-04-14 21:07:38.484 -0500	LogWarning		Unable to Find Image(s): go2loginCommerce.png -- AutoUpdate engaged	1	on_go2login	go2Login.script
+2020-04-14 21:07:46.786 -0500	AutoUpdateCaptureScreen	AutoUpdate_0001.png		1	on_go2login	go2Login.script
+2020-04-14 21:07:46.788 -0500	AutoUpdateWarning	/Users/mikefey/Documents/EggplantSuites/DesktopExercise.suite/Images/go2loginCommerce.png	Found Alternate Image -- Using Discrepancy Search 21	1	on_go2login	go2Login.script	"Name" = "Discrepancy Search"; "Info" = "21"; 
+2020-04-14 21:07:48.112 -0500	click	/Users/mikefey/Documents/EggplantSuites/DesktopExercise.suite/Images/go2loginCommerce.png	at (1689, 1019)	1	on_go2login	go2Login.script
+2020-04-14 21:07:48.122 -0500	EndTestCase		(Duration:"13.039374", Errors:"0", Exceptions:"0", StartTime:"2020-04-14 21:07:35 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"1")	1	execute string	(null)
+2020-04-14 21:07:48.348 -0500	SUCCESS		Execution Time 0:00:13 go2Login.script	1	execute string	(null)

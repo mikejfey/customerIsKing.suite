@@ -1,0 +1,74 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-06-09 08:34:40.566 -0500"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-09 08:34:41.241 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps",
+      "handlerLine" : 9,
+      "timestamp" : "2020-06-09 08:34:42.128 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (883, 537)",
+      "identifier" : "click",
+      "image" : "Laptops\/Pos",
+      "handlerLine" : 10,
+      "timestamp" : "2020-06-09 08:34:42.937 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (854, 636)",
+      "identifier" : "click",
+      "image" : "Laptops\/PriceHightoLow",
+      "handlerLine" : 11,
+      "timestamp" : "2020-06-09 08:34:43.891 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1535, 538)",
+      "identifier" : "click",
+      "image" : "Laptops\/Grid",
+      "handlerLine" : 12,
+      "timestamp" : "2020-06-09 08:34:44.758 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (393, 186)",
+      "identifier" : "click",
+      "image" : "Laptops\/Logo",
+      "handlerLine" : 13,
+      "timestamp" : "2020-06-09 08:34:45.561 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"6.919605\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-09 08:34:40 -0500\", Successes:\"1\", TestCase:\"navLaptops.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-09 08:34:47.488 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:06 navLaptops.script",
+      "timestamp" : "2020-06-09 08:34:47.592 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-09 08:34:40.568 -0500"
+}

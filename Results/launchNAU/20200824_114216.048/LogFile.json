@@ -1,0 +1,106 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running launchNAU.script",
+      "timestamp" : "2020-08-24 11:42:16.051 -0500"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "iphone:(null)",
+      "timestamp" : "2020-08-24 11:42:16.085 -0500",
+      "identifier" : "connect",
+      "scriptName" : "launchNAU.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "remote",
+      "timestamp" : "2020-08-24 11:42:16.114 -0500",
+      "identifier" : "show",
+      "scriptName" : "launchNAU.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "NAU Country",
+      "timestamp" : "2020-08-24 11:42:20.242 -0500",
+      "identifier" : "launchapp",
+      "scriptName" : "launchNAU.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (476, 1651)",
+      "identifier" : "tap",
+      "image" : "nau_Donthaveanaccount",
+      "handlerLine" : 5,
+      "timestamp" : "2020-08-24 11:42:21.964 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (57, 223)",
+      "identifier" : "tap",
+      "image" : "nau_menu",
+      "handlerLine" : 6,
+      "timestamp" : "2020-08-24 11:42:25.934 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (81, 317)",
+      "identifier" : "tap",
+      "image" : "(TEXT:\"Home\")",
+      "handlerLine" : 7,
+      "timestamp" : "2020-08-24 11:42:28.118 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (86, 222)",
+      "identifier" : "tap",
+      "image" : "nau_menu",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-24 11:42:30.435 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (72, 478)",
+      "identifier" : "click",
+      "image" : "nau_Farmers",
+      "handlerLine" : 10,
+      "timestamp" : "2020-08-24 11:42:31.409 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (110, 713)",
+      "identifier" : "click",
+      "image" : "nau_FarmerTools",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-24 11:42:32.388 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "NAU Country",
+      "timestamp" : "2020-08-24 11:42:33.091 -0500",
+      "identifier" : "killapp",
+      "scriptName" : "launchNAU.script",
+      "handlerLine" : 12
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"18.162598\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-24 11:42:16 -0500\", Successes:\"1\", TestCase:\"launchNAU.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-24 11:42:34.215 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:18 launchNAU.script",
+      "timestamp" : "2020-08-24 11:42:34.313 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-24 11:42:16.052 -0500"
+}

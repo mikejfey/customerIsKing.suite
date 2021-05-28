@@ -1,0 +1,207 @@
+﻿<?xml version="1.0"?>
+<runHistory script="verifyPrice">
+ <run>
+  <RunDate>2020-07-01 13:56:02.789 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.363401</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200701_135602.789/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-01 13:56:34.424 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.401462</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200701_135634.424/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-01 13:56:57.904 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.178720</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200701_135657.904/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00 )</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:03:01.259 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.017366</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110301.259/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1600.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:03:33.182 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.329232</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110333.182/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1600.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:03:43.388 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.268838</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110343.388/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1600.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:04:03.192 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.116294</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110403.192/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:05:08.002 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.385307</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110508.002/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is &quot;$1800.00&quot;; actually: $1,800.00 IS NOT equal to $1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:05:21.523 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.078835</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110521.523/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is &quot;$1800.00 &quot;; actually: $1,800.00 IS NOT equal to $1800.00 )</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:05:30.202 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.046201</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110530.202/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is &quot; $1800.00&quot;; actually: $1,800.00 IS NOT equal to  $1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:08:02.262 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.123080</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110802.262/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is &quot;$1800.00&quot;; actually: 1,800.00 IS NOT equal to $1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:08:16.152 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.438593</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110816.152/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is &quot;1800.00&quot;; actually: 1,800.00 IS NOT equal to 1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:08:56.468 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.031685</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_110856.468/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is &quot;1800.00&quot;; actually: 1,800.00 IS NOT equal to 1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:10:01.127 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.276795</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_111001.127/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is &quot;1800.00&quot;; actually: 1,800.00 IS NOT equal to 1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:10:09.039 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.007409</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_111009.039/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is &quot;1800.00&quot;; actually: 1,800.00 IS NOT equal to 1800.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-07-14 11:10:23.702 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.048825</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200714_111023.702/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-08-26 13:31:28.138 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.547860</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200826_133128.138/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)</ErrorMessage>
+ </run>
+</runHistory>

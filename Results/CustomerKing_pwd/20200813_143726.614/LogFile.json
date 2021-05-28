@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "message" : "Running CustomerKing_pwd.script",
+      "timestamp" : "2020-08-13 14:37:26.619 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "(Duration:\"0.713358\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-13 14:37:26 -0500\", Successes:\"0\", TestCase:\"CustomerKing_pwd.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 14:37:27.336 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 CustomerKing_pwd.script",
+      "timestamp" : "2020-08-13 14:37:27.340 -0500",
+      "identifier" : "ABORTED",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 14:37:26.622 -0500"
+}

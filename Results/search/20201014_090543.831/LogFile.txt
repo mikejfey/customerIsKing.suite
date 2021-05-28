@@ -1,0 +1,6 @@
+﻿2020-10-14 09:05:43.833 -0500	START		Running search.script
+2020-10-14 09:05:44.507 -0500	click	Searchstore_0001	at (1247, 178)	8	on_search	search.script
+2020-10-14 09:05:45.288 -0500	typetext		camera	9	on_search	search.script
+2020-10-14 09:05:46.497 -0500	click	SEARCH	at (1485, 182)	10	on_search	search.script
+2020-10-14 09:05:47.322 -0500	EndTestCase		(Duration:"3.487178", Errors:"0", Exceptions:"0", StartTime:"2020-10-14 09:05:43 -0500", Successes:"1", TestCase:"search.script", Warnings:"0")
+2020-10-14 09:05:47.488 -0500	SUCCESS		Execution Time 0:00:03 search.script

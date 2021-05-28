@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-10-28 12:49:08.113 -0500,"Success",0:00:02,0,0,0,"20201028_124908.113/LogFile.txt","","",1
+2020-10-28 12:50:43.779 -0500,"Success",0:00:04,0,0,0,"20201028_125043.779/LogFile.txt","","",1
+2020-10-28 12:53:02.776 -0500,"Failure",0:00:21,1,1,1,"20201028_125302.776/LogFile.txt","","Image Not Found -- tap Error - No Image Found On Screen: ""CATEGORIE""",0

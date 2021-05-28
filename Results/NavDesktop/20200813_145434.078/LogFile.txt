@@ -1,0 +1,10 @@
+﻿2020-08-13 14:54:34.080 -0500	START		Running mobileNavDesktop.script
+2020-08-13 14:54:34.866 -0500	tap	CATEGORIES	at (194, 1023)	1	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 14:54:35.885 -0500	tap	Computers_mobile	at (169, 1121)	2	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 14:54:35.947 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 14:54:36.610 -0500	imagefound	mobileComputersImage	Unable to Find Image mobileComputersImage	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 14:54:37.469 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 14:54:41.736 -0500	imagefound	mobileComputersImage	found at (404, 1160)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 14:54:42.095 -0500	click	mobileComputersImage	at (404, 1160)	5	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 14:54:42.992 -0500	EndTestCase		(Duration:"8.910542", Errors:"0", Exceptions:"0", StartTime:"2020-08-13 14:54:34 -0500", Successes:"1", TestCase:"mobileNavDesktop.script", Warnings:"0")
+2020-08-13 14:54:43.079 -0500	SUCCESS		Execution Time 0:00:08 mobileNavDesktop.script

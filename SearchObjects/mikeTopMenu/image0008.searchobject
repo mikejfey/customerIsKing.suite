@@ -1,0 +1,27 @@
+{
+  "originalcapturelocation" : [
+    763,
+    564,
+    32,
+    32
+  ],
+  "createddate" : 1604606945.8543091,
+  "lastmodifieddate" : 1604606945.85431,
+  "name" : "mikeTopMenu\/image0008",
+  "testlocationdata" : [
+    {
+      "name" : "mikeTopMenu\/image0008.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        763,
+        564,
+        32,
+        32
+      ]
+    }
+  ]
+}

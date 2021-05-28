@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LoadDataFromExcel.script",
+      "timestamp" : "2020-10-01 09:06:23.583 -0500"
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "[{@\"account name\":\"Discount Tire\", billingcity:\"Dallas\", phone:\"763-987-1289\"},{@\"account name\":\"Independent Health\", billingcity:\"Scottsdale\", phone:\"925-987-0917\"},{@\"account name\":\"KARL STORZ\", billingcity:\"El Segundo\", phone:\"949-856-9087\"}]",
+      "timestamp" : "2020-10-01 09:06:23.622 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "{@\"account name\":\"Discount Tire\", billingcity:\"Dallas\", phone:\"763-987-1289\"}",
+      "timestamp" : "2020-10-01 09:06:23.628 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "Discount Tire",
+      "timestamp" : "2020-10-01 09:06:23.634 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.415715\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-01 09:06:23 -0500\", Successes:\"1\", TestCase:\"LoadDataFromExcel.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-01 09:06:24.000 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 LoadDataFromExcel.script",
+      "timestamp" : "2020-10-01 09:06:24.086 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-01 09:06:23.584 -0500"
+}

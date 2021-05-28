@@ -1,0 +1,32 @@
+﻿2020-08-14 08:36:35.999 -0500	START		Running mobile_add2Cart.script	1	execute string	(null)
+2020-08-14 08:36:36.108 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:36.286 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:37.411 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:41.713 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:42.588 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:46.883 -0500	imagefound	mobile_ADDTOCART	found at (256, 1354)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:47.187 -0500	tap	mobile_ADDTOCART	at (256, 1354)	2	on_mobile_add2cart	mobile_add2Cart.script
+2020-08-14 08:36:47.243 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:47.983 -0500	imagefound	mobile_HD_radio	Unable to Find Image mobile_HD_radio	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:48.864 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:53.168 -0500	imagefound	mobile_HD_radio	Unable to Find Image mobile_HD_radio	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:54.061 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:58.303 -0500	imagefound	mobile_HD_radio	Unable to Find Image mobile_HD_radio	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:36:59.179 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:03.994 -0500	imagefound	mobile_HD_radio	found at (279, 1303)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:05.000 -0500	tap	mobile_HD_radio	at (279, 1303)	4	on_mobile_add2cart	mobile_add2Cart.script
+2020-08-14 08:37:05.055 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:05.933 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:06.821 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:11.690 -0500	imagefound	mobile_ADDTOCART	found at (442, 822)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:12.051 -0500	tap	mobile_ADDTOCART	at (442, 822)	6	on_mobile_add2cart	mobile_add2Cart.script
+2020-08-14 08:37:16.097 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:16.982 -0500	imagefound	Mobile_SHOPPINGCART	Unable to Find Image Mobile_SHOPPINGCART	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:17.865 -0500	swipedown		Swiped down from (414, 538) to (414, 1254)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:22.488 -0500	imagefound	Mobile_SHOPPINGCART	Unable to Find Image Mobile_SHOPPINGCART	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:23.355 -0500	swipedown		Swiped down from (414, 538) to (414, 1254)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:27.824 -0500	imagefound	Mobile_SHOPPINGCART	Unable to Find Image Mobile_SHOPPINGCART	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:28.705 -0500	swipedown		Swiped down from (414, 538) to (414, 1254)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:33.207 -0500	imagefound	Mobile_SHOPPINGCART	found at (390, 465)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-14 08:37:33.309 -0500	EndTestCase		(Duration:"57.307272", Errors:"0", Exceptions:"0", StartTime:"2020-08-14 08:36:36 -0500", Successes:"1", TestCase:"mobile_add2Cart.script", Warnings:"0")	1	execute string	(null)
+2020-08-14 08:37:33.510 -0500	SUCCESS		Execution Time 0:00:57 mobile_add2Cart.script	1	execute string	(null)

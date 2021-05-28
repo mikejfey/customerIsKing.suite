@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="callyou">
+ <run>
+  <RunDate>2020-06-26 15:42:42.589 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>24.543206</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200626_154242.589/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-26 15:43:26.671 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>39.724108</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200626_154326.671/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

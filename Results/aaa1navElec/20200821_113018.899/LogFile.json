@@ -1,0 +1,38 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running aaa1navElec.script",
+      "timestamp" : "2020-08-21 11:30:18.902 -0500"
+    },
+    {
+      "handlerName" : "on_aaa1navelec",
+      "message" : "at (662, 291)",
+      "identifier" : "click",
+      "image" : "Electronics",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-21 11:30:19.704 -0500",
+      "scriptName" : "aaa1navElec.script"
+    },
+    {
+      "handlerName" : "on_aaa1navelec",
+      "message" : "at (1090, 634)",
+      "identifier" : "click",
+      "image" : "zzzcell",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-21 11:30:20.977 -0500",
+      "scriptName" : "aaa1navElec.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.957297\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-21 11:30:18 -0500\", Successes:\"1\", TestCase:\"aaa1navElec.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 11:30:21.862 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 aaa1navElec.script",
+      "timestamp" : "2020-08-21 11:30:22.146 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 11:30:18.904 -0500"
+}

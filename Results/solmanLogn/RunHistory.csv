@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-08-12 11:53:54.238 -0500,"Success",0:00:05,0,0,0,"20200812_115354.238/LogFile.txt","","",1
+2020-08-12 14:54:55.426 -0500,"Failure",0:00:06,1,1,1,"20200812_145455.426/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""User""",0

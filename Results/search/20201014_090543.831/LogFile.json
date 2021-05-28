@@ -1,0 +1,46 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running search.script",
+      "timestamp" : "2020-10-14 09:05:43.833 -0500"
+    },
+    {
+      "handlerName" : "on_search",
+      "message" : "at (1247, 178)",
+      "identifier" : "click",
+      "image" : "Searchstore_0001",
+      "handlerLine" : 8,
+      "timestamp" : "2020-10-14 09:05:44.507 -0500",
+      "scriptName" : "search.script"
+    },
+    {
+      "handlerName" : "on_search",
+      "message" : "camera",
+      "timestamp" : "2020-10-14 09:05:45.288 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "search.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_search",
+      "message" : "at (1485, 182)",
+      "identifier" : "click",
+      "image" : "SEARCH",
+      "handlerLine" : 10,
+      "timestamp" : "2020-10-14 09:05:46.497 -0500",
+      "scriptName" : "search.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"3.487178\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-14 09:05:43 -0500\", Successes:\"1\", TestCase:\"search.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-14 09:05:47.322 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:03 search.script",
+      "timestamp" : "2020-10-14 09:05:47.488 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-14 09:05:43.834 -0500"
+}

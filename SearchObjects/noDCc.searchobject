@@ -1,0 +1,29 @@
+{
+  "ocrcapturestring" : "noDCc",
+  "originalcapturelocation" : [
+    383,
+    147,
+    139,
+    41
+  ],
+  "createddate" : 1603222495.7523742,
+  "lastmodifieddate" : 1603222495.7523751,
+  "name" : "noDCc",
+  "testlocationdata" : [
+    {
+      "name" : "noDCc.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "noDCc",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        383,
+        147,
+        139,
+        41
+      ]
+    }
+  ]
+}

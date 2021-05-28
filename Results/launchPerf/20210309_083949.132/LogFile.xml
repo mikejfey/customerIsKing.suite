@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="launchPerf_script" package="customerIsKing.suite" timestamp="2021-03-09 08:39:49.132 -0600"
+ tests="1"  failures="0" errors="0" time="5.714582">
+  <properties>
+   <property name="RunDate" value="2021-03-09 08:39:49.132 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="launchPerf.script" assertions="1" status="success"  time="5.710746">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,6 @@
+﻿on Email4Login_EnterText theValue, terminator
+	log theValue
+	log terminator
+end Email4Login_EnterText
+
+AI_handlers.Email4Login_EnterText "val","termna"

@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2020-11-16 15:48:34 +0000";
+    CaptureHost = diaserver2;
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = "-18";
+    HotSpotY = 54;
+    ImageDescription = {length = 0, bytes = 0x};
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 883;
+    OriginalLocationY = 466;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = "0.95";
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "zzzz/nhl__A";
+}

@@ -1,0 +1,47 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running nav2electronics.script",
+      "timestamp" : "2020-08-26 13:27:14.881 -0500"
+    },
+    {
+      "handlerName" : "on_nav2electronics",
+      "message" : "at (678, 291)",
+      "identifier" : "click",
+      "image" : "Electronics",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-26 13:27:15.668 -0500",
+      "scriptName" : "nav2electronics.script"
+    },
+    {
+      "handlerName" : "on_nav2electronics",
+      "message" : "at (815, 664)",
+      "identifier" : "click",
+      "image" : "cames",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-26 13:27:16.925 -0500",
+      "scriptName" : "nav2electronics.script"
+    },
+    {
+      "handlerName" : "on_nav2electronics",
+      "message" : "at (810, 906)",
+      "identifier" : "click",
+      "image" : "cmae1",
+      "handlerLine" : 10,
+      "timestamp" : "2020-08-26 13:27:18.171 -0500",
+      "scriptName" : "nav2electronics.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"5.095072\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-26 13:27:14 -0500\", Successes:\"1\", TestCase:\"nav2electronics.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-26 13:27:19.979 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:05 nav2electronics.script",
+      "timestamp" : "2020-08-26 13:27:20.080 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-26 13:27:14.882 -0500"
+}

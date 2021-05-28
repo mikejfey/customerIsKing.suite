@@ -1,0 +1,28 @@
+﻿connect "daiserver2"
+TypeText WindowsKey,"r"
+WaitFor 30.0, "RunWindowLogo"
+TypeText "chrome http://nopcommerce.testplant.com",return
+WaitFor 10, "NopCommerce_Logo"
+
+
+Click (Image:"Computers", WaitFor:12)
+Click imageName:"Laptops/Laps.png", waitFor:5
+TypeText pageDown
+put ReadText("Laptops/AppleMacBookPro13inch_price_TL", "Laptops/AppleMacBookPro13inch_price_BR") into actualPrice
+Log actualPrice
+
+
+
+
+put "1650.00" into expectedPrice
+
+//assert that actualPrice is expectedPrice
+if actualPrice is expectedPrice
+	LogSuccess "prices match"
+	Utilities.BacktoTop
+	Click imageName:"NopCommerce_Logo.png", waitFor:2
+else
+	LogError actualPrice&&"does not match"&&expectedPrice
+	
+end if	
+

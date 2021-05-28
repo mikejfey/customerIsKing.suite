@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="GetStockPrice_apitest" package="customerIsKing.suite" timestamp="2021-05-13 10:59:59.344 -0500"
+ tests="1"  failures="0" errors="0" time="1.060379">
+  <properties>
+   <property name="RunDate" value="2021-05-13 10:59:59.344 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="GetStockPrice.apitest" assertions="1" status="success"  time="1.056278">
+  </testcase>
+ </testsuite>
+</testsuites>

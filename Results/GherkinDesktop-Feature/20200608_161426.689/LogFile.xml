@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="FeatureFile_feature" package="nopCommerce.suite" timestamp="2020-06-08 16:14:26.689 -0500"
+ tests="3"  failures="1" errors="0" time="0.009913">
+  <properties>
+   <property name="RunDate" value="2020-06-08 16:14:26.689 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="I close the browser" assertions="0" status="(null)"  time="0.001352">
+  </testcase>
+  <testcase name="The test should pass" assertions="0" status="(null)"  time="0.001307">
+  </testcase>
+  <testcase name="FeatureFile.feature" assertions="1" status="success"  time="0.006341">
+    <failure type="FAILURE" message="1 scenarios (1 failed, 0 passed) 2 steps (0 failed, 2 skipped, 0 passed) Execution Time 0:00:00" />
+  </testcase>
+ </testsuite>
+</testsuites>

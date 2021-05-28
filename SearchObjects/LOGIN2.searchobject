@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1616691195.674916,
+  "ocrcapturestring" : "LOG IN",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "daiserver2",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "daiserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "LOG IN",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_52",
+        "HotSpot" : "[35,8]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "LOGIN2.png",
+      "capturerect" : [
+        1230,
+        762,
+        53,
+        15
+      ]
+    }
+  ],
+  "createddate" : 1616691195.6749148,
+  "lastfoundlocation" : [
+    790,
+    889,
+    53,
+    15
+  ],
+  "originalcapturelocation" : [
+    1230,
+    762,
+    53,
+    15
+  ],
+  "lastfounddate" : 1616691549.304395,
+  "name" : "LOGIN2"
+}

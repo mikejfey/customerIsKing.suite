@@ -1,0 +1,5 @@
+﻿2020-08-19 08:35:48.760 -0500	START		Running mobileNavDesktop.script	1	execute string	(null)
+2020-08-19 08:35:49.223 -0500	click	Computers	at (535, 291)	4	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-19 08:35:50.212 -0500	click	Desktops_web	at (817, 633)	5	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-19 08:35:50.218 -0500	EndTestCase		(Duration:"1.456641", Errors:"0", Exceptions:"0", StartTime:"2020-08-19 08:35:48 -0500", Successes:"1", TestCase:"mobileNavDesktop.script", Warnings:"0")	1	execute string	(null)
+2020-08-19 08:35:50.248 -0500	SUCCESS		Execution Time 0:00:01 mobileNavDesktop.script	1	execute string	(null)

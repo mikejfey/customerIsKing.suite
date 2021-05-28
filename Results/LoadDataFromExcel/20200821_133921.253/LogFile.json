@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LoadDataFromExcel.script",
+      "timestamp" : "2020-08-21 13:39:21.258 -0500"
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "[{@\"account name\":\"Discount Tire\", billingcity:\"Dallas\", phone:\"763-987-1289\"},{@\"account name\":\"Independent Health\", billingcity:\"Scottsdale\", phone:\"925-987-0917\"},{@\"account name\":\"KARL STORZ\", billingcity:\"El Segundo\", phone:\"949-856-9087\"}]",
+      "timestamp" : "2020-08-21 13:39:21.492 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 4
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.511236\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-21 13:39:21 -0500\", Successes:\"1\", TestCase:\"LoadDataFromExcel.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 13:39:22.771 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 LoadDataFromExcel.script",
+      "timestamp" : "2020-08-21 13:39:22.969 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 13:39:21.259 -0500"
+}

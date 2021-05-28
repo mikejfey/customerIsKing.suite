@@ -1,0 +1,71 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running launchNAU.script",
+      "timestamp" : "2020-08-24 11:35:35.511 -0500"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "iphone:(null)",
+      "timestamp" : "2020-08-24 11:35:35.712 -0500",
+      "identifier" : "connect",
+      "scriptName" : "launchNAU.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "remote",
+      "timestamp" : "2020-08-24 11:35:35.754 -0500",
+      "identifier" : "show",
+      "scriptName" : "launchNAU.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "NAU Country",
+      "timestamp" : "2020-08-24 11:35:39.898 -0500",
+      "identifier" : "launchapp",
+      "scriptName" : "launchNAU.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (86, 222)",
+      "identifier" : "tap",
+      "image" : "nau_menu",
+      "handlerLine" : 5,
+      "timestamp" : "2020-08-24 11:36:43.289 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (72, 478)",
+      "identifier" : "click",
+      "image" : "nau_Farmers",
+      "handlerLine" : 6,
+      "timestamp" : "2020-08-24 11:36:44.351 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "handlerName" : "on_launchnau",
+      "message" : "at (110, 713)",
+      "identifier" : "click",
+      "image" : "nau_FarmerTools",
+      "handlerLine" : 7,
+      "timestamp" : "2020-08-24 11:36:45.325 -0500",
+      "scriptName" : "launchNAU.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"70.810865\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-24 11:35:35 -0500\", Successes:\"1\", TestCase:\"launchNAU.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-24 11:36:46.323 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:01:10 launchNAU.script",
+      "timestamp" : "2020-08-24 11:36:46.408 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-24 11:35:35.512 -0500"
+}

@@ -1,0 +1,47 @@
+{
+  "lastmodifieddate" : 1614098253.4487031,
+  "ocrcapturestring" : "CUSTOMERS",
+  "testlocationdata" : [
+    {
+      "name" : "CUSTOMERS.png",
+      "sutinfo" : {
+        "type" : "Unknown VNC"
+      },
+      "connectionname" : "macSUT",
+      "connectionportnum" : 5900,
+      "capturedocrtext" : "CUSTOMERS",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_64",
+        "HotSpot" : "[98,35]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "172.16.149.133",
+      "capturerect" : [
+        1792,
+        280,
+        196,
+        71
+      ]
+    }
+  ],
+  "createddate" : 1614098253.4487019,
+  "lastfoundlocation" : [
+    1792,
+    280,
+    196,
+    71
+  ],
+  "originalcapturelocation" : [
+    1792,
+    280,
+    196,
+    71
+  ],
+  "lastfounddate" : 1614098280.5764821,
+  "name" : "CUSTOMERS"
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="customerIsKing_username_script" package="customerIsKing.suite" timestamp="2020-11-17 13:00:42.997 -0600"
+ tests="1"  failures="0" errors="0" time="1.452463">
+  <properties>
+   <property name="RunDate" value="2020-11-17 13:00:42.997 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="customerIsKing_username.script" assertions="1" status="success"  time="1.448892">
+  </testcase>
+ </testsuite>
+</testsuites>

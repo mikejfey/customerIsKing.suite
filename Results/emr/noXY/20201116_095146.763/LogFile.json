@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/noXY.script",
+      "timestamp" : "2020-11-16 09:51:46.766 -0600"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(921,648,992,667)",
+      "timestamp" : "2020-11-16 09:51:47.495 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 2
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.121205\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-16 09:51:46 -0600\", Successes:\"1\", TestCase:\"emr\/noXY.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-16 09:51:47.888 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 emr\/noXY.script",
+      "timestamp" : "2020-11-16 09:51:47.998 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-11-16 09:51:46.766 -0600"
+}

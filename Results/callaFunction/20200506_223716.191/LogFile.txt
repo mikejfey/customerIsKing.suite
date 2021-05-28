@@ -1,0 +1,5 @@
+﻿2020-05-06 22:37:16.193 -0500	START		Running call.script
+2020-05-06 22:37:17.635 -0500	click	Email4Login	at (1089, 474)	6	on_email4login_entertext	Login2Commerce.script
+2020-05-06 22:37:18.514 -0500	typetext		miketerminator	8	on_email4login_entertext	Login2Commerce.script
+2020-05-06 22:37:19.244 -0500	EndTestCase		(Duration:"3.049842", Errors:"1", Exceptions:"0", StartTime:"2020-05-06 22:37:16 -0500", Successes:"0", TestCase:"call.script", Warnings:"0")
+2020-05-06 22:37:20.279 -0500	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'password_entertext' -- Execution Time 0:00:03 call.script

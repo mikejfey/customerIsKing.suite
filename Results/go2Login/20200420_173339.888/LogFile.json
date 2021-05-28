@@ -1,0 +1,63 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-04-20 17:33:39.891 -0500"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-04-20 17:33:40.037 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (320, 169)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-04-20 17:33:40.360 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "found at (1119, 91)",
+      "identifier" : "imagefound",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 3,
+      "timestamp" : "2020-04-20 17:33:40.829 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Assertion Succeeded: (true: ImageFound(\"go2loginCommerce\"))",
+      "timestamp" : "2020-04-20 17:33:40.830 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1119, 91)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 4,
+      "timestamp" : "2020-04-20 17:33:41.666 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.230654\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-20 17:33:39 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-20 17:33:42.123 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 go2Login.script",
+      "timestamp" : "2020-04-20 17:33:42.151 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-04-20 17:33:39.892 -0500"
+}

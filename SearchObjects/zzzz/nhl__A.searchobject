@@ -1,0 +1,46 @@
+{
+  "lastmodifieddate" : 1605542457.8269529,
+  "testlocationdata" : [
+    {
+      "name" : "zzzz\/nhl__A.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : " 0.95",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_73",
+        "HotSpot" : "[-18,52]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        883,
+        466,
+        38,
+        38
+      ]
+    }
+  ],
+  "createddate" : 1605542457.826952,
+  "lastfoundlocation" : [
+    996,
+    466,
+    38,
+    38
+  ],
+  "originalcapturelocation" : [
+    883,
+    466,
+    38,
+    38
+  ],
+  "lastfounddate" : 1605543447.5982189,
+  "name" : "zzzz\/nhl__A"
+}

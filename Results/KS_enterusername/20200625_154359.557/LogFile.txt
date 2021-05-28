@@ -1,0 +1,9 @@
+﻿2020-06-25 15:43:59.559 -0500	START		Running KS_enterusername.script
+2020-06-25 15:44:00.032 -0500	click	KSLogin	at (1282, 95)	1	on_ks_enterusername	KS_enterusername.script
+2020-06-25 15:44:00.997 -0500	click	KSEmail	at (1128, 523)	2	on_ks_enterusername	KS_enterusername.script
+2020-06-25 15:44:01.955 -0500	typetext		mike.fey@eggplant.io	3	on_ks_enterusername	KS_enterusername.script
+2020-06-25 15:44:03.129 -0500	click	KSPassword	at (1122, 578)	4	on_ks_enterusername	KS_enterusername.script
+2020-06-25 15:44:03.929 -0500	typetext		eggydemo	5	on_ks_enterusername	KS_enterusername.script
+2020-06-25 15:44:05.141 -0500	click	KS_LOGINBTN	at (1274, 716)	6	on_ks_enterusername	KS_enterusername.script
+2020-06-25 15:44:05.645 -0500	EndTestCase		(Duration:"6.084458", Errors:"0", Exceptions:"0", StartTime:"2020-06-25 15:43:59 -0500", Successes:"1", TestCase:"KS_enterusername.script", Warnings:"0")
+2020-06-25 15:44:05.727 -0500	SUCCESS		Execution Time 0:00:06 KS_enterusername.script

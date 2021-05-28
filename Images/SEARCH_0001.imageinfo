@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2020-10-20 19:33:38 +0000";
+    CaptureHost = diaserver2;
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 43;
+    HotSpotY = 7;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1476;
+    OriginalLocationY = 173;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "SEARCH_0001";
+}

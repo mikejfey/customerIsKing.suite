@@ -1,0 +1,59 @@
+{
+  "entries" : [
+    {
+      "message" : "Running customerIsKing_username.script",
+      "timestamp" : "2020-08-21 11:07:44.329 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "at (1054, 523)",
+      "identifier" : "click",
+      "image" : "Email4Login",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-21 11:07:45.178 -0500",
+      "scriptName" : "customerIsKing_username.script"
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "mike.fey@eggplant.io",
+      "timestamp" : "2020-08-21 11:07:45.184 -0500",
+      "identifier" : "Log",
+      "scriptName" : "customerIsKing_username.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "desktop",
+      "timestamp" : "2020-08-21 11:07:45.194 -0500",
+      "identifier" : "Log",
+      "scriptName" : "customerIsKing_username.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_customerisking_username",
+      "message" : "mike.fey@eggplant.io",
+      "timestamp" : "2020-08-21 11:07:46.128 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "customerIsKing_username.script",
+      "handlerLine" : 8
+    },
+    {
+      "message" : "(Duration:\"1.801736\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-21 11:07:44 -0500\", Successes:\"1\", TestCase:\"customerIsKing_username.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 11:07:46.134 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:01 customerIsKing_username.script",
+      "timestamp" : "2020-08-21 11:07:46.284 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 11:07:44.331 -0500"
+}

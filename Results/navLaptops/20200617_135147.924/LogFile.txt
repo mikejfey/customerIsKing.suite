@@ -1,0 +1,9 @@
+﻿2020-06-17 13:51:47.926 -0500	START		Running navLaptops.script	1	execute string	(null)
+2020-06-17 13:51:48.481 -0500	click	Computers	at (535, 291)	8	on_navlaptops	navLaptops.script
+2020-06-17 13:51:49.642 -0500	click	Laptops/Laps.png	at (1096, 642)	9	on_navlaptops	navLaptops.script
+2020-06-17 13:51:50.357 -0500	typetext		[pageDown]	10	on_navlaptops	navLaptops.script
+2020-06-17 13:51:52.379 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-06-17 13:51:53.618 -0500	waitfor	NopCommerce_Logo	found at (392, 181)	3	on_backtotop	Utilities.script
+2020-06-17 13:51:54.335 -0500	click	NopCommerce_Logo.png	at (392, 181)	13	on_navlaptops	navLaptops.script
+2020-06-17 13:51:54.338 -0500	EndTestCase		(Duration:"6.409398", Errors:"0", Exceptions:"0", StartTime:"2020-06-17 13:51:47 -0500", Successes:"1", TestCase:"navLaptops.script", Warnings:"0")	1	execute string	(null)
+2020-06-17 13:51:54.377 -0500	SUCCESS		Execution Time 0:00:06 navLaptops.script	1	execute string	(null)

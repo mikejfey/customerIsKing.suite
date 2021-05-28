@@ -1,0 +1,87 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/noXY.script",
+      "timestamp" : "2020-11-16 10:02:52.488 -0600"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (706, 386)",
+      "identifier" : "click",
+      "image" : "zzzz\/spyglass",
+      "handlerLine" : 1,
+      "timestamp" : "2020-11-16 10:02:52.945 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(1090,518,1160,539)",
+      "timestamp" : "2020-11-16 10:02:54.415 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.com",
+      "timestamp" : "2020-11-16 10:02:54.850 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "[15,17]",
+      "timestamp" : "2020-11-16 10:02:55.299 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (1090, 518)",
+      "identifier" : "drag",
+      "image" : "zzzz\/nhl__A",
+      "handlerLine" : 10,
+      "timestamp" : "2020-11-16 10:02:55.459 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "at (851, 617)",
+      "identifier" : "drop",
+      "image" : "zzzz\/AIAgentBookmark",
+      "handlerLine" : 11,
+      "timestamp" : "2020-11-16 10:02:56.785 -0600",
+      "scriptName" : "emr\/noXY.script"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(810,646,880,667)",
+      "timestamp" : "2020-11-16 10:02:58.506 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.cdm-",
+      "timestamp" : "2020-11-16 10:02:58.863 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 14
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"7.266515\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-16 10:02:52 -0600\", Successes:\"1\", TestCase:\"emr\/noXY.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-16 10:02:59.756 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:07 emr\/noXY.script",
+      "timestamp" : "2020-11-16 10:02:59.865 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-11-16 10:02:52.489 -0600"
+}

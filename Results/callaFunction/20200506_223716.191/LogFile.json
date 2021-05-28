@@ -1,0 +1,38 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running call.script",
+      "timestamp" : "2020-05-06 22:37:16.193 -0500"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "at (1089, 474)",
+      "identifier" : "click",
+      "image" : "Email4Login",
+      "handlerLine" : 6,
+      "timestamp" : "2020-05-06 22:37:17.635 -0500",
+      "scriptName" : "Login2Commerce.script"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "miketerminator",
+      "timestamp" : "2020-05-06 22:37:18.514 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Login2Commerce.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"3.049842\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-05-06 22:37:16 -0500\", Successes:\"0\", TestCase:\"call.script\", Warnings:\"0\")",
+      "timestamp" : "2020-05-06 22:37:19.244 -0500"
+    },
+    {
+      "message" : "STUnknownMessage ERROR: No Such Command: 'password_entertext' -- Execution Time 0:00:03 call.script",
+      "timestamp" : "2020-05-06 22:37:20.279 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-05-06 22:37:16.194 -0500"
+}

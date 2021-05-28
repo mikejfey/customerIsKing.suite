@@ -1,0 +1,12 @@
+﻿2020-11-16 10:07:57.721 -0600	START		Running emr/noXY.script
+2020-11-16 10:07:58.019 -0600	click	zzzz/spyglass	at (706, 386)	1	on_emr_noxy	emr/noXY.script
+2020-11-16 10:07:59.457 -0600	readtext		(1090,518,1160,539)	3	on_emr_noxy	emr/noXY.script
+2020-11-16 10:07:59.468 -0600	Log		NHL.com	4	on_emr_noxy	emr/noXY.script
+2020-11-16 10:07:59.509 -0600	Log		[15,17]	7	on_emr_noxy	emr/noXY.script
+2020-11-16 10:08:00.016 -0600	drag	zzzz/nhl__A	at (1090, 518)	10	on_emr_noxy	emr/noXY.script
+2020-11-16 10:08:01.545 -0600	drop	zzzz/AIAgentBookmark	at (851, 617)	11	on_emr_noxy	emr/noXY.script
+2020-11-16 10:08:02.757 -0600	click	zzzz/spyglass	at (706, 386)	12	on_emr_noxy	emr/noXY.script
+2020-11-16 10:08:04.254 -0600	readtext		(810,646,880,667)	13	on_emr_noxy	emr/noXY.script
+2020-11-16 10:08:04.267 -0600	Log		NHL.com	14	on_emr_noxy	emr/noXY.script
+2020-11-16 10:08:04.732 -0600	EndTestCase		(Duration:"7.009086", Errors:"0", Exceptions:"0", StartTime:"2020-11-16 10:07:57 -0600", Successes:"1", TestCase:"emr/noXY.script", Warnings:"0")
+2020-11-16 10:08:04.882 -0600	SUCCESS		Execution Time 0:00:07 emr/noXY.script

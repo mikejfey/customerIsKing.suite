@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-07-14 14:25:49.154 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "Unable to Find Image(s): Computers.png -- AutoUpdate engaged",
+      "timestamp" : "2020-07-14 14:26:01.481 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "No Image Found On Screen: \"Computers\"",
+      "identifier" : "Exception",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-07-14 14:26:07.087 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "message" : "(Duration:\"17.938894\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-07-14 14:25:49 -0500\", Successes:\"0\", TestCase:\"navLaptops.script\", Warnings:\"1\")",
+      "timestamp" : "2020-07-14 14:26:07.094 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Image Not Found click Error - No Image Found On Screen: \"Computers\" -- Execution Time 0:00:17 navLaptops.script",
+      "timestamp" : "2020-07-14 14:26:07.248 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-07-14 14:25:49.155 -0500"
+}

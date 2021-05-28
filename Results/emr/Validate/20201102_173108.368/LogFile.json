@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:31:08.370 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.00083\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-11-02 17:31:08 -0600\", Successes:\"0\", TestCase:\"emr\/Validate.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:31:08.372 -0600"
+    },
+    {
+      "message" : "SenseTalk Compiler Exception in emr_validate:\\nSyntax Error at line 30: Syntax Error - can't understand [end of script] at character 1 -- Execution Time 0:00:00 emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:31:08.922 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:31:08.371 -0600"
+}

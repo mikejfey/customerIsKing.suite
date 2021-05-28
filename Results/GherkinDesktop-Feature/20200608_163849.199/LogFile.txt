@@ -1,0 +1,22 @@
+﻿2020-06-08 16:38:49.201 -0500	START		Running Gherkin_Desktop.feature
+2020-06-08 16:38:49.296 -0500	show		remote	3	on_i_am_connected_to_a_device	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:49.297 -0500	LogSuccess		Start Time: 16:38:49, Stop Time: 16:38:49 step: I am connected to a device	14	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:38:49.298 -0500	EndTestCase		(Duration:"0.095389", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:38:49 -0500", Successes:"1", TestCase:"I am connected to a device", Warnings:"0")
+2020-06-08 16:38:49.585 -0500	typetext		[windowsKey]r	3	on_i_enter_the_nopcommerce_url_in_str	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:50.016 -0500	waitfor	RunWindowLogo	found at (45, 1252)	4	on_i_enter_the_nopcommerce_url_in_str	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:50.697 -0500	typetext		chrome nopcommerce.testplant.com	5	on_i_enter_the_nopcommerce_url_in_str	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:51.416 -0500	typetext		[return]	6	on_i_enter_the_nopcommerce_url_in_str	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:52.129 -0500	moveto		at (1, 1)	7	on_i_enter_the_nopcommerce_url_in_str	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:52.131 -0500	LogSuccess		Start Time: 16:38:49, Stop Time: 16:38:52 step: I enter the nopCommerce URL in "chrome"	15	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:38:52.132 -0500	EndTestCase		(Duration:"2.832579", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:38:49 -0500", Successes:"1", TestCase:@"I enter the nopCommerce URL in \"chrome\"", Warnings:"0")
+2020-06-08 16:38:55.072 -0500	waitforall		found all: NopCommerce_Logo:(392, 181) 	2	on_i_should_see_the_home_page	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:55.073 -0500	LogSuccess		Start Time: 16:38:52, Stop Time: 16:38:55 step: I should see the home page	16	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:38:55.075 -0500	EndTestCase		(Duration:"2.941755", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:38:52 -0500", Successes:"1", TestCase:"I should see the home page", Warnings:"0")
+2020-06-08 16:38:55.541 -0500	typetext		[windowsAltKey][F4]	2	on_i_close_the_browser	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:57.545 -0500	LogSuccess		Start Time: 16:38:55, Stop Time: 16:38:57 step: I close the browser	24	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:38:57.547 -0500	EndTestCase		(Duration:"2.471103", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:38:55 -0500", Successes:"1", TestCase:"I close the browser", Warnings:"0")
+2020-06-08 16:38:57.583 -0500	Log		We just ran a Gherkin test on desktop	2	on_the_test_should_pass	Gherkin_Desktop.script<SOURCE>
+2020-06-08 16:38:57.589 -0500	LogSuccess		Start Time: 16:38:57, Stop Time: 16:38:57 step: The test should pass	25	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:38:57.590 -0500	EndTestCase		(Duration:"0.041384", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:38:57 -0500", Successes:"1", TestCase:"The test should pass", Warnings:"0")
+2020-06-08 16:38:57.591 -0500	EndTestCase		(Duration:"8.389226", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:38:49 -0500", Successes:"5", TestCase:"Gherkin_Desktop.feature", Warnings:"0")
+2020-06-08 16:38:57.700 -0500	SUCCESS		2 scenarios (0 failed, 2 passed) 5 steps (0 failed, 0 skipped, 5 passed) Execution Time 0:00:08

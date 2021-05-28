@@ -1,0 +1,29 @@
+{
+  "ocrcapturestring" : "Search store",
+  "originalcapturelocation" : [
+    1192,
+    172,
+    84,
+    16
+  ],
+  "createddate" : 1604071401.6666741,
+  "lastmodifieddate" : 1604071401.6666751,
+  "name" : "Searchstore_2",
+  "testlocationdata" : [
+    {
+      "name" : "Searchstore_2.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Search store",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        1192,
+        172,
+        84,
+        16
+      ]
+    }
+  ]
+}

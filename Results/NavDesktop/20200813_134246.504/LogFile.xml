@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="mobileNavDesktop_script" package="nopCommerce.suite" timestamp="2020-08-13 13:42:46.504 -0500"
+ tests="1"  failures="0" errors="0" time="14.942175">
+  <properties>
+   <property name="RunDate" value="2020-08-13 13:42:46.504 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="mobileNavDesktop.script" assertions="1" status="error"  time="14.938629">
+    <error type="Exception" message="No Image Found On Screen: &quot;Computers_mobile&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

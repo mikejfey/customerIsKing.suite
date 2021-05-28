@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="solmanLogn_script" package="nopCommerce.suite" timestamp="2020-08-12 14:54:55.426 -0500"
+ tests="1"  failures="1" errors="1" time="6.060852">
+  <properties>
+   <property name="RunDate" value="2020-08-12 14:54:55.426 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="solmanLogn.script" assertions="1" status="error"  time="6.057874">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;User&quot; -- Execution Time 0:00:06 solmanLogn.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;User&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

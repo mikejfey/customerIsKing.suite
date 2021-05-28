@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="solmanLogn">
+ <run>
+  <RunDate>2020-08-12 11:53:54.238 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>5.225505</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200812_115354.238/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-08-12 14:54:55.426 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>6.060852</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200812_145455.426/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;User&quot;</ErrorMessage>
+ </run>
+</runHistory>

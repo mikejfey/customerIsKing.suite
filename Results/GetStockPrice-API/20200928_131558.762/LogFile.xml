@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="GetStockPrice_apitest" package="customerIsKing.suite" timestamp="2020-09-28 13:15:58.762 -0500"
+ tests="1"  failures="0" errors="0" time="16.497696">
+  <properties>
+   <property name="RunDate" value="2020-09-28 13:15:58.762 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="GetStockPrice.apitest" assertions="2" status="error"  time="16.493418">
+    <error type="Exception" message="Searching For Image: OCR Error: OCR operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

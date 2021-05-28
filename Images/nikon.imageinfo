@@ -1,0 +1,21 @@
+﻿{
+    CaptureDate = "2020-10-30 15:01:15 +0000";
+    CaptureHost = diaserver2;
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 132;
+    HotSpotY = 86;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 697;
+    OriginalLocationY = 783;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchObjectName = nikon;
+    tags =     (
+    );
+}

@@ -1,0 +1,11 @@
+﻿2020-08-13 15:00:56.673 -0500	START		Running mobile_add2Cart.script
+2020-08-13 15:00:56.949 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 15:00:57.827 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 15:00:58.684 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 15:01:02.861 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 15:01:03.705 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 15:01:08.058 -0500	imagefound	mobile_ADDTOCART	found at (256, 1375)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-13 15:01:12.919 -0500	LogWarning		Unable to Find Image(s): mobileComputersImage.png -- AutoUpdate engaged	2	on_mobile_add2cart	mobile_add2Cart.script
+2020-08-13 15:01:32.996 -0500	Exception	mobileComputersImage	No Image Found On Screen: "mobileComputersImage"	2	on_mobile_add2cart	mobile_add2Cart.script
+2020-08-13 15:01:34.055 -0500	EndTestCase		(Duration:"37.379568", Errors:"1", Exceptions:"1", StartTime:"2020-08-13 15:00:56 -0500", Successes:"0", TestCase:"mobile_add2Cart.script", Warnings:"1")
+2020-08-13 15:01:34.057 -0500	ABORTED		Execution Time 0:00:37 mobile_add2Cart.script

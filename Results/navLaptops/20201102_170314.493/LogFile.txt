@@ -1,0 +1,9 @@
+﻿2020-11-02 17:03:14.495 -0600	START		Running navLaptops.script	1	execute string	(null)
+2020-11-02 17:03:15.136 -0600	click	Computers	at (535, 291)	4	on_navlaptops	navLaptops.script
+2020-11-02 17:03:16.277 -0600	click	Laptops/Laps.png	at (1096, 642)	5	on_navlaptops	navLaptops.script
+2020-11-02 17:03:16.992 -0600	typetext		[pageDown]	6	on_navlaptops	navLaptops.script
+2020-11-02 17:03:18.397 -0600	readtext		(699,321,769,347)
+2020-11-02 17:03:18.402 -0600	Log		1422.00	8	on_navlaptops	navLaptops.script
+2020-11-02 17:03:18.472 -0600	LogError		1422.00 does not match 1650.00	21	on_navlaptops	navLaptops.script
+2020-11-02 17:03:18.496 -0600	EndTestCase		(Duration:"3.998713", Errors:"1", Exceptions:"0", StartTime:"2020-11-02 17:03:14 -0600", Successes:"0", TestCase:"navLaptops.script", Warnings:"0")	1	execute string	(null)
+2020-11-02 17:03:18.936 -0600	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:04 navLaptops.script	1	execute string	(null)

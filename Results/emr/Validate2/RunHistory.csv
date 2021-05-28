@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-11-02 17:17:05.050 -0600,"Failure",0:00:00,1,0,1,"20201102_171705.050/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: miketopMenu/monday_TL",0
+2020-11-02 17:17:49.790 -0600,"Failure",0:00:00,1,0,1,"20201102_171749.790/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: miketopMenu/monday_TL",0
+2020-11-02 17:19:48.445 -0600,"Failure",0:00:00,1,0,1,"20201102_171948.445/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: miketopMenu/monday_TL",0
+2020-11-02 17:22:30.044 -0600,"Failure",0:00:01,1,0,0,"20201102_172230.044/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:22:56.433 -0600,"Failure",0:00:01,1,0,0,"20201102_172256.433/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:25:20.638 -0600,"Failure",0:00:01,1,0,0,"20201102_172520.638/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:25:51.469 -0600,"Failure",0:00:00,1,0,0,"20201102_172551.469/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:27:03.768 -0600,"Failure",0:00:02,1,0,0,"20201102_172703.768/LogFile.txt","","Script Error -- Number of Errors logged: 1",0

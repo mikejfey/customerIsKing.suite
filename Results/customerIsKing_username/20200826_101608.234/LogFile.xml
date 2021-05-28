@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="customerIsKing_username_script" package="customerIsKing.suite" timestamp="2020-08-26 10:16:08.234 -0500"
+ tests="1"  failures="1" errors="1" time="22.352390">
+  <properties>
+   <property name="RunDate" value="2020-08-26 10:16:08.234 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="customerIsKing_username.script" assertions="1" status="error"  time="22.348503">
+    <failure type="FAILURE" message="Image not found Image not found while scrolling Up. -- Execution Time 0:00:22 customerIsKing_username.script" />
+    <error type="Throw" message="Image not found - Image not found while scrolling Up." />
+  </testcase>
+ </testsuite>
+</testsuites>

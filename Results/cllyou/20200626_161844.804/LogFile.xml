@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="cllyou_script" package="nopCommerce.suite" timestamp="2020-06-26 16:18:44.804 -0500"
+ tests="1"  failures="0" errors="0" time="12.911325">
+  <properties>
+   <property name="RunDate" value="2020-06-26 16:18:44.804 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="cllyou.script" assertions="1" status="failure"  time="12.906066">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

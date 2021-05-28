@@ -1,0 +1,8 @@
+﻿2020-08-19 12:49:39.610 -0500	START		Running navLaptops.script	1	execute string	(null)
+2020-08-19 12:49:40.345 -0500	click	Computers	at (535, 291)	3	on_navlaptops	navLaptops.script
+2020-08-19 12:49:42.063 -0500	click	Laptops/Laps.png	at (1096, 642)	4	on_navlaptops	navLaptops.script
+2020-08-19 12:49:42.778 -0500	typetext		[pageDown]	5	on_navlaptops	navLaptops.script
+2020-08-19 12:49:44.067 -0500	readtext		(699,265,769,291)
+2020-08-19 12:49:44.078 -0500	Log		1,800.00	2	on_verifyprice	verifyPrice.script
+2020-08-19 12:49:44.170 -0500	EndTestCase		(Duration:"4.555881", Errors:"1", Exceptions:"0", StartTime:"2020-08-19 12:49:39 -0500", Successes:"0", TestCase:"navLaptops.script", Warnings:"0")	1	execute string	(null)
+2020-08-19 12:49:44.630 -0500	FAILURE	Screen_Error.png	AssertionFailed  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00) -- Execution Time 0:00:04 navLaptops.script	1	execute string	(null)

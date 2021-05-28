@@ -1,0 +1,77 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running GetStockPrice.apitest",
+      "timestamp" : "2020-06-24 14:52:53.928 -0500"
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-06-24 14:52:54.946 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "\"symbol\":\"AAPL\"",
+      "timestamp" : "2020-06-24 14:52:54.973 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "AAPL",
+      "timestamp" : "2020-06-24 14:52:54.988 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "\"close\":366.53",
+      "timestamp" : "2020-06-24 14:52:55.007 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "366",
+      "timestamp" : "2020-06-24 14:52:55.025 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "found at (287, 292)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"AAPL\")",
+      "handlerLine" : 22,
+      "timestamp" : "2020-06-24 14:53:02.875 -0500",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest"
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "Assertion Succeeded: (true: ImageFound(text:myStockName, waitFor:5))",
+      "timestamp" : "2020-06-24 14:53:02.877 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 22
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"11.097766\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-24 14:52:53 -0500\", Successes:\"2\", TestCase:\"GetStockPrice.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 14:53:05.030 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:11 GetStockPrice.apitest",
+      "timestamp" : "2020-06-24 14:53:05.111 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 14:52:53.930 -0500"
+}

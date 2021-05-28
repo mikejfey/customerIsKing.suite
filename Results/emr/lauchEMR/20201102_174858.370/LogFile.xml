@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="emr/lauchEMR_script" package="customerIsKing.suite" timestamp="2020-11-02 17:48:58.370 -0600"
+ tests="1"  failures="1" errors="1" time="0.083066">
+  <properties>
+   <property name="RunDate" value="2020-11-02 17:48:58.370 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="emr/lauchEMR.script" assertions="1" status="error"  time="0.076625">
+    <failure type="FAILURE" message="No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 emr/lauchEMR.script" />
+    <error type="Exception" message="Remote Connection Unavailable" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+﻿2020-05-14 10:58:36.055 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-05-14 10:58:36.066 -0500	connect		DAIserver_sut:(null)	3	on_go2login	go2Login.script
+2020-05-14 10:58:36.083 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-05-14 10:58:36.323 -0500	waitfor	NopCommerce_Logo	found at (302, 181)	3	on_backtotop	Utilities.script
+2020-05-14 10:58:37.413 -0500	imagefound	go2loginCommerce	found at (1190, 93)	5	on_go2login	go2Login.script
+2020-05-14 10:58:37.414 -0500	LogSuccess		Assertion Succeeded: (true: ImageFound("go2loginCommerce"))	5	on_go2login	go2Login.script
+2020-05-14 10:58:38.260 -0500	click	go2loginCommerce	at (1190, 93)	6	on_go2login	go2Login.script
+2020-05-14 10:58:38.263 -0500	EndTestCase		(Duration:"2.205244", Errors:"0", Exceptions:"0", StartTime:"2020-05-14 10:58:36 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"0")	1	execute string	(null)
+2020-05-14 10:58:38.360 -0500	SUCCESS		Execution Time 0:00:02 go2Login.script	1	execute string	(null)

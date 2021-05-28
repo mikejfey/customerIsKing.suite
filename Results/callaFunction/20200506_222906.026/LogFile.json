@@ -1,0 +1,37 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running call.script",
+      "timestamp" : "2020-05-06 22:29:06.029 -0500"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "at (1089, 474)",
+      "identifier" : "click",
+      "image" : "Email4Login",
+      "handlerLine" : 6,
+      "timestamp" : "2020-05-06 22:29:08.138 -0500",
+      "scriptName" : "Login2Commerce.script"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "(mike,[return])",
+      "timestamp" : "2020-05-06 22:29:08.947 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Login2Commerce.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"3.60414\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-05-06 22:29:06 -0500\", Successes:\"1\", TestCase:\"call.script\", Warnings:\"0\")",
+      "timestamp" : "2020-05-06 22:29:09.635 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:03 call.script",
+      "timestamp" : "2020-05-06 22:29:09.657 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-05-06 22:29:06.030 -0500"
+}

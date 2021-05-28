@@ -1,0 +1,26 @@
+﻿2020-10-14 12:54:43.277 -0500	START		Running Gherkin_Desktop.feature
+2020-10-14 12:54:43.327 -0500	LogSuccess		Start Time: 12:54:43, Stop Time: 12:54:43 step: I am connected to a device	14	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-10-14 12:54:43.329 -0500	EndTestCase		(Duration:"0.042878", Errors:"0", Exceptions:"0", StartTime:"2020-10-14 12:54:43 -0500", Successes:"1", TestCase:"I am connected to a device", Warnings:"0")
+2020-10-14 12:54:43.378 -0500	Exception		Remote Connection Unavailable	3	on_i_enter_the_nopcommerce_url_in_str	Gherkin_Desktop.script<SOURCE>
+2020-10-14 12:54:43.382 -0500	LogError		Error at step: I enter the nopCommerce URL in "chrome"	15	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-10-14 12:54:43.383 -0500	EndTestCase		(Duration:"0.052796", Errors:"1", Exceptions:"1", StartTime:"2020-10-14 12:54:43 -0500", Successes:"0", TestCase:@"I enter the nopCommerce URL in \"chrome\"", Warnings:"0")
+2020-10-14 12:54:43.399 -0500	Exception		Remote Connection Unavailable	2	on_i_should_see_the_home_page	Gherkin_Desktop.script<SOURCE>
+2020-10-14 12:54:43.403 -0500	LogError		Error at step: I should see the home page	16	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-10-14 12:54:43.404 -0500	EndTestCase		(Duration:"0.01947", Errors:"1", Exceptions:"1", StartTime:"2020-10-14 12:54:43 -0500", Successes:"0", TestCase:"I should see the home page", Warnings:"0")
+2020-10-14 12:54:43.502 -0500	Exception		Remote Connection Unavailable	2	on_i_should_see_the_home_page	Gherkin_Desktop.script<SOURCE>
+2020-10-14 12:54:43.505 -0500	LogError		Error at step: I should see the home page	19	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-10-14 12:54:43.507 -0500	EndTestCase		(Duration:"0.101189", Errors:"1", Exceptions:"1", StartTime:"2020-10-14 12:54:43 -0500", Successes:"0", TestCase:"I should see the home page", Warnings:"0")
+2020-10-14 12:54:43.565 -0500	Exception		Remote Connection Unavailable	2	on_i_click_the_computer_icon	Gherkin_Desktop.script<SOURCE>
+2020-10-14 12:54:43.568 -0500	LogError		Error at step: I click the Computer icon	20	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-10-14 12:54:43.570 -0500	EndTestCase		(Duration:"0.061241", Errors:"1", Exceptions:"1", StartTime:"2020-10-14 12:54:43 -0500", Successes:"0", TestCase:"I click the Computer icon", Warnings:"0")
+2020-10-14 12:54:43.611 -0500	Exception		Remote Connection Unavailable	2	on_i_should_see_the_notebooks	Gherkin_Desktop.script<SOURCE>
+2020-10-14 12:54:43.615 -0500	LogError		Error at step: I should see the notebooks	21	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-10-14 12:54:43.617 -0500	EndTestCase		(Duration:"0.045211", Errors:"1", Exceptions:"1", StartTime:"2020-10-14 12:54:43 -0500", Successes:"0", TestCase:"I should see the notebooks", Warnings:"0")
+2020-10-14 12:54:43.661 -0500	Exception		Remote Connection Unavailable	2	on_i_close_the_browser	Gherkin_Desktop.script<SOURCE>
+2020-10-14 12:54:43.665 -0500	LogError		Error at step: I close the browser	24	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-10-14 12:54:43.667 -0500	EndTestCase		(Duration:"0.048127", Errors:"1", Exceptions:"1", StartTime:"2020-10-14 12:54:43 -0500", Successes:"0", TestCase:"I close the browser", Warnings:"0")
+2020-10-14 12:54:43.699 -0500	Log		We just ran a Gherkin test on desktop	2	on_the_test_should_pass	Gherkin_Desktop.script<SOURCE>
+2020-10-14 12:54:43.719 -0500	LogSuccess		Start Time: 12:54:43, Stop Time: 12:54:43 step: The test should pass	25	Gherkin_Desktop.feature	GHERKIN_STEP_RESULT
+2020-10-14 12:54:43.721 -0500	EndTestCase		(Duration:"0.052462", Errors:"0", Exceptions:"0", StartTime:"2020-10-14 12:54:43 -0500", Successes:"1", TestCase:"The test should pass", Warnings:"0")
+2020-10-14 12:54:43.722 -0500	EndTestCase		(Duration:"0.443303", Errors:"7", Exceptions:"6", StartTime:"2020-10-14 12:54:43 -0500", Successes:"2", TestCase:"Gherkin_Desktop.feature", Warnings:"0")
+2020-10-14 12:54:44.021 -0500	FAILURE		3 scenarios (3 failed, 0 passed) 8 steps (6 failed, 0 skipped, 2 passed) Execution Time 0:00:00

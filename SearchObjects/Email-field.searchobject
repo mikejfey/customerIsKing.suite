@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1616691054.1571679,
+  "ocrcapturestring" : "Email:",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "daiserver2",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "daiserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Email:",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Smoothed for Text",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_54",
+        "HotSpot" : "[78,8]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Email-field.png",
+      "capturerect" : [
+        1033,
+        548,
+        40,
+        14
+      ]
+    }
+  ],
+  "createddate" : 1616691054.1571679,
+  "lastfoundlocation" : [
+    797,
+    639,
+    40,
+    14
+  ],
+  "originalcapturelocation" : [
+    1033,
+    548,
+    40,
+    14
+  ],
+  "lastfounddate" : 1616691545.561532,
+  "name" : "Email-field"
+}

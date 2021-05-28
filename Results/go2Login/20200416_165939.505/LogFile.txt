@@ -1,0 +1,12 @@
+﻿2020-04-16 16:59:39.507 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-04-16 16:59:39.522 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-04-16 16:59:50.389 -0500	LogWarning		Unable to Find Image(s): NopCommerce_Logo.png -- AutoUpdate engaged	3	on_backtotop	Utilities.script
+2020-04-16 16:59:51.496 -0500	AutoUpdateCaptureScreen	AutoUpdate_0001.png		3	on_backtotop	Utilities.script
+2020-04-16 16:59:51.499 -0500	AutoUpdateWarning	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/Images/NopCommerce_Logo.png	Found Alternate Image -- Using Alternate Types Adaptive to Image	3	on_backtotop	Utilities.script	"Name" = "Alternate Types"; "Info" = "Adaptive to Image"; 
+2020-04-16 16:59:52.361 -0500	waitfor	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/Images/NopCommerce_Logo.png	found at (171, 169)	3	on_backtotop	Utilities.script
+2020-04-16 16:59:56.108 -0500	LogWarning		Unable to Find Image(s): go2loginCommerce.png -- AutoUpdate engaged	2	on_go2login	go2Login.script
+2020-04-16 16:59:57.528 -0500	AutoUpdateCaptureScreen	AutoUpdate_0002.png		2	on_go2login	go2Login.script
+2020-04-16 16:59:57.530 -0500	AutoUpdateWarning	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/Images/go2loginCommerce.png	Found Alternate Image -- Using Dynamic Tolerance 64	2	on_go2login	go2Login.script	"Name" = "Dynamic Tolerance"; "Info" = "64"; 
+2020-04-16 16:59:58.450 -0500	click	/Users/mikefey/Documents/EggplantSuites/nopCommerce.suite/Images/go2loginCommerce.png	at (1181, 91)	2	on_go2login	go2Login.script
+2020-04-16 16:59:58.456 -0500	EndTestCase		(Duration:"18.947043", Errors:"0", Exceptions:"0", StartTime:"2020-04-16 16:59:39 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"2")	1	execute string	(null)
+2020-04-16 16:59:58.466 -0500	SUCCESS		Execution Time 0:00:18 go2Login.script	1	execute string	(null)

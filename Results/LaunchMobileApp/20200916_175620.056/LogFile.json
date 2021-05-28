@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-09-16 17:56:20.059 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.596116\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-09-16 17:56:20 -0500\", Successes:\"0\", TestCase:\"LaunchMobileApp.script\", Warnings:\"0\")",
+      "timestamp" : "2020-09-16 17:56:20.658 -0500"
+    },
+    {
+      "identifier" : "FAILURE",
+      "message" : "Connection Failed Unable to connect to Server:127.0.0.1 on port:5900\\nARD\/Screen Sharing is not configured.\\nPlease use System Preferences->Sharing to configure it so that VNC viewers may control the screen -- Execution Time 0:00:00 LaunchMobileApp.script",
+      "timestamp" : "2020-09-16 17:56:20.817 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-09-16 17:56:20.060 -0500"
+}

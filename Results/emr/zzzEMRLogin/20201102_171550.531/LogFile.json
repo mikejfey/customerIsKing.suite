@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/zzzEMRLogin.script",
+      "timestamp" : "2020-11-02 17:15:50.533 -0600"
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "Login with: admin",
+      "timestamp" : "2020-11-02 17:15:50.628 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "Password is: pass",
+      "timestamp" : "2020-11-02 17:15:50.648 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "Could Not Open Image: (empty)",
+      "timestamp" : "2020-11-02 17:15:50.663 -0600",
+      "identifier" : "Exception",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 6
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.853038\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-11-02 17:15:50 -0600\", Successes:\"0\", TestCase:\"emr\/zzzEMRLogin.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:15:51.388 -0600"
+    },
+    {
+      "message" : "File Not Found waitfor Error - Could Not Open Image: (empty) -- Execution Time 0:00:00 emr\/zzzEMRLogin.script",
+      "timestamp" : "2020-11-02 17:15:51.601 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:15:50.534 -0600"
+}

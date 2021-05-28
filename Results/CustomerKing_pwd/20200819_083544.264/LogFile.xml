@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="CustomerKing_pwd_script" package="customerIsKing.suite" timestamp="2020-08-19 08:35:44.264 -0500"
+ tests="1"  failures="0" errors="0" time="1.251746">
+  <properties>
+   <property name="RunDate" value="2020-08-19 08:35:44.264 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="CustomerKing_pwd.script" assertions="1" status="success"  time="1.246969">
+  </testcase>
+ </testsuite>
+</testsuites>

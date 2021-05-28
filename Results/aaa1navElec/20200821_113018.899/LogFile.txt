@@ -1,0 +1,5 @@
+﻿2020-08-21 11:30:18.902 -0500	START		Running aaa1navElec.script
+2020-08-21 11:30:19.704 -0500	click	Electronics	at (662, 291)	8	on_aaa1navelec	aaa1navElec.script
+2020-08-21 11:30:20.977 -0500	click	zzzcell	at (1090, 634)	9	on_aaa1navelec	aaa1navElec.script
+2020-08-21 11:30:21.862 -0500	EndTestCase		(Duration:"2.957297", Errors:"0", Exceptions:"0", StartTime:"2020-08-21 11:30:18 -0500", Successes:"1", TestCase:"aaa1navElec.script", Warnings:"0")
+2020-08-21 11:30:22.146 -0500	SUCCESS		Execution Time 0:00:02 aaa1navElec.script

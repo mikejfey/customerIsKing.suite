@@ -1,0 +1,77 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-04-16 17:34:42.747 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-04-16 17:34:42.783 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (188, 169)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-04-16 17:34:43.633 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Unable to Find Image(s): go2loginCommerce.png -- AutoUpdate engaged",
+      "timestamp" : "2020-04-16 17:34:46.942 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerLine" : 2,
+      "handlerName" : "on_go2login",
+      "timestamp" : "2020-04-16 17:34:50.551 -0500",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Found Alternate Image -- Using Scaling Search 0.9000",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/Images\/go2loginCommerce.png",
+      "handlerLine" : 2,
+      "timestamp" : "2020-04-16 17:34:50.556 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (987, 91)",
+      "identifier" : "click",
+      "image" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/Images\/go2loginCommerce.png",
+      "handlerLine" : 2,
+      "timestamp" : "2020-04-16 17:34:51.380 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"8.639044\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-16 17:34:42 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"1\")",
+      "timestamp" : "2020-04-16 17:34:51.388 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:08 go2Login.script",
+      "timestamp" : "2020-04-16 17:34:51.399 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-04-16 17:34:42.749 -0500"
+}

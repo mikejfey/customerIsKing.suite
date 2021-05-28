@@ -1,0 +1,36 @@
+{
+  "lastmodifieddate" : 1604070020.465138,
+  "ocrcapturestring" : "Electronics",
+  "testlocationdata" : [
+    {
+      "name" : "Electronics_1.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Electronics",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        631,
+        279,
+        89,
+        17
+      ]
+    }
+  ],
+  "createddate" : 1604070020.465138,
+  "lastfoundlocation" : [
+    631,
+    311,
+    89,
+    17
+  ],
+  "originalcapturelocation" : [
+    631,
+    279,
+    89,
+    17
+  ],
+  "lastfounddate" : 1621871322.9865351,
+  "name" : "Electronics_1"
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="go2Login_script" package="nopCommerce.suite" timestamp="2020-08-13 16:33:34.874 -0500"
+ tests="1"  failures="0" errors="0" time="49.177266">
+  <properties>
+   <property name="RunDate" value="2020-08-13 16:33:34.874 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="go2Login.script" assertions="1" status="error"  time="49.173599">
+    <error type="Exception" message="No Image Found On Screen: &quot;LOGIN_mobile&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running zzzrunStockAPI.script",
+      "timestamp" : "2020-06-24 13:45:35.632 -0500"
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-06-24 13:45:36.269 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "\"low\":6.14",
+      "timestamp" : "2020-06-24 13:45:36.286 -0500",
+      "identifier" : "Log",
+      "scriptName" : "",
+      "handlerLine" : 11
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.337601\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-24 13:45:35 -0500\", Successes:\"1\", TestCase:\"zzzrunStockAPI.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 13:45:39.974 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:04 zzzrunStockAPI.script",
+      "timestamp" : "2020-06-24 13:45:40.187 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 13:45:35.634 -0500"
+}

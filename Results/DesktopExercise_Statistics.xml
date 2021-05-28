@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="go2Login">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>23</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2020-04-14 17:28:04 -0500</FirstRun>
+  <LastRun>2020-04-15 15:20:03 -0500</LastRun>
+  <TotalTimeOnSuccess>26.079908</TotalTimeOnSuccess>
+ </script>
+ <script name="Utilities">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2020-04-14 12:58:41 -0500</FirstRun>
+  <LastRun>2020-04-14 12:58:41 -0500</LastRun>
+  <TotalTimeOnSuccess>0.004315</TotalTimeOnSuccess>
+ </script>
+</statistics>

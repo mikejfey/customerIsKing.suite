@@ -1,0 +1,8 @@
+﻿2020-08-12 11:53:54.240 -0500	START		Running solmanLogn.script
+2020-08-12 11:53:54.847 -0500	click	User	at (849, 655)	8	on_solmanlogn	solmanLogn.script
+2020-08-12 11:53:55.641 -0500	typetext		SMITHDE	9	on_solmanlogn	solmanLogn.script
+2020-08-12 11:53:56.804 -0500	click	Password_0001	at (867, 697)	10	on_solmanlogn	solmanLogn.script
+2020-08-12 11:53:57.605 -0500	typetext		Solman72	11	on_solmanlogn	solmanLogn.script
+2020-08-12 11:53:58.798 -0500	click	solmanLogin	at (932, 833)	12	on_solmanlogn	solmanLogn.script
+2020-08-12 11:53:59.464 -0500	EndTestCase		(Duration:"5.222071", Errors:"0", Exceptions:"0", StartTime:"2020-08-12 11:53:54 -0500", Successes:"1", TestCase:"solmanLogn.script", Warnings:"0")
+2020-08-12 11:53:59.539 -0500	SUCCESS		Execution Time 0:00:05 solmanLogn.script

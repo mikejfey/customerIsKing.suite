@@ -1,0 +1,30 @@
+﻿//params device
+put "desktop" into device
+if device = "desktop"
+	Click (Image:"Computers", WaitFor:12)
+	Click imageName:"Laptops/Laps.png", waitFor:5
+	wait 1
+	ScrollWheelDown 5
+	
+	put ReadText("Laptops/AppleMacBookPro13inch_price_TL", "Laptops/AppleMacBookPro13inch_price_BR") into actualPrice
+	Log actualPrice
+	
+	put "1650.00" into expectedPrice
+	
+	//assert that actualPrice is expectedPrice
+	if actualPrice is expectedPrice
+		LogSuccess "prices match"
+		Utilities.BacktoTop
+		Click imageName:"NopCommerce_Logo.png", waitFor:2
+	else
+		LogError actualPrice&&"does not match"&&expectedPrice
+		
+	end if
+	
+end if
+
+
+
+
+
+

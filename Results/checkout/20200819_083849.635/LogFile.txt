@@ -1,0 +1,5 @@
+﻿2020-08-19 08:38:49.637 -0500	START		Running checkout.script	1	execute string	(null)
+2020-08-19 08:38:54.790 -0500	LogWarning		Unable to Find Image(s): CHECKOUT_terms.png -- AutoUpdate engaged	3	on_checkout	checkout.script
+2020-08-19 08:39:05.584 -0500	Exception	CHECKOUT_terms	No Image Found On Screen: "CHECKOUT_terms"	3	on_checkout	checkout.script
+2020-08-19 08:39:05.588 -0500	EndTestCase		(Duration:"15.948991", Errors:"1", Exceptions:"1", StartTime:"2020-08-19 08:38:49 -0500", Successes:"0", TestCase:"checkout.script", Warnings:"1")	1	execute string	(null)
+2020-08-19 08:39:05.727 -0500	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "CHECKOUT_terms" -- Execution Time 0:00:15 checkout.script	1	execute string	(null)

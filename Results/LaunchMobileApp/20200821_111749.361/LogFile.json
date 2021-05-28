@@ -1,0 +1,61 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-08-21 11:17:49.364 -0500"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "iphone:(null)",
+      "timestamp" : "2020-08-21 11:17:49.416 -0500",
+      "identifier" : "connect",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "remote",
+      "timestamp" : "2020-08-21 11:17:49.418 -0500",
+      "identifier" : "show",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Safari",
+      "timestamp" : "2020-08-21 11:17:49.521 -0500",
+      "identifier" : "launchapp",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "found at (193, 706)",
+      "identifier" : "waitfor",
+      "image" : "nop_logo_mobile",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-21 11:17:50.261 -0500",
+      "scriptName" : "LaunchMobileApp.script"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "at (193, 706)",
+      "timestamp" : "2020-08-21 11:17:50.372 -0500",
+      "identifier" : "tap",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.691625\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-21 11:17:49 -0500\", Successes:\"1\", TestCase:\"LaunchMobileApp.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-21 11:17:51.057 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 LaunchMobileApp.script",
+      "timestamp" : "2020-08-21 11:17:51.358 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-21 11:17:49.365 -0500"
+}

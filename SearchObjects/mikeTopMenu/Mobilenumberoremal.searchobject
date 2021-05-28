@@ -1,0 +1,29 @@
+{
+  "ocrcapturestring" : "Mobile number or emal",
+  "originalcapturelocation" : [
+    590,
+    367,
+    127,
+    46
+  ],
+  "createddate" : 1604608221.8086281,
+  "lastmodifieddate" : 1604608221.808629,
+  "name" : "mikeTopMenu\/Mobilenumberoremal",
+  "testlocationdata" : [
+    {
+      "name" : "mikeTopMenu\/Mobilenumberoremal.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "Mobile number or emal",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        590,
+        367,
+        127,
+        46
+      ]
+    }
+  ]
+}

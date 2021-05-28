@@ -1,0 +1,32 @@
+﻿2020-08-19 12:56:58.182 -0500	START		Running add2Cart.script	1	execute string	(null)
+2020-08-19 12:56:58.432 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:56:58.644 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:56:59.491 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:03.810 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:04.701 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:08.991 -0500	imagefound	mobile_ADDTOCART	found at (256, 1354)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:09.295 -0500	tap	mobile_ADDTOCART	at (256, 1354)	14	on_add2cart	add2Cart.script
+2020-08-19 12:57:09.415 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:10.094 -0500	imagefound	mobile_HD_radio	Unable to Find Image mobile_HD_radio	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:10.990 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:15.235 -0500	imagefound	mobile_HD_radio	Unable to Find Image mobile_HD_radio	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:16.113 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:20.367 -0500	imagefound	mobile_HD_radio	Unable to Find Image mobile_HD_radio	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:21.219 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:25.855 -0500	imagefound	mobile_HD_radio	found at (279, 1322)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:26.209 -0500	tap	mobile_HD_radio	at (279, 1322)	16	on_add2cart	add2Cart.script
+2020-08-19 12:57:26.285 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:27.024 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:27.972 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:32.807 -0500	imagefound	mobile_ADDTOCART	found at (442, 855)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:33.102 -0500	tap	mobile_ADDTOCART	at (442, 855)	18	on_add2cart	add2Cart.script
+2020-08-19 12:57:37.193 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:38.010 -0500	imagefound	Mobile_SHOPPINGCART	Unable to Find Image Mobile_SHOPPINGCART	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:38.925 -0500	swipedown		Swiped down from (414, 538) to (414, 1254)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:43.476 -0500	imagefound	Mobile_SHOPPINGCART	Unable to Find Image Mobile_SHOPPINGCART	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:44.351 -0500	swipedown		Swiped down from (414, 538) to (414, 1254)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:48.758 -0500	imagefound	Mobile_SHOPPINGCART	Unable to Find Image Mobile_SHOPPINGCART	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:49.611 -0500	swipedown		Swiped down from (414, 538) to (414, 1254)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:57:53.900 -0500	imagefound	Mobile_SHOPPINGCART	found at (390, 502)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-19 12:58:08.997 -0500	EndTestCase		(Duration:"70.812616", Errors:"0", Exceptions:"0", StartTime:"2020-08-19 12:56:58 -0500", Successes:"1", TestCase:"add2Cart.script", Warnings:"0")	1	execute string	(null)
+2020-08-19 12:58:09.039 -0500	SUCCESS		Execution Time 0:01:10 add2Cart.script	1	execute string	(null)

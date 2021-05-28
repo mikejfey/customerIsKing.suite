@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="pagination_apitest" package="customerIsKing.suite" timestamp="2020-09-30 16:36:15.125 -0500"
+ tests="1"  failures="0" errors="0" time="1.359853">
+  <properties>
+   <property name="RunDate" value="2020-09-30 16:36:15.125 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="pagination.apitest" assertions="1" status="success"  time="1.352806">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,99 @@
+{
+  "entries" : [
+    {
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-10-29 14:29:00.405 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 3,
+      "timestamp" : "2020-10-29 14:29:01.060 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps.png",
+      "handlerLine" : 4,
+      "timestamp" : "2020-10-29 14:29:02.252 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-10-29 14:29:02.969 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(699,321,769,347)",
+      "timestamp" : "2020-10-29 14:29:06.678 -0500"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "1422.00",
+      "timestamp" : "2020-10-29 14:29:06.683 -0500",
+      "identifier" : "Log",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "prices match",
+      "timestamp" : "2020-10-29 14:29:06.696 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-10-29 14:29:06.722 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (392, 181)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-10-29 14:29:08.019 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (392, 181)",
+      "identifier" : "click",
+      "image" : "NopCommerce_Logo.png",
+      "handlerLine" : 17,
+      "timestamp" : "2020-10-29 14:29:08.751 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "message" : "(Duration:\"8.350344\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-29 14:29:00 -0500\", Successes:\"1\", TestCase:\"navLaptops.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-29 14:29:08.758 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:08 navLaptops.script",
+      "timestamp" : "2020-10-29 14:29:08.906 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-10-29 14:29:00.407 -0500"
+}

@@ -1,0 +1,48 @@
+{
+  "lastmodifieddate" : 1605543051.9875469,
+  "ocrcapturestring" : "©",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "daiserver2",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "©",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[12,20]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "zzzz\/eggyBookmark.png",
+      "capturerect" : [
+        1002,
+        469,
+        30,
+        30
+      ]
+    }
+  ],
+  "createddate" : 1605543051.9875469,
+  "lastfoundlocation" : [
+    1002,
+    469,
+    30,
+    30
+  ],
+  "originalcapturelocation" : [
+    1002,
+    469,
+    30,
+    30
+  ],
+  "lastfounddate" : 1605543444.7902551,
+  "name" : "zzzz\/eggyBookmark"
+}

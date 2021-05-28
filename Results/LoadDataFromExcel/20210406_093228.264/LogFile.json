@@ -1,0 +1,52 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LoadDataFromExcel.script",
+      "timestamp" : "2021-04-06 09:32:28.267 -0500"
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "[{dosage:\"one to be taken each day\", doseqty:28, originalproduct:\"Colofac 135mg tablets\", productsearchstring:\"colofac\", timesdaily:1},{dosage:\"one to be taken each day\", doseqty:20, originalproduct:\"Spasmonal 60mg capsules\", productsearchstring:\"spasmonal\", timesdaily:1}]",
+      "timestamp" : "2021-04-06 09:32:28.314 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "{dosage:\"one to be taken each day\", doseqty:28, originalproduct:\"Colofac 135mg tablets\", productsearchstring:\"colofac\", timesdaily:1}",
+      "timestamp" : "2021-04-06 09:32:28.322 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "colofac",
+      "timestamp" : "2021-04-06 09:32:28.329 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "Colofac 135mg tablets",
+      "timestamp" : "2021-04-06 09:32:28.337 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 9
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.437416\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-06 09:32:28 -0500\", Successes:\"1\", TestCase:\"LoadDataFromExcel.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-06 09:32:28.706 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 LoadDataFromExcel.script",
+      "timestamp" : "2021-04-06 09:32:28.822 -0500"
+    }
+  ],
+  "createdTimestamp" : "2021-04-06 09:32:28.268 -0500"
+}

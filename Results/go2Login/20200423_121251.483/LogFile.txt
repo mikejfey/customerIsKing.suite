@@ -1,0 +1,6 @@
+﻿2020-04-23 12:12:51.485 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-04-23 12:12:51.514 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-04-23 12:12:52.161 -0500	waitfor	NopCommerce_Logo	found at (448, 169)	3	on_backtotop	Utilities.script
+2020-04-23 12:12:57.047 -0500	imagefound	go2loginCommerce	Unable to Find Image go2loginCommerce	3	on_go2login	go2Login.script
+2020-04-23 12:12:57.050 -0500	EndTestCase		(Duration:"5.561696", Errors:"1", Exceptions:"0", StartTime:"2020-04-23 12:12:51 -0500", Successes:"0", TestCase:"go2Login.script", Warnings:"0")	1	execute string	(null)
+2020-04-23 12:12:57.207 -0500	FAILURE	Screen_Error.png	AssertionFailed (false: ImageFound("go2loginCommerce")) -- Execution Time 0:00:05 go2Login.script	1	execute string	(null)

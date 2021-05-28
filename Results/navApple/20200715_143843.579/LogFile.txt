@@ -1,0 +1,6 @@
+﻿2020-07-15 14:38:43.584 -0500	START		Running navApple.script	1	execute string	(null)
+2020-07-15 14:38:44.214 -0500	click	comp	at (505, 278)	8	on_navapple	navApple.script
+2020-07-15 14:38:45.712 -0500	click	nbook	at (1126, 641)	9	on_navapple	navApple.script
+2020-07-15 14:38:46.976 -0500	click	mac	at (773, 979)	10	on_navapple	navApple.script
+2020-07-15 14:38:46.979 -0500	EndTestCase		(Duration:"3.392402", Errors:"0", Exceptions:"0", StartTime:"2020-07-15 14:38:43 -0500", Successes:"1", TestCase:"navApple.script", Warnings:"0")	1	execute string	(null)
+2020-07-15 14:38:47.042 -0500	SUCCESS		Execution Time 0:00:03 navApple.script	1	execute string	(null)

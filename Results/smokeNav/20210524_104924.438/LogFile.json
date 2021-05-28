@@ -1,0 +1,47 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running smokeNav.script",
+      "timestamp" : "2021-05-24 10:49:24.441 -0500"
+    },
+    {
+      "handlerName" : "on_smokenav",
+      "message" : "at (528, 321)",
+      "identifier" : "click",
+      "image" : "Computers_0001",
+      "handlerLine" : 8,
+      "timestamp" : "2021-05-24 10:49:25.174 -0500",
+      "scriptName" : "smokeNav.script"
+    },
+    {
+      "handlerName" : "on_smokenav",
+      "message" : "at (671, 316)",
+      "identifier" : "click",
+      "image" : "Electronics_0001",
+      "handlerLine" : 9,
+      "timestamp" : "2021-05-24 10:49:26.101 -0500",
+      "scriptName" : "smokeNav.script"
+    },
+    {
+      "handlerName" : "on_smokenav",
+      "message" : "at (801, 322)",
+      "identifier" : "click",
+      "image" : "Apparel",
+      "handlerLine" : 10,
+      "timestamp" : "2021-05-24 10:49:26.938 -0500",
+      "scriptName" : "smokeNav.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"3.115863\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-05-24 10:49:24 -0500\", Successes:\"1\", TestCase:\"smokeNav.script\", Warnings:\"0\")",
+      "timestamp" : "2021-05-24 10:49:27.562 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:03 smokeNav.script",
+      "timestamp" : "2021-05-24 10:49:27.749 -0500"
+    }
+  ],
+  "createdTimestamp" : "2021-05-24 10:49:24.445 -0500"
+}

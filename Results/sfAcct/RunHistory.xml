@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="sfAcct">
+ <run>
+  <RunDate>2020-08-21 13:32:08.906 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>48.567750</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200821_133208.906/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;ARHallmarkCardsDAI&quot;</ErrorMessage>
+ </run>
+</runHistory>

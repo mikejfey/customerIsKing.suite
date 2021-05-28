@@ -1,0 +1,3 @@
+﻿2020-11-02 17:00:57.002 -0600	START		Running navLaptops.script	1	execute string	(null)
+2020-11-02 17:00:57.029 -0600	EndTestCase		(Duration:"0.025187", Errors:"0", Exceptions:"0", StartTime:"2020-11-02 17:00:57 -0600", Successes:"1", TestCase:"navLaptops.script", Warnings:"0")	1	execute string	(null)
+2020-11-02 17:00:57.169 -0600	SUCCESS		Execution Time 0:00:00 navLaptops.script	1	execute string	(null)

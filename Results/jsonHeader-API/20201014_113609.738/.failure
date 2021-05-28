@@ -1,0 +1,1 @@
+2020-10-14 11:36:09.738 -0500,Failure,0:00:01,1,1,0,20201014_113609.738/LogFile.txt,"","AssertionFailed --  (assertion: api().statusCode is 200; actually: 405 IS NOT equal to 200)",0

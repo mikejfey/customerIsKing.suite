@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Gherkin_Desktop_feature" package="nopCommerce.suite" timestamp="2020-06-08 16:36:51.177 -0500"
+ tests="6"  failures="3" errors="2" time="57.606131">
+  <properties>
+   <property name="RunDate" value="2020-06-08 16:36:51.177 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="I am connected to a device" assertions="1" status="(null)"  time="0.072467">
+  </testcase>
+  <testcase name="I enter the nopCommerce URL in "chrome"" assertions="1" status="(null)"  time="0.276655">
+  </testcase>
+  <testcase name="I should see the home page" assertions="1" status="(null)"  time="55.102438">
+  </testcase>
+  <testcase name="I close the browser" assertions="1" status="(null)"  time="2.110842">
+  </testcase>
+  <testcase name="The test should pass" assertions="1" status="(null)"  time="0.033664">
+  </testcase>
+  <testcase name="Gherkin_Desktop.feature" assertions="6" status="error"  time="57.603306">
+    <failure type="LogError" message="Error at step: I enter the nopCommerce URL in &quot;chrome&quot;" />
+    <failure type="LogError" message="Error at step: I should see the home page" />
+    <failure type="FAILURE" message="2 scenarios (1 failed, 1 passed) 5 steps (2 failed, 0 skipped, 3 passed) Execution Time 0:00:57" />
+    <error type="Exception" message="Not found: NopCommerce_Logo" />
+  </testcase>
+ </testsuite>
+</testsuites>

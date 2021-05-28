@@ -1,0 +1,4 @@
+﻿2020-11-02 17:19:48.448 -0600	START		Running emr/Validate.script	1	execute string	(null)
+2020-11-02 17:19:48.488 -0600	Exception	miketopMenu/monday_TL	Could Not Open Image: miketopMenu/monday_TL	2	on_emr_validate	emr/Validate.script
+2020-11-02 17:19:48.496 -0600	EndTestCase		(Duration:"0.046285", Errors:"1", Exceptions:"1", StartTime:"2020-11-02 17:19:48 -0600", Successes:"0", TestCase:"emr/Validate.script", Warnings:"0")	1	execute string	(null)
+2020-11-02 17:19:48.733 -0600	FAILURE	Screen_Error.png	File Not Found readtext Error - Could Not Open Image: miketopMenu/monday_TL -- Execution Time 0:00:00 emr/Validate.script	1	execute string	(null)

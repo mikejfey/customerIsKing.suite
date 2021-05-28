@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LoadDataFromExcel.script",
+      "timestamp" : "2021-04-06 09:31:39.695 -0500"
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "[{dosage:\"one to be taken each day\", doseqty:28, originalproduct:\"Colofac 135mg tablets\", productsearchstring:\"colofac\", timesdaily:1},{dosage:\"one to be taken each day\", doseqty:20, originalproduct:\"Spasmonal 60mg capsules\", productsearchstring:\"spasmonal\", timesdaily:1}]",
+      "timestamp" : "2021-04-06 09:31:39.729 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "{dosage:\"one to be taken each day\", doseqty:20, originalproduct:\"Spasmonal 60mg capsules\", productsearchstring:\"spasmonal\", timesdaily:1}",
+      "timestamp" : "2021-04-06 09:31:39.737 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_loaddatafromexcel",
+      "message" : "spasmonal",
+      "timestamp" : "2021-04-06 09:31:39.741 -0500",
+      "identifier" : "Log",
+      "scriptName" : "LoadDataFromExcel.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.415268\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-04-06 09:31:39 -0500\", Successes:\"1\", TestCase:\"LoadDataFromExcel.script\", Warnings:\"0\")",
+      "timestamp" : "2021-04-06 09:31:40.112 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 LoadDataFromExcel.script",
+      "timestamp" : "2021-04-06 09:31:40.244 -0500"
+    }
+  ],
+  "createdTimestamp" : "2021-04-06 09:31:39.696 -0500"
+}

@@ -1,0 +1,92 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running searcMobile.script",
+      "timestamp" : "2020-10-01 09:54:46.152 -0500"
+    },
+    {
+      "handlerName" : "on_searcmobile",
+      "message" : "at (368, 1450)",
+      "identifier" : "click",
+      "image" : "searchMObb",
+      "handlerLine" : 8,
+      "timestamp" : "2020-10-01 09:54:49.088 -0500",
+      "scriptName" : "searcMobile.script"
+    },
+    {
+      "handlerName" : "on_searcmobile",
+      "message" : "at (533, 2537)",
+      "identifier" : "click",
+      "image" : "image0001",
+      "handlerLine" : 9,
+      "timestamp" : "2020-10-01 09:54:50.375 -0500",
+      "scriptName" : "searcMobile.script"
+    },
+    {
+      "handlerName" : "on_searcmobile",
+      "message" : "at (57, 2297)",
+      "identifier" : "click",
+      "image" : "image0002",
+      "handlerLine" : 10,
+      "timestamp" : "2020-10-01 09:54:51.638 -0500",
+      "scriptName" : "searcMobile.script"
+    },
+    {
+      "handlerName" : "on_searcmobile",
+      "message" : "at (1087, 2496)",
+      "identifier" : "click",
+      "image" : "Ill",
+      "handlerLine" : 11,
+      "timestamp" : "2020-10-01 09:54:52.640 -0500",
+      "scriptName" : "searcMobile.script"
+    },
+    {
+      "handlerName" : "on_searcmobile",
+      "message" : "at (374, 2083)",
+      "identifier" : "click",
+      "image" : "image0003",
+      "handlerLine" : 12,
+      "timestamp" : "2020-10-01 09:54:53.638 -0500",
+      "scriptName" : "searcMobile.script"
+    },
+    {
+      "handlerName" : "on_searcmobile",
+      "message" : "at (529, 2074)",
+      "identifier" : "click",
+      "image" : "image0004",
+      "handlerLine" : 13,
+      "timestamp" : "2020-10-01 09:54:54.594 -0500",
+      "scriptName" : "searcMobile.script"
+    },
+    {
+      "handlerName" : "on_searcmobile",
+      "message" : "at (99, 2292)",
+      "identifier" : "click",
+      "image" : "image0005",
+      "handlerLine" : 14,
+      "timestamp" : "2020-10-01 09:54:55.551 -0500",
+      "scriptName" : "searcMobile.script"
+    },
+    {
+      "handlerName" : "on_searcmobile",
+      "message" : "at (1120, 1468)",
+      "identifier" : "click",
+      "image" : "image0006",
+      "handlerLine" : 15,
+      "timestamp" : "2020-10-01 09:54:56.494 -0500",
+      "scriptName" : "searcMobile.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"10.957761\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-01 09:54:46 -0500\", Successes:\"1\", TestCase:\"searcMobile.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-01 09:54:57.111 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:10 searcMobile.script",
+      "timestamp" : "2020-10-01 09:54:57.207 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-01 09:54:46.153 -0500"
+}

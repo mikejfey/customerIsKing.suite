@@ -1,0 +1,52 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running GetStockPrice.apitest",
+      "timestamp" : "2020-10-01 09:58:20.085 -0500"
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-10-01 09:58:21.025 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "========================",
+      "timestamp" : "2020-10-01 09:58:21.047 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 12
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "Ticker AAPL",
+      "timestamp" : "2020-10-01 09:58:21.059 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 14
+    },
+    {
+      "handlerName" : "on_getstockprice",
+      "message" : "closing Price 115.81",
+      "timestamp" : "2020-10-01 09:58:21.064 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/GetStockPrice.apitest",
+      "handlerLine" : 15
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.674808\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-01 09:58:20 -0500\", Successes:\"1\", TestCase:\"GetStockPrice.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-10-01 09:58:21.762 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 GetStockPrice.apitest",
+      "timestamp" : "2020-10-01 09:58:21.860 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-01 09:58:20.086 -0500"
+}

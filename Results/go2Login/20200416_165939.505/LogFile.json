@@ -1,0 +1,102 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-04-16 16:59:39.507 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-04-16 16:59:39.522 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "Unable to Find Image(s): NopCommerce_Logo.png -- AutoUpdate engaged",
+      "timestamp" : "2020-04-16 16:59:50.389 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerLine" : 3,
+      "handlerName" : "on_backtotop",
+      "timestamp" : "2020-04-16 16:59:51.496 -0500",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "Found Alternate Image -- Using Alternate Types Adaptive to Image",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/Images\/NopCommerce_Logo.png",
+      "handlerLine" : 3,
+      "timestamp" : "2020-04-16 16:59:51.499 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (171, 169)",
+      "identifier" : "waitfor",
+      "image" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/Images\/NopCommerce_Logo.png",
+      "handlerLine" : 3,
+      "timestamp" : "2020-04-16 16:59:52.361 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Unable to Find Image(s): go2loginCommerce.png -- AutoUpdate engaged",
+      "timestamp" : "2020-04-16 16:59:56.108 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerLine" : 2,
+      "handlerName" : "on_go2login",
+      "timestamp" : "2020-04-16 16:59:57.528 -0500",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0002.png",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Found Alternate Image -- Using Dynamic Tolerance 64",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/Images\/go2loginCommerce.png",
+      "handlerLine" : 2,
+      "timestamp" : "2020-04-16 16:59:57.530 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1181, 91)",
+      "identifier" : "click",
+      "image" : "\/Users\/mikefey\/Documents\/EggplantSuites\/nopCommerce.suite\/Images\/go2loginCommerce.png",
+      "handlerLine" : 2,
+      "timestamp" : "2020-04-16 16:59:58.450 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"18.947043\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-16 16:59:39 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"2\")",
+      "timestamp" : "2020-04-16 16:59:58.456 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:18 go2Login.script",
+      "timestamp" : "2020-04-16 16:59:58.466 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-04-16 16:59:39.508 -0500"
+}

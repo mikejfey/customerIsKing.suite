@@ -1,0 +1,61 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-09-16 17:57:51.657 -0500"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "iPhoneMike:(null)",
+      "timestamp" : "2020-09-16 17:57:51.689 -0500",
+      "identifier" : "connect",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "remote",
+      "timestamp" : "2020-09-16 17:57:51.691 -0500",
+      "identifier" : "show",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Safari",
+      "timestamp" : "2020-09-16 17:57:51.761 -0500",
+      "identifier" : "launchapp",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Unable to Find Image(s): nop_logo_mobile.png -- AutoUpdate engaged",
+      "timestamp" : "2020-09-16 17:58:02.840 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Unable To Find Any Image On Screen \"nop_logo_mobile\" within 10.00 seconds",
+      "identifier" : "Exception",
+      "image" : "nop_logo_mobile",
+      "handlerLine" : 4,
+      "timestamp" : "2020-09-16 17:58:32.237 -0500",
+      "scriptName" : "LaunchMobileApp.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"41.102579\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-09-16 17:57:51 -0500\", Successes:\"0\", TestCase:\"LaunchMobileApp.script\", Warnings:\"1\")",
+      "timestamp" : "2020-09-16 17:58:32.761 -0500"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:41 LaunchMobileApp.script",
+      "timestamp" : "2020-09-16 17:58:32.763 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-09-16 17:57:51.658 -0500"
+}

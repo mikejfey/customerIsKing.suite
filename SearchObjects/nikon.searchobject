@@ -1,0 +1,27 @@
+{
+  "originalcapturelocation" : [
+    697,
+    783,
+    257,
+    177
+  ],
+  "createddate" : 1604070083.707865,
+  "lastmodifieddate" : 1604070083.707866,
+  "name" : "nikon",
+  "testlocationdata" : [
+    {
+      "name" : "nikon.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        697,
+        783,
+        257,
+        177
+      ]
+    }
+  ]
+}

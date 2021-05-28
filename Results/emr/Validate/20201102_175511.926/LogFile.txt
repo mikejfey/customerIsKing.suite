@@ -1,0 +1,13 @@
+﻿2020-11-02 17:55:11.928 -0600	START		Running emr/Validate.script	1	execute string	(null)
+2020-11-02 17:55:12.001 -0600	typetext		[windowsKey]r	1	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:12.742 -0600	waitfor	RunWindowLogo	found at (45, 892)	2	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:13.276 -0600	typetext		chrome http://nopcommerce.testplant.com[return]	3	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:14.498 -0600	waitfor	NopCommerce_Logo	found at (392, 181)	4	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:14.681 -0600	click	Computers	at (535, 291)	7	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:15.480 -0600	click	Laptops/Laps.png	at (1096, 642)	8	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:16.193 -0600	typetext		[pageDown]	9	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:17.566 -0600	readtext		(699,321,769,347)
+2020-11-02 17:55:17.577 -0600	Log		1,800 00	11	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:17.639 -0600	LogError		1,800 00 does not match 1650.00	24	on_emr_validate	emr/Validate.script
+2020-11-02 17:55:17.667 -0600	EndTestCase		(Duration:"5.73674", Errors:"1", Exceptions:"0", StartTime:"2020-11-02 17:55:11 -0600", Successes:"0", TestCase:"emr/Validate.script", Warnings:"0")	1	execute string	(null)
+2020-11-02 17:55:18.106 -0600	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:05 emr/Validate.script	1	execute string	(null)

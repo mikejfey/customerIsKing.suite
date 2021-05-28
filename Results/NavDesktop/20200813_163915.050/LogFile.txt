@@ -1,0 +1,4 @@
+﻿2020-08-13 16:39:15.052 -0500	START		Running mobileNavDesktop.script
+2020-08-13 16:39:20.316 -0500	tap	CATEGORIES	at (194, 1023)	2	on_mobilenavdesktop	mobileNavDesktop.script
+2020-08-13 16:39:21.704 -0500	EndTestCase		(Duration:"6.649968", Errors:"1", Exceptions:"0", StartTime:"2020-08-13 16:39:15 -0500", Successes:"0", TestCase:"mobileNavDesktop.script", Warnings:"0")
+2020-08-13 16:39:22.697 -0500	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'wait2' -- Execution Time 0:00:06 mobileNavDesktop.script

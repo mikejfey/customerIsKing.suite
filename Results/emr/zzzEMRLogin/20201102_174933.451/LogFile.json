@@ -1,0 +1,82 @@
+{
+  "entries" : [
+    {
+      "message" : "Running emr\/zzzEMRLogin.script",
+      "timestamp" : "2020-11-02 17:49:33.454 -0600",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "Login with: admin",
+      "timestamp" : "2020-11-02 17:49:33.489 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "Password is: pass",
+      "timestamp" : "2020-11-02 17:49:33.505 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "admin",
+      "timestamp" : "2020-11-02 17:49:36.583 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "[tab]",
+      "timestamp" : "2020-11-02 17:49:37.298 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "pass",
+      "timestamp" : "2020-11-02 17:49:40.355 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 10
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "[returnKey]",
+      "timestamp" : "2020-11-02 17:49:41.074 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 11
+    },
+    {
+      "handlerName" : "on_emr_zzzemrlogin",
+      "message" : "EMR was loaded ",
+      "timestamp" : "2020-11-02 17:49:45.085 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/zzzEMRLogin.script",
+      "handlerLine" : 14
+    },
+    {
+      "message" : "(Duration:\"11.634635\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-02 17:49:33 -0600\", Successes:\"1\", TestCase:\"emr\/zzzEMRLogin.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:49:45.091 -0600",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:11 emr\/zzzEMRLogin.script",
+      "timestamp" : "2020-11-02 17:49:45.275 -0600",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:49:33.455 -0600"
+}

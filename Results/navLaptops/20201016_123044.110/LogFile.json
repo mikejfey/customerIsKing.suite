@@ -1,0 +1,74 @@
+{
+  "entries" : [
+    {
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-10-16 12:30:44.113 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 3,
+      "timestamp" : "2020-10-16 12:30:44.647 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "at (1096, 642)",
+      "identifier" : "click",
+      "image" : "Laptops\/Laps.png",
+      "handlerLine" : 4,
+      "timestamp" : "2020-10-16 12:30:45.489 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "[pageDown]",
+      "timestamp" : "2020-10-16 12:30:46.205 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(699,321,769,347)",
+      "timestamp" : "2020-10-16 12:30:47.641 -0500"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "1,800.00",
+      "timestamp" : "2020-10-16 12:30:47.667 -0500",
+      "identifier" : "Log",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "1,800.00 does not match 1,700.00",
+      "timestamp" : "2020-10-16 12:30:47.757 -0500",
+      "identifier" : "LogError",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 19
+    },
+    {
+      "message" : "(Duration:\"3.707233\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-10-16 12:30:44 -0500\", Successes:\"0\", TestCase:\"navLaptops.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-16 12:30:47.823 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Script Error Number of Errors logged: 1 -- Execution Time 0:00:03 navLaptops.script",
+      "timestamp" : "2020-10-16 12:30:48.163 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-10-16 12:30:44.114 -0500"
+}

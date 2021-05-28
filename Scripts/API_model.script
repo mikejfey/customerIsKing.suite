@@ -1,0 +1,6 @@
+﻿
+GetStockPrice
+
+//put GetStockPrice(responsebody) into rs
+//put jsonValue(rs) into JsonResponse
+

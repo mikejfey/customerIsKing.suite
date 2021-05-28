@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running sql.script",
+      "timestamp" : "2021-01-11 14:05:29.039 -0600"
+    },
+    {
+      "handlerName" : "on_sql",
+      "message" : "at (326, 1675)",
+      "identifier" : "tap",
+      "image" : "image0008",
+      "handlerLine" : 3,
+      "timestamp" : "2021-01-11 14:05:29.521 -0600",
+      "scriptName" : "sql.script"
+    },
+    {
+      "handlerName" : "on_sql",
+      "timestamp" : "2021-01-11 14:05:30.234 -0600",
+      "identifier" : "presshomebutton",
+      "scriptName" : "sql.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_sql",
+      "message" : "at (326, 1675)",
+      "identifier" : "tap",
+      "image" : "image0008",
+      "handlerLine" : 6,
+      "timestamp" : "2021-01-11 14:05:32.835 -0600",
+      "scriptName" : "sql.script"
+    },
+    {
+      "handlerName" : "on_sql",
+      "timestamp" : "2021-01-11 14:05:33.546 -0600",
+      "identifier" : "presshomebutton",
+      "scriptName" : "sql.script",
+      "handlerLine" : 7
+    },
+    {
+      "handlerName" : "on_sql",
+      "message" : "at (326, 1675)",
+      "identifier" : "tap",
+      "image" : "image0008",
+      "handlerLine" : 9,
+      "timestamp" : "2021-01-11 14:05:35.619 -0600",
+      "scriptName" : "sql.script"
+    },
+    {
+      "handlerName" : "on_sql",
+      "timestamp" : "2021-01-11 14:05:36.331 -0600",
+      "identifier" : "presshomebutton",
+      "scriptName" : "sql.script",
+      "handlerLine" : 10
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"8.616587\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-01-11 14:05:29 -0600\", Successes:\"1\", TestCase:\"sql.script\", Warnings:\"0\")",
+      "timestamp" : "2021-01-11 14:05:37.657 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:08 sql.script",
+      "timestamp" : "2021-01-11 14:05:37.812 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-01-11 14:05:29.040 -0600"
+}

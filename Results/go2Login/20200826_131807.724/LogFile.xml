@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="go2Login_script" package="customerIsKing.suite" timestamp="2020-08-26 13:18:07.724 -0500"
+ tests="1"  failures="1" errors="1" time="12.654958">
+  <properties>
+   <property name="RunDate" value="2020-08-26 13:18:07.724 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="go2Login.script" assertions="1" status="error"  time="12.648888">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;go2loginCommerce&quot; -- Execution Time 0:00:12 go2Login.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;go2loginCommerce&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

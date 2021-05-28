@@ -1,0 +1,49 @@
+{
+  "lastmodifieddate" : 1620741033.38393,
+  "ocrcapturestring" : "SEARCH",
+  "testlocationdata" : [
+    {
+      "connectionserverid" : "daiserver2",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "daiserver2",
+      "connectionportnum" : 3389,
+      "deleted" : true,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "SEARCH",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[30,7]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "name" : "Search_Header\/Search_Header_new_1.png",
+      "capturerect" : [
+        1476,
+        204,
+        61,
+        14
+      ]
+    }
+  ],
+  "createddate" : 1620740443.8621569,
+  "lastfoundlocation" : [
+    1476,
+    204,
+    61,
+    14
+  ],
+  "originalcapturelocation" : [
+    1476,
+    204,
+    61,
+    14
+  ],
+  "lastfounddate" : 1620740875.0673151,
+  "name" : "Search_Header\/Search_Header_new_1"
+}

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="go2Login_script" package="customerIsKing.suite" timestamp="2020-08-19 08:58:17.740 -0500"
+ tests="1"  failures="0" errors="0" time="5.778065">
+  <properties>
+   <property name="RunDate" value="2020-08-19 08:58:17.740 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="go2Login.script" assertions="1" status="success"  time="5.774249">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2020-09-18 13:12:10 +0000";
+    CaptureHost = android;
+    CaptureScreenSize =     (
+        1440,
+        2960
+    );
+    HasAlpha = 1;
+    HotSpotX = 69;
+    HotSpotY = 34;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1256;
+    OriginalLocationY = 2628;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "Next_andr";
+    tags =     (
+    );
+}

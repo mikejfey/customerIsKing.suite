@@ -1,0 +1,53 @@
+{
+  "entries" : [
+    {
+      "message" : "Running mobileNavDesktop.script",
+      "timestamp" : "2020-08-17 15:56:50.079 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "at (194, 1023)",
+      "identifier" : "tap",
+      "image" : "CATEGORIES",
+      "handlerLine" : 2,
+      "timestamp" : "2020-08-17 15:56:51.505 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "Unable to Find Image(s): Computers_mobile.png -- AutoUpdate engaged",
+      "timestamp" : "2020-08-17 15:56:59.937 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "mobileNavDesktop.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_mobilenavdesktop",
+      "message" : "No Image Found On Screen: \"Computers_mobile\"",
+      "identifier" : "Exception",
+      "image" : "Computers_mobile",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-17 15:57:17.061 -0500",
+      "scriptName" : "mobileNavDesktop.script"
+    },
+    {
+      "message" : "(Duration:\"26.986407\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-17 15:56:50 -0500\", Successes:\"0\", TestCase:\"mobileNavDesktop.script\", Warnings:\"1\")",
+      "timestamp" : "2020-08-17 15:57:17.068 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Image Not Found tap Error - No Image Found On Screen: \"Computers_mobile\" -- Execution Time 0:00:26 mobileNavDesktop.script",
+      "timestamp" : "2020-08-17 15:57:17.305 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-08-17 15:56:50.081 -0500"
+}

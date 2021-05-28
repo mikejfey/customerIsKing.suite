@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="NavDesktop_script" package="customerIsKing.suite" timestamp="2020-08-20 09:55:49.512 -0500"
+ tests="1"  failures="0" errors="0" time="12.477517">
+  <properties>
+   <property name="RunDate" value="2020-08-20 09:55:49.512 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="NavDesktop.script" assertions="1" status="success"  time="12.473787">
+  </testcase>
+ </testsuite>
+</testsuites>

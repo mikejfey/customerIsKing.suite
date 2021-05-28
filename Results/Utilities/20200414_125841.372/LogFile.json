@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Utilities.script",
+      "timestamp" : "2020-04-14 12:58:41.376 -0500"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.000169\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-04-14 12:58:41 -0500\", Successes:\"1\", TestCase:\"Utilities.script\", Warnings:\"0\")",
+      "timestamp" : "2020-04-14 12:58:41.377 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:00 Utilities.script",
+      "timestamp" : "2020-04-14 12:58:41.519 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-04-14 12:58:41.377 -0500"
+}

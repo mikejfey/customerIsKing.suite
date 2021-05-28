@@ -1,0 +1,29 @@
+{
+  "ocrcapturestring" : "#•••",
+  "originalcapturelocation" : [
+    355,
+    151,
+    73,
+    55
+  ],
+  "createddate" : 1604070840.7367139,
+  "lastmodifieddate" : 1604070840.7367139,
+  "name" : "nop_tl",
+  "testlocationdata" : [
+    {
+      "name" : "nop_tl.png",
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "#•••",
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        355,
+        151,
+        73,
+        55
+      ]
+    }
+  ]
+}

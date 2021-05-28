@@ -1,0 +1,38 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running checkout.script",
+      "timestamp" : "2020-08-13 15:32:01.690 -0500"
+    },
+    {
+      "handlerName" : "on_checkout",
+      "message" : "at (1202, 1061)",
+      "identifier" : "click",
+      "image" : "CHECKOUT_terms",
+      "handlerLine" : 1,
+      "timestamp" : "2020-08-13 15:32:02.225 -0500",
+      "scriptName" : "checkout.script"
+    },
+    {
+      "handlerName" : "on_checkout",
+      "message" : "at (1465, 1128)",
+      "identifier" : "click",
+      "image" : "CHECKOUT",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 15:32:03.353 -0500",
+      "scriptName" : "checkout.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.89435\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-13 15:32:01 -0500\", Successes:\"1\", TestCase:\"checkout.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-13 15:32:04.586 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:02 checkout.script",
+      "timestamp" : "2020-08-13 15:32:04.697 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 15:32:01.691 -0500"
+}

@@ -1,0 +1,6 @@
+﻿2021-05-24 10:49:24.441 -0500	START		Running smokeNav.script
+2021-05-24 10:49:25.174 -0500	click	Computers_0001	at (528, 321)	8	on_smokenav	smokeNav.script
+2021-05-24 10:49:26.101 -0500	click	Electronics_0001	at (671, 316)	9	on_smokenav	smokeNav.script
+2021-05-24 10:49:26.938 -0500	click	Apparel	at (801, 322)	10	on_smokenav	smokeNav.script
+2021-05-24 10:49:27.562 -0500	EndTestCase		(Duration:"3.115863", Errors:"0", Exceptions:"0", StartTime:"2021-05-24 10:49:24 -0500", Successes:"1", TestCase:"smokeNav.script", Warnings:"0")
+2021-05-24 10:49:27.749 -0500	SUCCESS		Execution Time 0:00:03 smokeNav.script

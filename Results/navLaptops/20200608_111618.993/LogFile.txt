@@ -1,0 +1,9 @@
+﻿2020-06-08 11:16:18.996 -0500	START		Running navLaptops.script
+2020-06-08 11:16:19.420 -0500	click	Computers	at (535, 291)	8	on_navlaptops	navLaptops.script
+2020-06-08 11:16:20.639 -0500	click	Laptops/Laps	at (1096, 642)	9	on_navlaptops	navLaptops.script
+2020-06-08 11:16:21.577 -0500	click	Laptops/Pos	at (883, 537)	10	on_navlaptops	navLaptops.script
+2020-06-08 11:16:22.454 -0500	click	Laptops/PriceHightoLow	at (854, 636)	11	on_navlaptops	navLaptops.script
+2020-06-08 11:16:23.299 -0500	click	Laptops/Grid	at (1535, 538)	12	on_navlaptops	navLaptops.script
+2020-06-08 11:16:24.127 -0500	click	Laptops/Logo	at (393, 186)	13	on_navlaptops	navLaptops.script
+2020-06-08 11:16:25.476 -0500	EndTestCase		(Duration:"6.478089", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 11:16:18 -0500", Successes:"1", TestCase:"navLaptops.script", Warnings:"0")
+2020-06-08 11:16:25.529 -0500	SUCCESS		Execution Time 0:00:06 navLaptops.script

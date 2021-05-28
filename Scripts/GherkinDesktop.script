@@ -1,0 +1,31 @@
+﻿
+to handle I_am_connected_to_a_device
+	
+end I_am_connected_to_a_device
+
+to handle I_enter_the_nopCommerce_URL_in_STR
+	params str1
+	
+end I_enter_the_nopCommerce_URL_in_STR
+
+to handle I_should_see_the_home_page
+	
+end I_should_see_the_home_page
+
+to handle I_click_the_Computer_icon
+	
+end I_click_the_Computer_icon
+
+
+
+to handle I_should_see_the_notebooks
+	
+end I_should_see_the_notebooks
+
+to handle I_close_the_browser
+	
+end I_close_the_browser
+
+to handle The_test_should_pass
+	
+end The_test_should_pass

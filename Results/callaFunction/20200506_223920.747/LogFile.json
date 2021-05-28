@@ -1,0 +1,54 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running call.script",
+      "timestamp" : "2020-05-06 22:39:20.749 -0500"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "at (1089, 474)",
+      "identifier" : "click",
+      "image" : "Email4Login",
+      "handlerLine" : 6,
+      "timestamp" : "2020-05-06 22:39:21.881 -0500",
+      "scriptName" : "Login2Commerce.script"
+    },
+    {
+      "handlerName" : "on_email4login_entertext",
+      "message" : "mike[returnKey]",
+      "timestamp" : "2020-05-06 22:39:22.649 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Login2Commerce.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_password_entertext",
+      "message" : "at (1101, 545)",
+      "identifier" : "click",
+      "image" : "Password",
+      "handlerLine" : 6,
+      "timestamp" : "2020-05-06 22:39:23.514 -0500",
+      "scriptName" : "Login2Commerce.script"
+    },
+    {
+      "handlerName" : "on_password_entertext",
+      "message" : "eggydemo",
+      "timestamp" : "2020-05-06 22:39:24.316 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Login2Commerce.script",
+      "handlerLine" : 8
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.270479\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-05-06 22:39:20 -0500\", Successes:\"1\", TestCase:\"call.script\", Warnings:\"0\")",
+      "timestamp" : "2020-05-06 22:39:25.021 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:04 call.script",
+      "timestamp" : "2020-05-06 22:39:25.041 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-05-06 22:39:20.750 -0500"
+}

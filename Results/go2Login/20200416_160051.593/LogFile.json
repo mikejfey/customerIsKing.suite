@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-04-16 16:00:51.596 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Unable to Find Image(s): go2loginCommerce.png -- AutoUpdate engaged",
+      "timestamp" : "2020-04-16 16:00:54.746 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "No Image Found On Screen: \"go2loginCommerce\"",
+      "identifier" : "Exception",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 1,
+      "timestamp" : "2020-04-16 16:00:59.739 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"8.144627\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-04-16 16:00:51 -0500\", Successes:\"0\", TestCase:\"go2Login.script\", Warnings:\"1\")",
+      "timestamp" : "2020-04-16 16:00:59.743 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Image Not Found click Error - No Image Found On Screen: \"go2loginCommerce\" -- Execution Time 0:00:08 go2Login.script",
+      "timestamp" : "2020-04-16 16:00:59.785 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-04-16 16:00:51.598 -0500"
+}

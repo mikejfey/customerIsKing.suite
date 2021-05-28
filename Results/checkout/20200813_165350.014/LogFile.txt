@@ -1,0 +1,5 @@
+﻿2020-08-13 16:53:50.018 -0500	START		Running checkout.script	1	execute string	(null)
+2020-08-13 16:53:50.528 -0500	click	CHECKOUT_terms	at (1202, 1061)	1	on_checkout	checkout.script
+2020-08-13 16:53:51.689 -0500	click	CHECKOUT	at (1465, 1128)	3	on_checkout	checkout.script
+2020-08-13 16:53:51.730 -0500	EndTestCase		(Duration:"1.708787", Errors:"0", Exceptions:"0", StartTime:"2020-08-13 16:53:50 -0500", Successes:"1", TestCase:"checkout.script", Warnings:"0")	1	execute string	(null)
+2020-08-13 16:53:51.905 -0500	SUCCESS		Execution Time 0:00:01 checkout.script	1	execute string	(null)

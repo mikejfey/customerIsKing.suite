@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="sfAcct_script" package="customerIsKing.suite" timestamp="2020-08-21 13:32:08.906 -0500"
+ tests="1"  failures="1" errors="1" time="48.567750">
+  <properties>
+   <property name="RunDate" value="2020-08-21 13:32:08.906 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="sfAcct.script" assertions="1" status="error"  time="48.562312">
+    <failure type="FAILURE" message="Image Not Found click Error - No Image Found On Screen: &quot;ARHallmarkCardsDAI&quot; -- Execution Time 0:00:48 sfAcct.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;ARHallmarkCardsDAI&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.apitest",
+      "timestamp" : "2020-09-28 14:40:52.184 -0500"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-09-28 14:40:53.010 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/Untitled.apitest",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "{adj_close:112.28, adj_high:112.44, adj_low:107.67, adj_open:108.43, adj_volume:149981441, close:112.28, date:\"2020-09-25T00:00:00+0000\", exchange:\"XNAS\", high:112.44, low:107.67, open:108.43, symbol:\"AAPL\", volume:149981441}",
+      "timestamp" : "2020-09-28 14:40:53.021 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/Untitled.apitest",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "112.28",
+      "timestamp" : "2020-09-28 14:40:53.026 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/Untitled.apitest",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.217562\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-09-28 14:40:52 -0500\", Successes:\"1\", TestCase:\"Untitled.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-09-28 14:40:53.403 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 Untitled.apitest",
+      "timestamp" : "2020-09-28 14:40:53.456 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-09-28 14:40:52.185 -0500"
+}

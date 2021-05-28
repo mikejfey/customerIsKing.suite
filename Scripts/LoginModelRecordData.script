@@ -1,0 +1,40 @@
+﻿to usernameRecordData 
+	params unameRecord
+	//put "mikefey@eggplant.io" into unameRecord
+	// Assumes the hot spot has been set over the text field
+	// and that the field is already empty.
+	
+	// Click the location of the hot spot.
+	log unameRecord
+	Click imageName:"Email4Login", waitFor:8
+	//Type theValue and optional terminator (such as 'return' or 'tab') into the field.
+	//TypeText theValue, terminator
+	
+	put item 1 of unameRecord into justUser
+	log justUser
+	delete the first character of justUser
+	delete the last character of justUser
+	log justUser
+	typeText justUser
+end usernameRecordData 
+
+to pwdRecordData
+	params pwdRecord
+	// Assumes the hot spot has been set over the text field
+	// and that the field is already empty.
+	//put ["mike","cruz"] into pwdRecord
+	// Click the location of the hot spot.
+	Click imageName:"Password", waitFor:8
+	//Type theValue and optional terminator (such as 'return' or 'tab') into the field.
+	//TypeText theValue, terminator
+	log pwdRecord
+	put item 2 of pwdRecord into justPwd
+	log justPwd
+	delete the first character of justPwd
+	delete the last character of justPwd
+	log justPwd
+	typeText justPwd
+end pwdRecordData 
+
+
+//usernameRecordData

@@ -1,0 +1,25 @@
+{
+  "ocrcapturestring" : "SEARCH",
+  "originalcapturelocation" : [
+    1476,
+    173,
+    61,
+    14
+  ],
+  "createddate" : 1602684307.8814659,
+  "lastmodifieddate" : 1602684307.8814669,
+  "name" : "SEARCH",
+  "testlocationdata" : [
+    {
+      "capturerect" : [
+        1476,
+        173,
+        61,
+        14
+      ],
+      "capturedocrtext" : "SEARCH",
+      "name" : "SEARCH.png",
+      "type" : 1
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-06-08 09:04:46.887 -0500,"Aborted",0:00:01,1,0,0,"20200608_090446.887/LogFile.txt","","",0
+2020-06-08 09:05:12.595 -0500,"Success",0:00:05,0,0,0,"20200608_090512.595/LogFile.txt","","",1
+2020-06-08 09:11:16.143 -0500,"Success",0:00:05,0,0,0,"20200608_091116.143/LogFile.txt","","",1
+2020-06-08 11:16:18.993 -0500,"Success",0:00:06,0,0,0,"20200608_111618.993/LogFile.txt","","",1
+2020-06-08 12:29:43.151 -0500,"Success",0:00:05,0,0,0,"20200608_122943.151/LogFile.txt","","",1
+2020-06-08 13:03:58.684 -0500,"Failure",0:00:18,1,1,1,"20200608_130358.684/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Laptops/PriceHightoLow""",0
+2020-06-08 14:15:02.540 -0500,"Success",0:00:05,0,0,0,"20200608_141502.540/LogFile.txt","","",1
+2020-06-09 08:34:40.563 -0500,"Success",0:00:06,0,0,0,"20200609_083440.563/LogFile.txt","","",1
+2020-06-17 13:48:11.756 -0500,"Success",0:00:06,0,0,0,"20200617_134811.756/LogFile.txt","","",1
+2020-06-17 13:48:20.816 -0500,"Success",0:00:06,0,0,0,"20200617_134820.816/LogFile.txt","","",1
+2020-06-17 13:51:47.924 -0500,"Success",0:00:06,0,0,0,"20200617_135147.924/LogFile.txt","","",1
+2020-06-17 14:13:09.671 -0500,"Aborted",0:00:08,1,0,0,"20200617_141309.671/LogFile.txt","","",0
+2020-06-17 14:13:23.783 -0500,"Success",0:00:06,0,0,0,"20200617_141323.783/LogFile.txt","","",1
+2020-06-17 14:13:39.758 -0500,"Success",0:00:06,0,0,0,"20200617_141339.758/LogFile.txt","","",1
+2020-06-17 14:17:17.775 -0500,"Aborted",0:00:17,1,1,1,"20200617_141717.775/LogFile.txt","","",0
+2020-06-17 14:17:46.782 -0500,"Aborted",0:00:15,1,1,0,"20200617_141746.782/LogFile.txt","","",0
+2020-06-17 14:22:07.424 -0500,"Failure",0:00:04,1,0,0,"20200617_142207.424/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0
+2020-06-17 14:43:18.894 -0500,"Failure",0:00:03,1,0,0,"20200617_144318.894/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0
+2020-06-18 07:47:55.607 -0500,"Failure",0:00:03,1,0,0,"20200618_074755.607/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0
+2020-06-19 07:14:39.405 -0500,"Failure",0:00:04,1,0,0,"20200619_071439.405/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0
+2020-06-24 09:07:07.267 -0500,"Failure",0:00:06,1,0,0,"20200624_090707.267/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0
+2020-06-29 08:23:51.720 -0500,"Failure",0:00:03,1,0,0,"20200629_082351.720/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0
+2020-06-29 08:25:47.726 -0500,"Failure",0:00:03,1,0,0,"20200629_082547.726/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)",0
+2020-07-08 11:44:09.121 -0500,"Failure",0:00:04,1,0,0,"20200708_114409.121/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00)",0
+2020-07-08 12:51:46.871 -0500,"Failure",0:00:04,1,0,0,"20200708_125146.871/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00)",0
+2020-07-14 10:58:44.870 -0500,"Failure",0:00:18,1,1,1,"20200714_105844.870/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Computers""",0
+2020-07-14 11:00:28.636 -0500,"Failure",0:00:04,1,0,0,"20200714_110028.636/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00)",0
+2020-07-14 11:00:56.135 -0500,"Failure",0:00:03,1,0,0,"20200714_110056.135/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1800.00)",0
+2020-07-14 11:11:45.444 -0500,"Failure",0:00:04,1,0,0,"20200714_111145.444/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 11:12:08.843 -0500,"Failure",0:00:03,1,0,0,"20200714_111208.843/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 11:12:34.594 -0500,"Failure",0:00:03,1,0,0,"20200714_111234.594/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 11:15:38.752 -0500,"Failure",0:00:04,1,0,0,"20200714_111538.752/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 11:28:01.200 -0500,"Failure",0:00:03,1,0,0,"20200714_112801.200/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 14:23:14.686 -0500,"Failure",0:00:04,1,0,0,"20200714_142314.686/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1422.00 IS NOT equal to 1500.00)",0
+2020-07-14 14:23:34.655 -0500,"Failure",0:00:03,1,0,0,"20200714_142334.655/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 14:24:08.486 -0500,"Failure",0:00:03,1,0,0,"20200714_142408.486/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 14:24:58.762 -0500,"Failure",0:00:02,1,0,0,"20200714_142458.762/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 14:25:49.152 -0500,"Failure",0:00:17,1,1,1,"20200714_142549.152/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Computers""",0
+2020-07-14 14:28:12.190 -0500,"Failure",0:00:03,1,0,0,"20200714_142812.190/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1422.00 IS NOT equal to 1500.00)",0
+2020-07-14 14:29:25.234 -0500,"Failure",0:00:03,1,0,0,"20200714_142925.234/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 15:29:19.106 -0500,"Failure",0:00:05,1,0,0,"20200714_152919.106/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 15:37:03.482 -0500,"Failure",0:00:04,1,0,0,"20200714_153703.482/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-14 15:37:42.376 -0500,"Failure",0:00:03,1,0,0,"20200714_153742.376/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-15 14:07:27.950 -0500,"Failure",0:00:04,1,0,0,"20200715_140727.950/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-15 14:33:16.920 -0500,"Failure",0:00:04,1,0,0,"20200715_143316.920/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-15 14:38:48.073 -0500,"Failure",0:00:03,1,0,0,"20200715_143848.073/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-07-15 14:39:21.938 -0500,"Failure",0:00:04,1,0,0,"20200715_143921.938/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-04 12:36:00.503 -0500,"Failure",0:00:05,1,0,0,"20200804_123600.503/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-04 12:36:48.807 -0500,"Failure",0:00:03,1,0,0,"20200804_123648.807/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-11 08:43:11.817 -0500,"Failure",0:00:19,1,1,1,"20200811_084311.817/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Computers""",0
+2020-08-11 08:50:11.998 -0500,"Failure",0:00:03,1,0,0,"20200811_085011.998/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1422.00 IS NOT equal to 1500.00)",0
+2020-08-12 10:21:58.297 -0500,"Failure",0:00:04,1,0,0,"20200812_102158.297/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1422.00 IS NOT equal to 1500.00)",0
+2020-08-12 11:14:14.004 -0500,"Failure",0:00:03,1,0,0,"20200812_111414.004/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-12 14:21:10.870 -0500,"Failure",0:00:04,1,0,0,"20200812_142110.870/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1422.00 IS NOT equal to 1500.00)",0
+2020-08-19 09:34:08.285 -0500,"Failure",0:00:04,1,0,0,"20200819_093408.285/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-19 09:35:09.574 -0500,"Failure",0:00:04,1,0,0,"20200819_093509.574/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-19 12:49:39.604 -0500,"Failure",0:00:04,1,0,0,"20200819_124939.604/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-21 10:35:33.394 -0500,"Failure",0:00:10,1,0,0,"20200821_103533.394/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-21 10:36:51.911 -0500,"Failure",0:00:04,1,0,0,"20200821_103651.911/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1422.00 IS NOT equal to 1500.00)",0
+2020-08-21 13:22:31.669 -0500,"Failure",0:00:03,1,0,0,"20200821_132231.669/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-26 13:18:57.341 -0500,"Failure",0:00:06,1,0,0,"20200826_131857.341/LogFile.txt","","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00)",0
+2020-08-27 09:43:01.391 -0500,"Success",0:00:00,0,0,0,"20200827_094301.391/LogFile.txt","","",1
+2020-09-23 11:29:53.279 -0500,"Failure",0:00:06,1,0,0,"20200923_112953.279/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-09-23 11:30:47.511 -0500,"Failure",0:00:02,1,0,0,"20200923_113047.511/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-09-23 11:31:41.406 -0500,"Failure",0:00:02,1,0,0,"20200923_113141.406/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-09-23 11:32:57.953 -0500,"Failure",0:00:04,1,0,0,"20200923_113257.953/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-09-23 11:33:16.011 -0500,"Failure",0:00:04,1,0,0,"20200923_113316.011/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-09-23 11:33:35.569 -0500,"Failure",0:00:03,1,0,0,"20200923_113335.569/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-09-23 11:33:55.064 -0500,"Failure",0:00:03,1,0,0,"20200923_113355.064/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-09-23 11:34:12.279 -0500,"Failure",0:00:03,1,0,0,"20200923_113412.279/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-09-23 11:34:31.385 -0500,"Failure",0:00:03,1,0,0,"20200923_113431.385/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-01 08:06:05.969 -0500,"Failure",0:00:03,1,0,0,"20201001_080605.969/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-01 09:26:01.089 -0500,"Failure",0:00:03,1,0,0,"20201001_092601.089/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-01 09:27:29.667 -0500,"Failure",0:00:03,1,0,0,"20201001_092729.667/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-01 09:31:40.619 -0500,"Failure",0:00:04,1,0,0,"20201001_093140.619/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-07 10:56:33.088 -0500,"Failure",0:00:04,1,0,0,"20201007_105633.088/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-07 11:01:56.534 -0500,"Failure",0:00:03,1,0,0,"20201007_110156.534/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-07 11:02:18.543 -0500,"Failure",0:00:03,1,0,0,"20201007_110218.543/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-08 10:11:20.242 -0500,"Failure",0:00:07,1,0,0,"20201008_101120.242/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-08 14:09:36.269 -0500,"Failure",0:00:17,1,1,1,"20201008_140936.269/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Computers""",0
+2020-10-14 10:26:50.926 -0500,"Failure",0:00:03,1,0,0,"20201014_102650.926/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-14 10:58:44.048 -0500,"Failure",0:00:03,1,0,0,"20201014_105844.048/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-16 12:30:44.110 -0500,"Failure",0:00:03,1,0,0,"20201016_123044.110/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-16 12:33:17.653 -0500,"Aborted",0:04:00,1,0,0,"20201016_123317.653/LogFile.txt","","",0
+2020-10-16 12:38:06.494 -0500,"Failure",0:00:04,1,0,0,"20201016_123806.494/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-16 12:38:33.756 -0500,"Failure",0:00:03,1,0,0,"20201016_123833.756/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-16 12:39:01.662 -0500,"Failure",0:00:03,1,0,0,"20201016_123901.662/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-20 14:50:13.140 -0500,"Failure",0:00:03,1,0,0,"20201020_145013.140/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-21 08:16:25.418 -0500,"Failure",0:00:03,1,0,0,"20201021_081625.418/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-21 08:16:54.540 -0500,"Failure",0:00:03,1,0,0,"20201021_081654.540/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-21 09:30:22.432 -0500,"Failure",0:00:03,1,0,0,"20201021_093022.432/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-21 09:37:03.796 -0500,"Failure",0:00:03,1,0,0,"20201021_093703.796/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-21 09:38:50.074 -0500,"Failure",0:00:03,1,0,0,"20201021_093850.074/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-23 12:14:59.058 -0500,"Failure",0:00:03,1,0,0,"20201023_121459.058/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-23 12:50:00.174 -0500,"Aborted",0:00:29,1,0,0,"20201023_125000.174/LogFile.txt","","",0
+2020-10-23 12:51:27.512 -0500,"Failure",0:00:03,1,0,0,"20201023_125127.512/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-23 12:52:44.910 -0500,"Failure",0:00:03,1,0,0,"20201023_125244.910/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-23 13:28:31.129 -0500,"Failure",0:00:03,1,0,0,"20201023_132831.129/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-23 13:37:12.559 -0500,"Failure",0:00:03,1,0,0,"20201023_133712.559/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-23 13:39:11.282 -0500,"Failure",0:00:18,1,1,1,"20201023_133911.282/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Computers""",0
+2020-10-27 08:56:50.720 -0500,"Failure",0:00:08,1,0,0,"20201027_085650.720/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-27 10:23:48.699 -0500,"Failure",0:00:03,1,0,0,"20201027_102348.699/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-27 10:39:02.957 -0500,"Failure",0:00:03,1,0,0,"20201027_103902.957/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-28 12:27:45.991 -0500,"Failure",0:00:03,1,0,0,"20201028_122745.991/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-28 12:28:21.663 -0500,"Failure",0:00:03,1,0,0,"20201028_122821.663/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-29 14:29:00.402 -0500,"Success",0:00:08,0,0,0,"20201029_142900.402/LogFile.txt","","",1
+2020-10-30 09:30:43.670 -0500,"Aborted",0:00:39,1,1,0,"20201030_093043.670/LogFile.txt","","",0
+2020-10-30 09:32:12.893 -0500,"Failure",0:00:05,1,0,0,"20201030_093212.893/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-30 09:33:49.495 -0500,"Failure",0:00:03,1,0,0,"20201030_093349.495/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-30 09:49:34.829 -0500,"Failure",0:00:02,1,0,0,"20201030_094934.829/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-30 09:52:58.357 -0500,"Failure",0:00:03,1,0,0,"20201030_095258.357/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-10-30 09:54:13.747 -0500,"Failure",0:00:03,1,0,0,"20201030_095413.747/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 07:50:29.843 -0600,"Failure",0:00:04,1,0,0,"20201102_075029.843/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 08:24:46.889 -0600,"Failure",0:00:03,1,0,0,"20201102_082446.889/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 09:19:50.561 -0600,"Failure",0:00:03,1,0,0,"20201102_091950.561/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 09:56:32.608 -0600,"Failure",0:00:03,1,0,0,"20201102_095632.608/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 17:00:53.267 -0600,"Success",0:00:00,0,0,0,"20201102_170053.267/LogFile.txt","","",1
+2020-11-02 17:00:54.144 -0600,"Success",0:00:00,0,0,0,"20201102_170054.144/LogFile.txt","","",1
+2020-11-02 17:00:54.966 -0600,"Success",0:00:00,0,0,0,"20201102_170054.966/LogFile.txt","","",1
+2020-11-02 17:00:55.826 -0600,"Success",0:00:00,0,0,0,"20201102_170055.826/LogFile.txt","","",1
+2020-11-02 17:00:57.000 -0600,"Success",0:00:00,0,0,0,"20201102_170057.000/LogFile.txt","","",1
+2020-11-02 17:00:57.864 -0600,"Success",0:00:00,0,0,0,"20201102_170057.864/LogFile.txt","","",1
+2020-11-02 17:00:58.714 -0600,"Success",0:00:00,0,0,0,"20201102_170058.714/LogFile.txt","","",1
+2020-11-02 17:00:59.911 -0600,"Success",0:00:00,0,0,0,"20201102_170059.911/LogFile.txt","","",1
+2020-11-02 17:01:00.718 -0600,"Success",0:00:00,0,0,0,"20201102_170100.718/LogFile.txt","","",1
+2020-11-02 17:01:01.602 -0600,"Success",0:00:00,0,0,0,"20201102_170101.602/LogFile.txt","","",1
+2020-11-02 17:01:02.773 -0600,"Success",0:00:00,0,0,0,"20201102_170102.773/LogFile.txt","","",1
+2020-11-02 17:01:03.821 -0600,"Success",0:00:00,0,0,0,"20201102_170103.821/LogFile.txt","","",1
+2020-11-02 17:01:04.815 -0600,"Success",0:00:00,0,0,0,"20201102_170104.815/LogFile.txt","","",1
+2020-11-02 17:01:06.020 -0600,"Success",0:00:00,0,0,0,"20201102_170106.020/LogFile.txt","","",1
+2020-11-02 17:01:06.913 -0600,"Success",0:00:00,0,0,0,"20201102_170106.913/LogFile.txt","","",1
+2020-11-02 17:01:07.859 -0600,"Success",0:00:00,0,0,0,"20201102_170107.859/LogFile.txt","","",1
+2020-11-02 17:01:08.885 -0600,"Success",0:00:00,0,0,0,"20201102_170108.885/LogFile.txt","","",1
+2020-11-02 17:01:09.724 -0600,"Success",0:00:00,0,0,0,"20201102_170109.724/LogFile.txt","","",1
+2020-11-02 17:01:10.594 -0600,"Success",0:00:00,0,0,0,"20201102_170110.594/LogFile.txt","","",1
+2020-11-02 17:01:11.513 -0600,"Success",0:00:00,0,0,0,"20201102_170111.513/LogFile.txt","","",1
+2020-11-02 17:01:12.529 -0600,"Success",0:00:00,0,0,0,"20201102_170112.529/LogFile.txt","","",1
+2020-11-02 17:01:13.377 -0600,"Success",0:00:00,0,0,0,"20201102_170113.377/LogFile.txt","","",1
+2020-11-02 17:01:14.492 -0600,"Success",0:00:00,0,0,0,"20201102_170114.492/LogFile.txt","","",1
+2020-11-02 17:01:15.359 -0600,"Success",0:00:00,0,0,0,"20201102_170115.359/LogFile.txt","","",1
+2020-11-02 17:01:16.266 -0600,"Success",0:00:00,0,0,0,"20201102_170116.266/LogFile.txt","","",1
+2020-11-02 17:03:14.493 -0600,"Failure",0:00:04,1,0,0,"20201102_170314.493/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-02 22:22:10.269 -0600,"Failure",0:00:03,1,0,0,"20201102_222210.269/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-17 13:00:50.272 -0600,"Failure",0:00:03,1,0,0,"20201117_130050.272/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-18 12:29:59.295 -0600,"Failure",0:00:03,1,0,0,"20201118_122959.295/LogFile.txt","","Script Error -- Number of Errors logged: 1",0
+2020-11-19 09:08:52.021 -0600,"Failure",0:00:03,1,0,0,"20201119_090852.021/LogFile.txt","","Script Error -- Number of Errors logged: 1",0

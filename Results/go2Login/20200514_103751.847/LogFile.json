@@ -1,0 +1,54 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-05-14 10:37:51.850 -0500"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "DAIserver_sut:(null)",
+      "timestamp" : "2020-05-14 10:37:51.916 -0500",
+      "identifier" : "connect",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-05-14 10:37:51.959 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "Unable to Find Image(s): NopCommerce_Logo.png -- AutoUpdate engaged",
+      "timestamp" : "2020-05-14 10:38:02.604 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "Unable To Find Any Image On Screen \"NopCommerce_Logo\" within 10.00 seconds",
+      "identifier" : "Exception",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-05-14 10:38:06.631 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"15.269378\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-05-14 10:37:51 -0500\", Successes:\"0\", TestCase:\"go2Login.script\", Warnings:\"1\")",
+      "timestamp" : "2020-05-14 10:38:07.121 -0500"
+    },
+    {
+      "message" : "Image Not Found waitfor Error - Unable To Find Any Image On Screen \"NopCommerce_Logo\" within 10.00 seconds -- Execution Time 0:00:15 go2Login.script",
+      "timestamp" : "2020-05-14 10:38:07.274 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-05-14 10:37:51.851 -0500"
+}

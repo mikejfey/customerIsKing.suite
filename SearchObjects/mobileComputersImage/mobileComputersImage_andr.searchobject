@@ -1,0 +1,118 @@
+{
+  "ocrcapturestring" : "> d fl",
+  "originalcapturelocation" : [
+    161,
+    1554,
+    1079,
+    800
+  ],
+  "createddate" : 1600389066.953367,
+  "lastmodifieddate" : 1600389066.953367,
+  "name" : "mobileComputersImage\/mobileComputersImage_andr",
+  "testlocationdata" : [
+    {
+      "name" : "mobileComputersImage\/mobileComputersImage_andr.png",
+      "connectionname" : "AG:424554424e443498",
+      "connectionportnum" : 7000,
+      "domelements" : [
+        {
+          "class" : "android.widget.TextView",
+          "displayed" : "true",
+          "focusable" : "false",
+          "elementName" : "Home",
+          "index" : "0",
+          "checkable" : "false",
+          "elementLocation" : "{{122, 311}, {137, 60}}",
+          "long-clickable" : "false",
+          "bounds" : "[122,311][259,371]",
+          "enabled" : "true",
+          "elementScale" : 1,
+          "checked" : "false",
+          "elementType" : "Checkpoint",
+          "text" : "Home",
+          "package" : "com.android.chrome",
+          "focused" : "false",
+          "clickable" : "false",
+          "password" : "false",
+          "scrollable" : "false",
+          "selected" : "false"
+        },
+        {
+          "class" : "android.widget.TextView",
+          "displayed" : "true",
+          "focusable" : "false",
+          "elementName" : "",
+          "index" : "1",
+          "checkable" : "false",
+          "elementLocation" : "{{290, 311}, {25, 60}}",
+          "long-clickable" : "false",
+          "bounds" : "[290,311][315,371]",
+          "enabled" : "true",
+          "elementScale" : 1,
+          "checked" : "false",
+          "elementType" : "Checkpoint",
+          "text" : "\/",
+          "package" : "com.android.chrome",
+          "focused" : "false",
+          "clickable" : "false",
+          "password" : "false",
+          "scrollable" : "false",
+          "selected" : "false"
+        },
+        {
+          "class" : "android.widget.TextView",
+          "displayed" : "true",
+          "focusable" : "false",
+          "elementName" : "Desktops",
+          "index" : "0",
+          "checkable" : "false",
+          "elementLocation" : "{{560, 1375}, {325, 95}}",
+          "long-clickable" : "false",
+          "bounds" : "[560,1375][885,1470]",
+          "enabled" : "true",
+          "elementScale" : 1,
+          "checked" : "false",
+          "elementType" : "Checkpoint",
+          "text" : "Desktops",
+          "package" : "com.android.chrome",
+          "focused" : "false",
+          "clickable" : "false",
+          "password" : "false",
+          "scrollable" : "false",
+          "selected" : "false"
+        },
+        {
+          "class" : "android.widget.TextView",
+          "displayed" : "true",
+          "focusable" : "false",
+          "elementName" : "Notebooks",
+          "index" : "0",
+          "checkable" : "false",
+          "elementLocation" : "{{532, 2642}, {378, 95}}",
+          "long-clickable" : "false",
+          "bounds" : "[532,2642][910,2737]",
+          "enabled" : "true",
+          "elementScale" : 1,
+          "checked" : "false",
+          "elementType" : "Checkpoint",
+          "text" : "Notebooks",
+          "package" : "com.android.chrome",
+          "focused" : "false",
+          "clickable" : "false",
+          "password" : "false",
+          "scrollable" : "false",
+          "selected" : "false"
+        }
+      ],
+      "capturedocrtext" : "> d fl",
+      "type" : 1,
+      "connectionserverid" : "192.168.0.51",
+      "capturerect" : [
+        161,
+        1554,
+        1079,
+        800
+      ]
+    }
+  ]
+}

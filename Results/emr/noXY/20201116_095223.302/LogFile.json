@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/noXY.script",
+      "timestamp" : "2020-11-16 09:52:23.305 -0600"
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "(1089,520,1160,539)",
+      "timestamp" : "2020-11-16 09:52:24.044 -0600",
+      "identifier" : "readtext",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_emr_noxy",
+      "message" : "NHL.com",
+      "timestamp" : "2020-11-16 09:52:24.057 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/noXY.script",
+      "handlerLine" : 3
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.143066\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-16 09:52:23 -0600\", Successes:\"1\", TestCase:\"emr\/noXY.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-16 09:52:24.449 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 emr\/noXY.script",
+      "timestamp" : "2020-11-16 09:52:24.546 -0600"
+    }
+  ],
+  "createdTimestamp" : "2020-11-16 09:52:23.306 -0600"
+}

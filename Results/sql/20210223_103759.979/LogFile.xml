@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="sql_script" package="customerIsKing.suite" timestamp="2021-02-23 10:37:59.979 -0600"
+ tests="1"  failures="0" errors="0" time="1.710623">
+  <properties>
+   <property name="RunDate" value="2021-02-23 10:37:59.979 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="sql.script" assertions="1" status="success"  time="1.704688">
+  </testcase>
+ </testsuite>
+</testsuites>

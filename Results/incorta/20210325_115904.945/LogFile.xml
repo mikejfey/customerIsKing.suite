@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="incorta_script" package="customerIsKing.suite" timestamp="2021-03-25 11:59:04.945 -0500"
+ tests="1"  failures="0" errors="0" time="5.105246">
+  <properties>
+   <property name="RunDate" value="2021-03-25 11:59:04.945 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="incorta.script" assertions="1" status="success"  time="5.099606">
+  </testcase>
+ </testsuite>
+</testsuites>

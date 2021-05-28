@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="add2Cart_script" package="customerIsKing.suite" timestamp="2020-08-21 10:51:55.362 -0500"
+ tests="1"  failures="0" errors="0" time="38.485998">
+  <properties>
+   <property name="RunDate" value="2020-08-21 10:51:55.362 -0500"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="add2Cart.script" assertions="1" status="error"  time="38.479879">
+    <error type="Exception" message="No Image Found On Screen: &quot;mobile_ADDTOCART&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

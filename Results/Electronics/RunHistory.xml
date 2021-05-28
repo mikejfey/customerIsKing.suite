@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Electronics">
+ <run>
+  <RunDate>2020-10-30 10:03:02.289 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>4.192162</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201030_100302.289/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-10-30 10:16:06.555 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>13.120297</Duration>
+  <Errors>0</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201030_101606.555/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

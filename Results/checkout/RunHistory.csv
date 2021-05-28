@@ -1,0 +1,25 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-08-13 15:32:01.687 -0500,"Success",0:00:02,0,0,0,"20200813_153201.687/LogFile.txt","","",1
+2020-08-13 15:32:10.758 -0500,"Success",0:00:03,0,0,0,"20200813_153210.758/LogFile.txt","","",1
+2020-08-13 15:47:26.650 -0500,"Success",0:00:01,0,0,0,"20200813_154726.650/LogFile.txt","","",1
+2020-08-13 16:44:19.936 -0500,"Success",0:00:01,0,0,0,"20200813_164419.936/LogFile.txt","","",1
+2020-08-13 16:53:50.014 -0500,"Success",0:00:01,0,0,0,"20200813_165350.014/LogFile.txt","","",1
+2020-08-13 16:58:39.717 -0500,"Success",0:00:01,0,0,0,"20200813_165839.717/LogFile.txt","","",1
+2020-08-14 08:37:56.530 -0500,"Success",0:00:01,0,0,0,"20200814_083756.530/LogFile.txt","","",1
+2020-08-14 11:50:44.810 -0500,"Success",0:00:01,0,0,0,"20200814_115044.810/LogFile.txt","","",1
+2020-08-17 15:49:37.277 -0500,"Success",0:00:01,0,0,0,"20200817_154937.277/LogFile.txt","","",1
+2020-08-17 16:00:48.644 -0500,"Success",0:00:01,0,0,0,"20200817_160048.644/LogFile.txt","","",1
+2020-08-19 08:15:44.476 -0500,"Success",0:00:01,0,0,0,"20200819_081544.476/LogFile.txt","","",1
+2020-08-19 08:35:57.240 -0500,"Failure",0:00:17,1,1,1,"20200819_083557.240/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CHECKOUT_terms""",0
+2020-08-19 08:38:49.635 -0500,"Failure",0:00:15,1,1,1,"20200819_083849.635/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CHECKOUT_terms""",0
+2020-08-19 08:40:07.784 -0500,"Failure",0:00:16,1,1,1,"20200819_084007.784/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CHECKOUT_terms""",0
+2020-08-19 08:42:35.030 -0500,"Failure",0:00:16,1,1,1,"20200819_084235.030/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CHECKOUT_terms""",0
+2020-08-19 08:53:29.304 -0500,"Failure",0:00:16,1,1,1,"20200819_085329.304/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CHECKOUT_terms""",0
+2020-08-19 08:55:14.719 -0500,"Success",0:00:01,0,0,0,"20200819_085514.719/LogFile.txt","","",1
+2020-08-19 08:58:58.415 -0500,"Success",0:00:01,0,0,0,"20200819_085858.415/LogFile.txt","","",1
+2020-08-20 09:57:14.592 -0500,"Success",0:00:19,0,0,0,"20200820_095714.592/LogFile.txt","","",1
+2020-08-21 11:00:06.591 -0500,"Failure",0:00:14,1,1,1,"20200821_110006.591/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CHECKOUT_terms""",0
+2020-08-21 11:08:03.093 -0500,"Success",0:00:05,0,0,0,"20200821_110803.093/LogFile.txt","","",1
+2020-08-21 12:25:28.608 -0500,"Success",0:00:05,0,0,0,"20200821_122528.608/LogFile.txt","","",1
+2020-08-26 10:18:22.889 -0500,"Failure",0:00:23,1,0,1,"20200826_101822.889/LogFile.txt","","Image not found -- Image not found while scrolling up.",0
+2020-08-26 10:26:27.599 -0500,"Success",0:00:19,0,0,0,"20200826_102627.599/LogFile.txt","","",1

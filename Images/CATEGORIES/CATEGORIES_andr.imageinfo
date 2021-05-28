@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2020-09-18 00:25:35 +0000";
+    CaptureHost = "AG:424554424e443498";
+    CaptureScreenSize =     (
+        1440,
+        2960
+    );
+    HasAlpha = 1;
+    HotSpotX = 179;
+    HotSpotY = 42;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 105;
+    OriginalLocationY = 1682;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "CATEGORIES/CATEGORIES_andr";
+    tags =     (
+    );
+}

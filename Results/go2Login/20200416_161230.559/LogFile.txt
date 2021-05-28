@@ -1,0 +1,5 @@
+﻿2020-04-16 16:12:30.562 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-04-16 16:12:34.453 -0500	LogWarning		Unable to Find Image(s): go2loginCommerce.png -- AutoUpdate engaged	1	on_go2login	go2Login.script
+2020-04-16 16:12:39.264 -0500	Exception	go2loginCommerce	No Image Found On Screen: "go2loginCommerce"	1	on_go2login	go2Login.script
+2020-04-16 16:12:39.269 -0500	EndTestCase		(Duration:"8.705055", Errors:"1", Exceptions:"1", StartTime:"2020-04-16 16:12:30 -0500", Successes:"0", TestCase:"go2Login.script", Warnings:"1")	1	execute string	(null)
+2020-04-16 16:12:39.311 -0500	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "go2loginCommerce" -- Execution Time 0:00:08 go2Login.script	1	execute string	(null)

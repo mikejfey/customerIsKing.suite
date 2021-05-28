@@ -1,0 +1,15 @@
+﻿2020-08-20 09:51:54.982 -0500	START		Running add2Cart.script	1	execute string	(null)
+2020-08-20 09:51:55.024 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-20 09:51:55.405 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-20 09:51:56.272 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-20 09:52:00.506 -0500	imagefound	mobile_ADDTOCART	Unable to Find Image mobile_ADDTOCART	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-20 09:52:01.343 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-20 09:52:05.541 -0500	imagefound	mobile_ADDTOCART	found at (256, 1350)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-20 09:52:05.905 -0500	tap	mobile_ADDTOCART	at (256, 1350)	14	on_add2cart	add2Cart.script
+2020-08-20 09:52:05.957 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-20 09:52:06.150 -0500	imagefound	mobile_ADDTOCART	found at (256, 1350)	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-20 09:52:11.513 -0500	imagefound	mobile_HD_radio	Unable to Find Image mobile_HD_radio	17	on_add2cart	add2Cart.script
+2020-08-20 09:52:16.155 -0500	LogWarning		Unable to Find Image(s): mobile_ADDTOCART.png -- AutoUpdate engaged	22	on_add2cart	add2Cart.script
+2020-08-20 09:52:44.504 -0500	Exception	mobile_ADDTOCART	No Image Found On Screen: "mobile_ADDTOCART"	22	on_add2cart	add2Cart.script
+2020-08-20 09:52:44.513 -0500	EndTestCase		(Duration:"49.528316", Errors:"1", Exceptions:"1", StartTime:"2020-08-20 09:51:54 -0500", Successes:"0", TestCase:"add2Cart.script", Warnings:"1")	1	execute string	(null)
+2020-08-20 09:52:44.710 -0500	FAILURE	Screen_Error.png	Image Not Found tap Error - No Image Found On Screen: "mobile_ADDTOCART" -- Execution Time 0:00:49 add2Cart.script	1	execute string	(null)

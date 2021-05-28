@@ -1,0 +1,53 @@
+{
+  "entries" : [
+    {
+      "message" : "Running navApple.script",
+      "timestamp" : "2020-08-12 10:21:53.662 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_navapple",
+      "message" : "at (505, 278)",
+      "identifier" : "click",
+      "image" : "comp",
+      "handlerLine" : 8,
+      "timestamp" : "2020-08-12 10:21:54.153 -0500",
+      "scriptName" : "navApple.script"
+    },
+    {
+      "handlerName" : "on_navapple",
+      "message" : "at (1126, 641)",
+      "identifier" : "click",
+      "image" : "nbook",
+      "handlerLine" : 9,
+      "timestamp" : "2020-08-12 10:21:55.340 -0500",
+      "scriptName" : "navApple.script"
+    },
+    {
+      "handlerName" : "on_navapple",
+      "message" : "at (773, 979)",
+      "identifier" : "click",
+      "image" : "mac",
+      "handlerLine" : 10,
+      "timestamp" : "2020-08-12 10:21:57.242 -0500",
+      "scriptName" : "navApple.script"
+    },
+    {
+      "message" : "(Duration:\"3.58176\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-12 10:21:53 -0500\", Successes:\"1\", TestCase:\"navApple.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-12 10:21:57.247 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:03 navApple.script",
+      "timestamp" : "2020-08-12 10:21:57.323 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-12 10:21:53.665 -0500"
+}

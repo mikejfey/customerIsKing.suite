@@ -1,0 +1,20 @@
+﻿{
+    CaptureDate = "2021-05-24 15:49:06 +0000";
+    CaptureHost = daiserver2;
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 40;
+    HotSpotY = 5;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 631;
+    OriginalLocationY = 311;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "Electronics_0001";
+}

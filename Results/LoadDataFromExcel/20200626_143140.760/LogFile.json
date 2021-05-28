@@ -1,0 +1,26 @@
+{
+  "entries" : [
+    {
+      "message" : "Running LoadDataFromExcel.script",
+      "timestamp" : "2020-06-26 14:31:40.762 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "(Duration:\"0.011471\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-26 14:31:40 -0500\", Successes:\"1\", TestCase:\"LoadDataFromExcel.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-26 14:31:40.775 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:00 LoadDataFromExcel.script",
+      "timestamp" : "2020-06-26 14:31:40.818 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-06-26 14:31:40.764 -0500"
+}

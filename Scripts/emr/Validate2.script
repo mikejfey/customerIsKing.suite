@@ -1,0 +1,12 @@
+﻿Params somethingIt
+put ReadText("mikeTopMenu/day_TL", "mikeTopMenu/day_BR") into actRes
+log actRes
+put "Wednesday" into expRes
+
+if actRes is expRes then
+	LogSuccess actRes&&"matches"&&expRes
+else
+	LogError actRes&&"not match"&&expRes
+	
+	
+end if

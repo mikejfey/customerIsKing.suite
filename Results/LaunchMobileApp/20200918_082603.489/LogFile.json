@@ -1,0 +1,53 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-09-18 08:26:03.492 -0500"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "android:(null)",
+      "timestamp" : "2020-09-18 08:26:03.514 -0500",
+      "identifier" : "connect",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "remote",
+      "timestamp" : "2020-09-18 08:26:03.526 -0500",
+      "identifier" : "show",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "found at (309, 1200)",
+      "identifier" : "waitfor",
+      "image" : "nop_logo_mobile",
+      "handlerLine" : 4,
+      "timestamp" : "2020-09-18 08:26:04.532 -0500",
+      "scriptName" : "LaunchMobileApp.script"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "at (309, 1200)",
+      "timestamp" : "2020-09-18 08:26:04.633 -0500",
+      "identifier" : "tap",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.542069\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-09-18 08:26:03 -0500\", Successes:\"1\", TestCase:\"LaunchMobileApp.script\", Warnings:\"0\")",
+      "timestamp" : "2020-09-18 08:26:05.035 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 LaunchMobileApp.script",
+      "timestamp" : "2020-09-18 08:26:05.103 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-09-18 08:26:03.493 -0500"
+}

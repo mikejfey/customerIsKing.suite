@@ -1,0 +1,18 @@
+﻿connect {serverID: "daiserver2", width: "1920", height: "1080"}
+show remote
+//wait 1
+moveto [connectioninfo().ScreenSize.x,connectioninfo().ScreenSize.y]
+waitfor 20, "WindowsLogo"
+
+wait 2
+TypeText WindowsKey,"r"
+WaitFor 30.0, "RunWindowLogo"
+TypeText "chrome http://nopcommerce.testplant.com",return
+WaitFor 10, "NopCommerce_Logo"
+put the result into perfTime1
+log "time to load homepage"&&perfTime1
+log "Writing to file"
+put  ResourcePath("perfTx.csv") into TheFile
+open  file TheFile
+write return & the date &","& the time &","& perfTime1 to file TheFile at eof
+close file TheFile

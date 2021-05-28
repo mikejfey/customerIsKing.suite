@@ -1,0 +1,4 @@
+﻿2020-08-21 10:51:29.286 -0500	START		Running go2Login.script	1	execute string	(null)
+2020-08-21 10:51:29.834 -0500	tap	LOGIN_mobile	at (408, 407)	10	on_go2login	go2Login.script
+2020-08-21 10:51:29.840 -0500	EndTestCase		(Duration:"0.551712", Errors:"0", Exceptions:"0", StartTime:"2020-08-21 10:51:29 -0500", Successes:"1", TestCase:"go2Login.script", Warnings:"0")	1	execute string	(null)
+2020-08-21 10:51:29.973 -0500	SUCCESS		Execution Time 0:00:00 go2Login.script	1	execute string	(null)

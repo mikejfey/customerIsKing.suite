@@ -1,0 +1,7 @@
+﻿2020-09-18 08:26:03.492 -0500	START		Running LaunchMobileApp.script
+2020-09-18 08:26:03.514 -0500	connect		android:(null)	1	on_launchmobileapp	LaunchMobileApp.script
+2020-09-18 08:26:03.526 -0500	show		remote	2	on_launchmobileapp	LaunchMobileApp.script
+2020-09-18 08:26:04.532 -0500	waitfor	nop_logo_mobile	found at (309, 1200)	4	on_launchmobileapp	LaunchMobileApp.script
+2020-09-18 08:26:04.633 -0500	tap		at (309, 1200)	5	on_launchmobileapp	LaunchMobileApp.script
+2020-09-18 08:26:05.035 -0500	EndTestCase		(Duration:"1.542069", Errors:"0", Exceptions:"0", StartTime:"2020-09-18 08:26:03 -0500", Successes:"1", TestCase:"LaunchMobileApp.script", Warnings:"0")
+2020-09-18 08:26:05.103 -0500	SUCCESS		Execution Time 0:00:01 LaunchMobileApp.script

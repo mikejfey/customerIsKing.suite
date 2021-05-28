@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "message" : "Running emr\/lauchEMR.script",
+      "timestamp" : "2020-11-02 17:11:46.425 -0600",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Login with: admin",
+      "timestamp" : "2020-11-02 17:11:46.826 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Password is: pass",
+      "timestamp" : "2020-11-02 17:11:46.841 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "[windowsKey]r",
+      "timestamp" : "2020-11-02 17:11:46.880 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "chrome.exe[returnKey]",
+      "timestamp" : "2020-11-02 17:11:47.728 -0600",
+      "identifier" : "typetext",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Could Not Open Image: Chrome\/Refresh Icon",
+      "identifier" : "Exception",
+      "image" : "Chrome\/Refresh Icon",
+      "handlerLine" : 7,
+      "timestamp" : "2020-11-02 17:11:47.736 -0600",
+      "scriptName" : "emr\/lauchEMR.script"
+    },
+    {
+      "message" : "(Duration:\"1.314486\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-11-02 17:11:46 -0600\", Successes:\"0\", TestCase:\"emr\/lauchEMR.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:11:47.741 -0600",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "File Not Found waitfor Error - Could Not Open Image: Chrome\/Refresh Icon -- Execution Time 0:00:01 emr\/lauchEMR.script",
+      "timestamp" : "2020-11-02 17:11:48.009 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:11:46.426 -0600"
+}

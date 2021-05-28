@@ -1,0 +1,22 @@
+﻿{
+    CaptureDate = "2021-03-25 16:50:36 +0000";
+    CaptureHost = daiserver2;
+    CaptureScreenSize =     (
+        1920,
+        1080
+    );
+    HasAlpha = 1;
+    HotSpotX = 78;
+    HotSpotY = 8;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 1033;
+    OriginalLocationY = 548;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "Email-field";
+    tags =     (
+    );
+}

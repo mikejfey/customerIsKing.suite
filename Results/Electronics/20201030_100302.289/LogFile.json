@@ -1,0 +1,56 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Electronics.script",
+      "timestamp" : "2020-10-30 10:03:02.291 -0500"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (657, 288)",
+      "identifier" : "click",
+      "image" : "Electronics_1",
+      "handlerLine" : 1,
+      "timestamp" : "2020-10-30 10:03:02.983 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (821, 629)",
+      "identifier" : "click",
+      "image" : "cams",
+      "handlerLine" : 2,
+      "timestamp" : "2020-10-30 10:03:03.802 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (829, 869)",
+      "identifier" : "click",
+      "image" : "nikon",
+      "handlerLine" : 3,
+      "timestamp" : "2020-10-30 10:03:04.984 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "handlerName" : "on_electronics",
+      "message" : "at (392, 181)",
+      "identifier" : "click",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 4,
+      "timestamp" : "2020-10-30 10:03:06.013 -0500",
+      "scriptName" : "Electronics.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.188206\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-30 10:03:02 -0500\", Successes:\"1\", TestCase:\"Electronics.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-30 10:03:06.481 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:04 Electronics.script",
+      "timestamp" : "2020-10-30 10:03:06.644 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-30 10:03:02.293 -0500"
+}

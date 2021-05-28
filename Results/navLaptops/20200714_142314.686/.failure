@@ -1,0 +1,1 @@
+2020-07-14 14:23:14.686 -0500,Failure,0:00:04,1,0,0,20200714_142314.686/LogFile.txt,"","AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: 1422.00 IS NOT equal to 1500.00)",0

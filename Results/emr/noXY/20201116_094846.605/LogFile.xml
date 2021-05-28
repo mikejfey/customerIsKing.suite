@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="emr/noXY_script" package="customerIsKing.suite" timestamp="2020-11-16 09:48:46.605 -0600"
+ tests="1"  failures="1" errors="0" time="0.401455">
+  <properties>
+   <property name="RunDate" value="2020-11-16 09:48:46.605 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="emr/noXY.script" assertions="1" status="failure"  time="0.394452">
+    <failure type="FAILURE" message="STUnknownMessage ERROR: 'readtext' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 emr/noXY.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

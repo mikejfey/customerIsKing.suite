@@ -1,0 +1,19 @@
+﻿2020-08-26 10:26:47.988 -0500	START		Running checkout_flow.script	1	execute string	(null)
+2020-08-26 10:26:48.052 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:26:48.511 -0500	imagefound	CONTINUE_checkout_mobile	Unable to Find Image CONTINUE_checkout_mobile	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:26:49.419 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:26:54.667 -0500	imagefound	CONTINUE_checkout_mobile	found at (424, 618)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:26:56.692 -0500	tap	CONTINUE_checkout_mobile	at (424, 618)	19	on_checkout_flow	checkout_flow.script
+2020-08-26 10:26:58.693 -0500	tap	CONTINUE_checkout_mobile	at (424, 894)	20	on_checkout_flow	checkout_flow.script
+2020-08-26 10:27:00.460 -0500	tap	CONTINUE_checkout_mobile	at (424, 1112)	21	on_checkout_flow	checkout_flow.script
+2020-08-26 10:27:04.269 -0500	tap	CONTINUE_checkout_mobile	at (424, 1140)	23	on_checkout_flow	checkout_flow.script
+2020-08-26 10:27:05.872 -0500	tap	CONTINUE_checkout_mobile	at (424, 1528)	24	on_checkout_flow	checkout_flow.script
+2020-08-26 10:27:05.960 -0500	set		SWIPESPEED = 10	2	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:27:06.940 -0500	imagefound	CONFIRM_order_mobile	Unable to Find Image CONFIRM_order_mobile	3	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:27:07.850 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:27:12.723 -0500	imagefound	CONFIRM_order_mobile	Unable to Find Image CONFIRM_order_mobile	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:27:13.627 -0500	swipeup		Swiped up from (414, 1254) to (414, 538)	1	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:27:18.684 -0500	imagefound	CONFIRM_order_mobile	found at (405, 1435)	11	on_scrolluntilfound	MobileUtilities.script
+2020-08-26 10:27:19.814 -0500	tap	CONFIRM_order_mobile	at (405, 1435)	26	on_checkout_flow	checkout_flow.script
+2020-08-26 10:27:19.824 -0500	EndTestCase		(Duration:"31.833233", Errors:"0", Exceptions:"0", StartTime:"2020-08-26 10:26:47 -0500", Successes:"1", TestCase:"checkout_flow.script", Warnings:"0")	1	execute string	(null)
+2020-08-26 10:27:19.931 -0500	SUCCESS		Execution Time 0:00:31 checkout_flow.script	1	execute string	(null)

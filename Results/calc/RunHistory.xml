@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="calc">
+ <run>
+  <RunDate>2020-10-07 11:12:00.114 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>5.409252</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201007_111200.114/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

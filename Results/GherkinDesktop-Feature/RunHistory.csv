@@ -1,0 +1,23 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-06-08 16:03:24.163 -0500,"Success",0:00:00,0,3,0,"20200608_160324.163/LogFile.txt","","",1
+2020-06-08 16:03:41.155 -0500,"Success",0:00:00,0,3,0,"20200608_160341.155/LogFile.txt","","",1
+2020-06-08 16:03:51.886 -0500,"Success",0:00:00,0,3,0,"20200608_160351.886/LogFile.txt","","",1
+2020-06-08 16:04:26.006 -0500,"Success",0:00:00,0,3,0,"20200608_160426.006/LogFile.txt","","",1
+2020-06-08 16:10:08.654 -0500,"Success",0:00:00,0,3,0,"20200608_161008.654/LogFile.txt","","",1
+2020-06-08 16:10:12.030 -0500,"Success",0:00:00,0,3,0,"20200608_161012.030/LogFile.txt","","",1
+2020-06-08 16:10:18.654 -0500,"Success",0:00:00,0,3,0,"20200608_161018.654/LogFile.txt","","",1
+2020-06-08 16:11:46.087 -0500,"Success",0:00:00,0,3,0,"20200608_161146.087/LogFile.txt","","",1
+2020-06-08 16:11:49.214 -0500,"Success",0:00:00,0,3,0,"20200608_161149.214/LogFile.txt","","",1
+2020-06-08 16:11:56.374 -0500,"Success",0:00:00,0,3,0,"20200608_161156.374/LogFile.txt","","",1
+2020-06-08 16:13:10.037 -0500,"Success",0:00:00,0,3,0,"20200608_161310.037/LogFile.txt","","",1
+2020-06-08 16:14:26.689 -0500,"Success",0:00:00,0,2,0,"20200608_161426.689/LogFile.txt","","",1
+2020-06-08 16:14:43.502 -0500,"Failure",0:00:00,1,0,0,"20200608_161443.502/LogFile.txt","","Gherkin compile error -- Parser errors:\n(26:1): expected: #EOF, #TableRow, #DocStringSeparator, #StepLine, #TagLine, #ScenarioLine, #ScenarioOutlineLine, #Comment, #Empty, got 'I'm'",0
+2020-06-08 16:15:03.250 -0500,"Failure",0:00:00,1,0,0,"20200608_161503.250/LogFile.txt","","Gherkin compile error -- Parser errors:\n(26:1): expected: #EOF, #TableRow, #DocStringSeparator, #StepLine, #TagLine, #ScenarioLine, #ScenarioOutlineLine, #Comment, #Empty, got 'I'm'",0
+2020-06-08 16:15:26.592 -0500,"Failure",0:00:00,1,0,0,"20200608_161526.592/LogFile.txt","","Gherkin compile error -- Parser errors:\n(26:1): expected: #EOF, #TableRow, #DocStringSeparator, #StepLine, #TagLine, #ScenarioLine, #ScenarioOutlineLine, #Comment, #Empty, got 'I'm'",0
+2020-06-08 16:16:02.771 -0500,"Success",0:00:00,0,5,0,"20200608_161602.771/LogFile.txt","","",1
+2020-06-08 16:36:51.177 -0500,"Failure",0:00:57,3,1,2,"20200608_163651.177/LogFile.txt","","Image Not Found -- waitforall Error - Not found: NopCommerce_Logo",3
+2020-06-08 16:38:49.199 -0500,"Success",0:00:08,0,0,0,"20200608_163849.199/LogFile.txt","","",5
+2020-06-08 16:43:37.505 -0500,"Success",0:00:12,0,0,0,"20200608_164337.505/LogFile.txt","","",8
+2020-06-09 08:36:53.684 -0500,"Success",0:00:09,0,0,0,"20200609_083653.684/LogFile.txt","","",8
+2020-06-09 08:37:07.354 -0500,"Success",0:00:11,0,0,0,"20200609_083707.354/LogFile.txt","","",8
+2020-10-14 12:54:43.273 -0500,"Failure",0:00:00,7,0,6,"20201014_125443.273/LogFile.txt","","No Remote Connection -- typetext Error - Remote Connection Unavailable",2

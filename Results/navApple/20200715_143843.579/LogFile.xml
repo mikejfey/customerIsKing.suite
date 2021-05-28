@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="navApple_script" package="nopCommerce.suite" timestamp="2020-07-15 14:38:43.579 -0500"
+ tests="1"  failures="0" errors="0" time="3.398955">
+  <properties>
+   <property name="RunDate" value="2020-07-15 14:38:43.579 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="navApple.script" assertions="1" status="success"  time="3.392402">
+  </testcase>
+ </testsuite>
+</testsuites>

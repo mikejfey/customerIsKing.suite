@@ -1,0 +1,37 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running navLaptops.script",
+      "timestamp" : "2020-06-17 14:17:17.777 -0500"
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "Unable to Find Image(s): Computers.png -- AutoUpdate engaged",
+      "timestamp" : "2020-06-17 14:17:30.249 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "navLaptops.script",
+      "handlerLine" : 8
+    },
+    {
+      "handlerName" : "on_navlaptops",
+      "message" : "No Image Found On Screen: \"Computers\"",
+      "identifier" : "Exception",
+      "image" : "Computers",
+      "handlerLine" : 8,
+      "timestamp" : "2020-06-17 14:17:34.710 -0500",
+      "scriptName" : "navLaptops.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"17.277331\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-06-17 14:17:17 -0500\", Successes:\"0\", TestCase:\"navLaptops.script\", Warnings:\"1\")",
+      "timestamp" : "2020-06-17 14:17:35.056 -0500"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:17 navLaptops.script",
+      "timestamp" : "2020-06-17 14:17:35.058 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-17 14:17:17.778 -0500"
+}

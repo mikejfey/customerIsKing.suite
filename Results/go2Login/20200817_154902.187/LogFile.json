@@ -1,0 +1,86 @@
+{
+  "entries" : [
+    {
+      "message" : "Running go2Login.script",
+      "timestamp" : "2020-08-17 15:49:02.190 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "[homeKey]",
+      "timestamp" : "2020-08-17 15:49:02.215 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "Utilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_backtotop",
+      "message" : "found at (392, 181)",
+      "identifier" : "waitfor",
+      "image" : "NopCommerce_Logo",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-17 15:49:08.195 -0500",
+      "scriptName" : "Utilities.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Unable to Find Image(s): RefreshButton.png -- AutoUpdate engaged",
+      "timestamp" : "2020-08-17 15:49:13.416 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "go2Login.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerLine" : 5,
+      "handlerName" : "on_go2login",
+      "timestamp" : "2020-08-17 15:49:27.194 -0500",
+      "identifier" : "AutoUpdateCaptureScreen",
+      "image" : "AutoUpdate_0001.png",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "Found Alternate Image -- Using Discrepancy Search 46",
+      "identifier" : "AutoUpdateWarning",
+      "image" : "RefreshButton.png",
+      "handlerLine" : 5,
+      "timestamp" : "2020-08-17 15:49:27.197 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "found at (1427, 91)",
+      "identifier" : "waitfor",
+      "image" : "RefreshButton.png",
+      "handlerLine" : 5,
+      "timestamp" : "2020-08-17 15:49:27.556 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "handlerName" : "on_go2login",
+      "message" : "at (1278, 92)",
+      "identifier" : "click",
+      "image" : "go2loginCommerce",
+      "handlerLine" : 6,
+      "timestamp" : "2020-08-17 15:49:28.089 -0500",
+      "scriptName" : "go2Login.script"
+    },
+    {
+      "message" : "(Duration:\"25.907735\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-08-17 15:49:02 -0500\", Successes:\"1\", TestCase:\"go2Login.script\", Warnings:\"1\")",
+      "timestamp" : "2020-08-17 15:49:28.099 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "Execution Time 0:00:25 go2Login.script",
+      "timestamp" : "2020-08-17 15:49:28.236 -0500",
+      "identifier" : "SUCCESS",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-08-17 15:49:02.191 -0500"
+}

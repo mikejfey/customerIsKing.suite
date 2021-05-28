@@ -1,0 +1,77 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running zzzrunStockAPI.script",
+      "timestamp" : "2020-06-24 14:53:20.580 -0500"
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-06-24 14:53:21.463 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "\"symbol\":\"AAPL\"",
+      "timestamp" : "2020-06-24 14:53:21.474 -0500",
+      "identifier" : "Log",
+      "scriptName" : "",
+      "handlerLine" : 13
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "AAPL",
+      "timestamp" : "2020-06-24 14:53:21.481 -0500",
+      "identifier" : "Log",
+      "scriptName" : "",
+      "handlerLine" : 15
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "\"close\":366.53",
+      "timestamp" : "2020-06-24 14:53:21.489 -0500",
+      "identifier" : "Log",
+      "scriptName" : "",
+      "handlerLine" : 18
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "366",
+      "timestamp" : "2020-06-24 14:53:21.494 -0500",
+      "identifier" : "Log",
+      "scriptName" : "",
+      "handlerLine" : 20
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "found at (287, 292)",
+      "identifier" : "imagefound",
+      "image" : "(TEXT:\"AAPL\")",
+      "handlerLine" : 22,
+      "timestamp" : "2020-06-24 14:53:29.419 -0500",
+      "scriptName" : ""
+    },
+    {
+      "handlerName" : "on_<initialhandler>",
+      "message" : "Assertion Succeeded: (true: ImageFound(text:myStockName, waitFor:5))",
+      "timestamp" : "2020-06-24 14:53:29.421 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "",
+      "handlerLine" : 22
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"10.895753\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-06-24 14:53:20 -0500\", Successes:\"2\", TestCase:\"zzzrunStockAPI.script\", Warnings:\"0\")",
+      "timestamp" : "2020-06-24 14:53:31.479 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:10 zzzrunStockAPI.script",
+      "timestamp" : "2020-06-24 14:53:31.620 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-06-24 14:53:20.582 -0500"
+}

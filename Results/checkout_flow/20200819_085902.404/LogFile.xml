@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="checkout_flow_script" package="customerIsKing.suite" timestamp="2020-08-19 08:59:02.404 -0500"
+ tests="1"  failures="0" errors="0" time="12.414029">
+  <properties>
+   <property name="RunDate" value="2020-08-19 08:59:02.404 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="checkout_flow.script" assertions="1" status="success"  time="12.409342">
+  </testcase>
+ </testsuite>
+</testsuites>

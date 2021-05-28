@@ -1,0 +1,30 @@
+﻿{
+    CaptureDate = "2020-04-17 19:41:01 +0000";
+    CaptureHost = "windows_sut";
+    CaptureScreenSize =     (
+        4000,
+        4000
+    );
+    HasAlpha = 1;
+    HotSpotX = 44;
+    HotSpotY = 44;
+    IgnoreColor =     (
+        "#0180E9"
+    );
+    IgnoreColorTolerance =     (
+        28
+    );
+    ImageDescription = {length = 0, bytes = 0x};
+    ImageTolerance = 90;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    MaxIgnoredPixels = 10;
+    OriginalLocationX = 157;
+    OriginalLocationY = 11;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+    tags =     (
+    );
+}

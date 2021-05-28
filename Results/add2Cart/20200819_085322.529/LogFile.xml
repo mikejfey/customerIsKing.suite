@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="mobile_add2Cart_script" package="customerIsKing.suite" timestamp="2020-08-19 08:53:22.529 -0500"
+ tests="1"  failures="0" errors="0" time="5.293740">
+  <properties>
+   <property name="RunDate" value="2020-08-19 08:53:22.529 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="mobile_add2Cart.script" assertions="1" status="success"  time="5.290155">
+  </testcase>
+ </testsuite>
+</testsuites>

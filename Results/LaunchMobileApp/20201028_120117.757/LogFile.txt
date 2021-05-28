@@ -1,0 +1,10 @@
+﻿2020-10-28 12:01:17.759 -0500	START		Running LaunchMobileApp.script	1	execute string	(null)
+2020-10-28 12:01:17.766 -0500	connect		android:(null)	1	on_launchmobileapp	LaunchMobileApp.script
+2020-10-28 12:01:17.771 -0500	show		remote	2	on_launchmobileapp	LaunchMobileApp.script
+2020-10-28 12:01:28.585 -0500	LogWarning		Unable to Find Image(s): nop_logo_mobile_andr.png, nop_logo_mobile.png -- AutoUpdate engaged	4	on_launchmobileapp	LaunchMobileApp.script
+2020-10-28 12:01:31.426 -0500	AutoUpdateCaptureScreen	AutoUpdate_0001.png		4	on_launchmobileapp	LaunchMobileApp.script
+2020-10-28 12:01:31.450 -0500	AutoUpdateWarning	nop_logo_mobile/nop_logo_mobile_andr.png	Found Alternate Image -- Using Scaling Search 0.7500	4	on_launchmobileapp	LaunchMobileApp.script	"Name" = "Scaling Search"; "Info" = "0.7500"; 
+2020-10-28 12:01:31.609 -0500	waitfor	nop_logo_mobile/nop_logo_mobile_andr.png	found at (232, 898)	4	on_launchmobileapp	LaunchMobileApp.script
+2020-10-28 12:01:31.712 -0500	tap		at (232, 898)	5	on_launchmobileapp	LaunchMobileApp.script
+2020-10-28 12:01:31.718 -0500	EndTestCase		(Duration:"13.956525", Errors:"0", Exceptions:"0", StartTime:"2020-10-28 12:01:17 -0500", Successes:"1", TestCase:"LaunchMobileApp.script", Warnings:"1")	1	execute string	(null)
+2020-10-28 12:01:31.855 -0500	SUCCESS		Execution Time 0:00:13 LaunchMobileApp.script	1	execute string	(null)

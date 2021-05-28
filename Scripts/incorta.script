@@ -1,0 +1,21 @@
+﻿put  "mike@eggplant.com" into myUsername
+DoubleClick {Image:"Email-field", WaitFor:5}
+//typetext controlKey,"a"
+typetext myUsername
+DoubleClick (Image:"Password2", WaitFor:3)
+typetext "password"
+Click "LOGIN2"
+
+
+typetext controlKey,"a"
+typetext myUsername
+
+TypeText AltKey,F4
+
+if ImageFound(text:"incorta", wait:4)
+	log "yeah, found it"
+else
+	LogError "ooops."
+	
+end if
+

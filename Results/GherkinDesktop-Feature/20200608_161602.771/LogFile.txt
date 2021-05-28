@@ -1,0 +1,13 @@
+﻿2020-06-08 16:16:02.773 -0500	START		Running FeatureFile.feature
+2020-06-08 16:16:02.774 -0500	LogWarning		Execution issue at step: I am connected to a device	14	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:16:02.776 -0500	EndTestCase		(Duration:"0.001068", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:16:02 -0500", Successes:"0", TestCase:"I am connected to a device", Warnings:"1")
+2020-06-08 16:16:02.777 -0500	LogWarning		Execution issue at step: I enter the nopCommerce URL	15	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:16:02.778 -0500	EndTestCase		(Duration:"0.001021", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:16:02 -0500", Successes:"0", TestCase:"I enter the nopCommerce URL", Warnings:"1")
+2020-06-08 16:16:02.779 -0500	LogWarning		Execution issue at step: I should see the home page	16	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:16:02.781 -0500	EndTestCase		(Duration:"0.000954", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:16:02 -0500", Successes:"0", TestCase:"I should see the home page", Warnings:"1")
+2020-06-08 16:16:02.782 -0500	LogWarning		Execution issue at step: I close the browser	24	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:16:02.783 -0500	EndTestCase		(Duration:"0.000912", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:16:02 -0500", Successes:"0", TestCase:"I close the browser", Warnings:"1")
+2020-06-08 16:16:02.784 -0500	LogWarning		Execution issue at step: The test should pass	25	FeatureFile.feature	GHERKIN_STEP_RESULT
+2020-06-08 16:16:02.785 -0500	EndTestCase		(Duration:"0.000911", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:16:02 -0500", Successes:"0", TestCase:"The test should pass", Warnings:"1")
+2020-06-08 16:16:02.786 -0500	EndTestCase		(Duration:"0.011603", Errors:"0", Exceptions:"0", StartTime:"2020-06-08 16:16:02 -0500", Successes:"1", TestCase:"FeatureFile.feature", Warnings:"5")
+2020-06-08 16:16:03.259 -0500	FAILURE	Screen_Error.png	2 scenarios (2 failed, 0 passed) 5 steps (0 failed, 5 skipped, 0 passed) Execution Time 0:00:00

@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "message" : "Running emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:17:05.052 -0600",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_emr_validate",
+      "message" : "Could Not Open Image: miketopMenu\/monday_TL",
+      "identifier" : "Exception",
+      "image" : "miketopMenu\/monday_TL",
+      "handlerLine" : 2,
+      "timestamp" : "2020-11-02 17:17:05.064 -0600",
+      "scriptName" : "emr\/Validate.script"
+    },
+    {
+      "message" : "(Duration:\"0.015691\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-11-02 17:17:05 -0600\", Successes:\"0\", TestCase:\"emr\/Validate.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:17:05.070 -0600",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "File Not Found readtext Error - Could Not Open Image: miketopMenu\/monday_TL -- Execution Time 0:00:00 emr\/Validate.script",
+      "timestamp" : "2020-11-02 17:17:05.616 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:17:05.054 -0600"
+}

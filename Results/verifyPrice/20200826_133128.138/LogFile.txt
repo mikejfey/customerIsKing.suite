@@ -1,0 +1,5 @@
+﻿2020-08-26 13:31:28.141 -0500	START		Running verifyPrice.script
+2020-08-26 13:31:29.253 -0500	readtext		(699,913,769,939)
+2020-08-26 13:31:29.291 -0500	Log		1,800.00	2	on_verifyprice	verifyPrice.script
+2020-08-26 13:31:30.687 -0500	EndTestCase		(Duration:"2.543727", Errors:"1", Exceptions:"0", StartTime:"2020-08-26 13:31:28 -0500", Successes:"0", TestCase:"verifyPrice.script", Warnings:"0")
+2020-08-26 13:31:31.292 -0500	FAILURE	Screen_Error.png	AssertionFailed  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00) -- Execution Time 0:00:02 verifyPrice.script

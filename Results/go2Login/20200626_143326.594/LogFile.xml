@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="go2Login_script" package="nopCommerce.suite" timestamp="2020-06-26 14:33:26.594 -0500"
+ tests="1"  failures="1" errors="0" time="3.499682">
+  <properties>
+   <property name="RunDate" value="2020-06-26 14:33:26.594 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="go2Login.script" assertions="1" status="failure"  time="3.496078">
+    <failure type="FAILURE" message="AssertionFailed (false: ImageFound(&quot;go2loginCommerce&quot;)) -- Execution Time 0:00:03 go2Login.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

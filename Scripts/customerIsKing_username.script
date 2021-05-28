@@ -1,0 +1,16 @@
+﻿params Device, username
+
+if Device = "desktop"
+	Click imageName:"Email4Login", waitFor:8
+	//Type theValue and optional terminator (such as 'return' or 'tab') into the field.
+	log username
+	log device
+	TypeText username
+	
+else
+	//MobileUtilities.ScrollUntilFound "Mobile_Email", "Up"
+	//Click {Image:"Mobile_Email", WaitFor:3}
+	wait 2
+	typeText "mike.fey@eggplant.io"
+	
+end if

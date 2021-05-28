@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="navApple">
+ <run>
+  <RunDate>2020-07-15 14:38:43.579 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.398955</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200715_143843.579/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-08-12 10:21:53.659 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>3.587335</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200812_102153.659/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

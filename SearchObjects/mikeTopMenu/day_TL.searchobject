@@ -1,0 +1,29 @@
+{
+  "ocrcapturestring" : "o",
+  "originalcapturelocation" : [
+    257,
+    222,
+    16,
+    16
+  ],
+  "createddate" : 1604359307.001195,
+  "lastmodifieddate" : 1604359307.0011959,
+  "name" : "mikeTopMenu\/day_TL",
+  "testlocationdata" : [
+    {
+      "name" : "mikeTopMenu\/day_TL.png",
+      "connectionname" : "windows_sut",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "capturedocrtext" : "o",
+      "type" : 1,
+      "connectionserverid" : "192.168.32.145",
+      "capturerect" : [
+        257,
+        222,
+        16,
+        16
+      ]
+    }
+  ]
+}

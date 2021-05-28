@@ -1,0 +1,44 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running pagination.apitest",
+      "timestamp" : "2020-09-29 11:07:42.752 -0500"
+    },
+    {
+      "handlerName" : "on_pagination",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-09-29 11:07:43.645 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/pagination.apitest",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_pagination",
+      "message" : "100",
+      "timestamp" : "2020-09-29 11:07:43.655 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/pagination.apitest",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_pagination",
+      "message" : "{adj_close:114.96, adj_high:115.32, adj_low:112.78, adj_open:115.01, adj_volume:136441425, close:114.96, date:\"2020-09-28T00:00:00+0000\", exchange:\"XNAS\", high:115.32, low:112.78, open:115.01, symbol:\"AAPL\", volume:136441425}",
+      "timestamp" : "2020-09-29 11:07:43.658 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/pagination.apitest",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.208999\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-09-29 11:07:42 -0500\", Successes:\"1\", TestCase:\"pagination.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-09-29 11:07:43.962 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 pagination.apitest",
+      "timestamp" : "2020-09-29 11:07:44.014 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-09-29 11:07:42.753 -0500"
+}

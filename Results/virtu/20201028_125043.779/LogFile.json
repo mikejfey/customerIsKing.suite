@@ -1,0 +1,62 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running virtu.script",
+      "timestamp" : "2020-10-28 12:50:43.781 -0500"
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "at (292, 1080)",
+      "identifier" : "tap",
+      "image" : "Searchstore_1",
+      "handlerLine" : 1,
+      "timestamp" : "2020-10-28 12:50:44.070 -0500",
+      "scriptName" : "virtu.script"
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "camera",
+      "timestamp" : "2020-10-28 12:50:44.847 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "virtu.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "at (850, 1088)",
+      "identifier" : "tap",
+      "image" : "SEARCH_1",
+      "handlerLine" : 3,
+      "timestamp" : "2020-10-28 12:50:45.823 -0500",
+      "scriptName" : "virtu.script"
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "Swiped up from (540, 1554) to (540, 666)",
+      "timestamp" : "2020-10-28 12:50:46.792 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "virtu.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_virtu",
+      "message" : "Swiped up from (540, 1554) to (540, 666)",
+      "timestamp" : "2020-10-28 12:50:47.766 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "virtu.script",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"4.480811\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-28 12:50:43 -0500\", Successes:\"1\", TestCase:\"virtu.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-28 12:50:48.264 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:04 virtu.script",
+      "timestamp" : "2020-10-28 12:50:48.383 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-28 12:50:43.783 -0500"
+}

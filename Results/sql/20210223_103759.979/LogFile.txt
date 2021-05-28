@@ -1,0 +1,4 @@
+﻿2021-02-23 10:37:59.983 -0600	START		Running sql.script
+2021-02-23 10:38:00.666 -0600	click	CUSTOMERS	at (1890, 315)	4	on_sql	sql.script
+2021-02-23 10:38:01.691 -0600	EndTestCase		(Duration:"1.704688", Errors:"0", Exceptions:"0", StartTime:"2021-02-23 10:37:59 -0600", Successes:"1", TestCase:"sql.script", Warnings:"0")
+2021-02-23 10:38:01.850 -0600	SUCCESS		Execution Time 0:00:01 sql.script

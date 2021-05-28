@@ -1,0 +1,82 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running camsearch.script",
+      "timestamp" : "2020-10-20 14:35:04.075 -0500"
+    },
+    {
+      "handlerName" : "on_camsearch",
+      "message" : "at (1235, 178)",
+      "identifier" : "click",
+      "image" : "Searchstore_0002",
+      "handlerLine" : 8,
+      "timestamp" : "2020-10-20 14:35:04.727 -0500",
+      "scriptName" : "camsearch.script"
+    },
+    {
+      "handlerName" : "on_camsearch",
+      "message" : "camera",
+      "timestamp" : "2020-10-20 14:35:05.511 -0500",
+      "identifier" : "typetext",
+      "scriptName" : "camsearch.script",
+      "handlerLine" : 9
+    },
+    {
+      "handlerName" : "on_camsearch",
+      "message" : "at (1519, 180)",
+      "identifier" : "click",
+      "image" : "SEARCH_0001",
+      "handlerLine" : 10,
+      "timestamp" : "2020-10-20 14:35:06.333 -0500",
+      "scriptName" : "camsearch.script"
+    },
+    {
+      "handlerName" : "on_camsearch",
+      "message" : "at (801, 924)",
+      "identifier" : "click",
+      "image" : "image0007",
+      "handlerLine" : 11,
+      "timestamp" : "2020-10-20 14:35:07.607 -0500",
+      "scriptName" : "camsearch.script"
+    },
+    {
+      "handlerName" : "on_camsearch",
+      "message" : "at (1038, 728)",
+      "identifier" : "click",
+      "image" : "ADDTOCARTzzzz",
+      "handlerLine" : 12,
+      "timestamp" : "2020-10-20 14:35:08.486 -0500",
+      "scriptName" : "camsearch.script"
+    },
+    {
+      "handlerName" : "on_camsearch",
+      "message" : "at (535, 291)",
+      "identifier" : "click",
+      "image" : "Computers",
+      "handlerLine" : 14,
+      "timestamp" : "2020-10-20 14:35:09.309 -0500",
+      "scriptName" : "camsearch.script"
+    },
+    {
+      "handlerName" : "on_camsearch",
+      "message" : "at (452, 167)",
+      "identifier" : "click",
+      "image" : "noDCc",
+      "handlerLine" : 16,
+      "timestamp" : "2020-10-20 14:35:10.149 -0500",
+      "scriptName" : "camsearch.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"8.677414\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-10-20 14:35:04 -0500\", Successes:\"1\", TestCase:\"camsearch.script\", Warnings:\"0\")",
+      "timestamp" : "2020-10-20 14:35:12.755 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:08 camsearch.script",
+      "timestamp" : "2020-10-20 14:35:12.882 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-10-20 14:35:04.077 -0500"
+}

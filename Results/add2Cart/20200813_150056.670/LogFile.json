@@ -1,0 +1,88 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running mobile_add2Cart.script",
+      "timestamp" : "2020-08-13 15:00:56.673 -0500"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "SWIPESPEED = 10",
+      "timestamp" : "2020-08-13 15:00:56.949 -0500",
+      "identifier" : "set",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 3,
+      "timestamp" : "2020-08-13 15:00:57.827 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 15:00:58.684 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Unable to Find Image mobile_ADDTOCART",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 15:01:02.861 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "Swiped up from (414, 1254) to (414, 538)",
+      "timestamp" : "2020-08-13 15:01:03.705 -0500",
+      "identifier" : "swipeup",
+      "scriptName" : "MobileUtilities.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_scrolluntilfound",
+      "message" : "found at (256, 1375)",
+      "identifier" : "imagefound",
+      "image" : "mobile_ADDTOCART",
+      "handlerLine" : 11,
+      "timestamp" : "2020-08-13 15:01:08.058 -0500",
+      "scriptName" : "MobileUtilities.script"
+    },
+    {
+      "handlerName" : "on_mobile_add2cart",
+      "message" : "Unable to Find Image(s): mobileComputersImage.png -- AutoUpdate engaged",
+      "timestamp" : "2020-08-13 15:01:12.919 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "mobile_add2Cart.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_mobile_add2cart",
+      "message" : "No Image Found On Screen: \"mobileComputersImage\"",
+      "identifier" : "Exception",
+      "image" : "mobileComputersImage",
+      "handlerLine" : 2,
+      "timestamp" : "2020-08-13 15:01:32.996 -0500",
+      "scriptName" : "mobile_add2Cart.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"37.379568\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-13 15:00:56 -0500\", Successes:\"0\", TestCase:\"mobile_add2Cart.script\", Warnings:\"1\")",
+      "timestamp" : "2020-08-13 15:01:34.055 -0500"
+    },
+    {
+      "identifier" : "ABORTED",
+      "message" : "Execution Time 0:00:37 mobile_add2Cart.script",
+      "timestamp" : "2020-08-13 15:01:34.057 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-08-13 15:00:56.674 -0500"
+}

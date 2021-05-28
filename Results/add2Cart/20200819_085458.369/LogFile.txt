@@ -1,0 +1,6 @@
+﻿2020-08-19 08:54:58.371 -0500	START		Running mobile_add2Cart.script	1	execute string	(null)
+2020-08-19 08:54:58.571 -0500	click	dtop2cart_web	at (775, 1217)	3	on_mobile_add2cart	mobile_add2Cart.script
+2020-08-19 08:55:01.967 -0500	click	400GB_web	at (940, 942)	4	on_mobile_add2cart	mobile_add2Cart.script
+2020-08-19 08:55:02.831 -0500	click	ADDTOCART_web	at (1059, 1249)	5	on_mobile_add2cart	mobile_add2Cart.script
+2020-08-19 08:55:02.838 -0500	EndTestCase		(Duration:"4.464475", Errors:"0", Exceptions:"0", StartTime:"2020-08-19 08:54:58 -0500", Successes:"1", TestCase:"mobile_add2Cart.script", Warnings:"0")	1	execute string	(null)
+2020-08-19 08:55:02.908 -0500	SUCCESS		Execution Time 0:00:04 mobile_add2Cart.script	1	execute string	(null)

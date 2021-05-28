@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="emr/zzzEMRLogin_script" package="customerIsKing.suite" timestamp="2020-11-02 17:16:00.326 -0600"
+ tests="1"  failures="1" errors="1" time="0.842993">
+  <properties>
+   <property name="RunDate" value="2020-11-02 17:16:00.326 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="emr/zzzEMRLogin.script" assertions="1" status="error"  time="0.839687">
+    <failure type="FAILURE" message="File Not Found imagefound Error - Could Not Open Image: Login/NoThanks -- Execution Time 0:00:00 emr/zzzEMRLogin.script" />
+    <error type="Exception" message="Could Not Open Image: Login/NoThanks" />
+  </testcase>
+ </testsuite>
+</testsuites>

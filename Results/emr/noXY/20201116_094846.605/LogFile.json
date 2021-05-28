@@ -1,0 +1,21 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running emr\/noXY.script",
+      "timestamp" : "2020-11-16 09:48:46.607 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"0.394452\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-11-16 09:48:46 -0600\", Successes:\"0\", TestCase:\"emr\/noXY.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-16 09:48:47.009 -0600"
+    },
+    {
+      "message" : "STUnknownMessage ERROR: 'readtext' was called as a Command, but is only available as a Function -- Execution Time 0:00:00 emr\/noXY.script",
+      "timestamp" : "2020-11-16 09:48:47.646 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-11-16 09:48:46.612 -0600"
+}

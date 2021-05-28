@@ -1,0 +1,1 @@
+2021-05-11 19:04:48.174 -0500,Failure,0:00:01,1,0,0,20210511_190448.174/LogFile.txt,"","Invalid JSON -- Can't get value of JSON expression '{authenticationtype:""None"", httpmethod:""GET"", mimeType:""application/json"", oauthToken:"""", passwor...' (reason: No string key for value in object around character 1.)",1

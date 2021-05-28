@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-08-21 13:32:08.906 -0500,"Failure",0:00:48,1,1,1,"20200821_133208.906/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""ARHallmarkCardsDAI""",0

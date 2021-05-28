@@ -1,0 +1,31 @@
+﻿to AdvancedSearch_Toggle
+	Click "Advancedsearch"
+end AdvancedSearch_Toggle
+
+to ChangeCategory_Dropdown Category
+	assert that ImageFound(image:"Category",waitFor:8)
+	Click (image:"Category",Waitfor:3)
+	
+	set CategoryLocation to the foundImageLocation
+	Click (text:Category, searchRectangle:(CategoryLocation - (100,70), CategoryLocation + (350,320)), caseSensitive:true, waitFor:8)
+	set the searchRectangle to ()
+end ChangeCategory_Dropdown
+
+to ChangedCategory_IsFound Category
+	Set CategoryLoc to imageRectangle("Category")
+	Set ConfiguredCategory to readtext(CategoryLoc's topRight,CategoryLoc's bottomRight + (150,0))
+	if ConfiguredCategory contains Category then
+		return true
+		
+	else
+		return false
+	end if
+end ChangedCategory_IsFound
+
+to SearchHeader_IsFound
+	return imageFound(image:"Search_Header",waitFor:8)
+end SearchHeader_IsFound
+
+to SearchHeader_Validate
+	WaitFor 8, "Search_Header"
+end SearchHeader_Validate

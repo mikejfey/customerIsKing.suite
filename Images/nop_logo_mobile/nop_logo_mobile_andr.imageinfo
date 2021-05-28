@@ -1,0 +1,23 @@
+﻿{
+    CaptureDate = "2020-09-18 00:23:20 +0000";
+    CaptureHost = "AG:424554424e443498";
+    CaptureScreenSize =     (
+        1440,
+        2960
+    );
+    HasAlpha = 1;
+    HotSpotX = 136;
+    HotSpotY = 115;
+    ImageDescription = {length = 0, bytes = 0x};
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 173;
+    OriginalLocationY = 1085;
+    Precise = 0;
+    Pulsing = 0;
+    Scale = "0.75";
+    SearchAlgorithm = TextSmoothSquare;
+    SearchObjectName = "nop_logo_mobile/nop_logo_mobile_andr";
+    tags =     (
+    );
+}

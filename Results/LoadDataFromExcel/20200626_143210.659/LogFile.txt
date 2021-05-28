@@ -1,0 +1,3 @@
+﻿2020-06-26 14:32:10.661 -0500	START		Running LoadDataFromExcel.script	1	execute string	(null)
+2020-06-26 14:32:10.669 -0500	EndTestCase		(Duration:"0.006458", Errors:"0", Exceptions:"0", StartTime:"2020-06-26 14:32:10 -0500", Successes:"1", TestCase:"LoadDataFromExcel.script", Warnings:"0")	1	execute string	(null)
+2020-06-26 14:32:10.714 -0500	SUCCESS		Execution Time 0:00:00 LoadDataFromExcel.script	1	execute string	(null)

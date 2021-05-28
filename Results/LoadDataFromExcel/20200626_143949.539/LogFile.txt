@@ -1,0 +1,4 @@
+﻿2020-06-26 14:39:49.542 -0500	START		Running LoadDataFromExcel.script
+2020-06-26 14:39:49.598 -0500	Log		[{@"account name":"Discount Tire", billingcity:"Dallas", phone:"763-987-1289"},{@"account name":"Independent Health", billingcity:"Scottsdale", phone:"925-987-0917"},{@"account name":"KARL STORZ", billingcity:"El Segundo", phone:"949-856-9087"}]	4	on_loaddatafromexcel	LoadDataFromExcel.script
+2020-06-26 14:39:50.796 -0500	EndTestCase		(Duration:"1.252653", Errors:"0", Exceptions:"0", StartTime:"2020-06-26 14:39:49 -0500", Successes:"1", TestCase:"LoadDataFromExcel.script", Warnings:"0")
+2020-06-26 14:39:50.829 -0500	SUCCESS		Execution Time 0:00:01 LoadDataFromExcel.script

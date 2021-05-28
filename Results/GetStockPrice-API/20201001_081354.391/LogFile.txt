@@ -1,0 +1,7 @@
+﻿2020-10-01 08:13:54.393 -0500	START		Running GetStockPrice.apitest
+2020-10-01 08:13:55.247 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	4	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:13:55.263 -0500	Log		========================	12	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:13:55.268 -0500	Log		AAPL	14	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:13:55.271 -0500	Log		115.81	15	on_getstockprice	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/GetStockPrice.apitest
+2020-10-01 08:13:55.524 -0500	EndTestCase		(Duration:"1.12987", Errors:"0", Exceptions:"0", StartTime:"2020-10-01 08:13:54 -0500", Successes:"1", TestCase:"GetStockPrice.apitest", Warnings:"0")
+2020-10-01 08:13:55.610 -0500	SUCCESS		Execution Time 0:00:01 GetStockPrice.apitest

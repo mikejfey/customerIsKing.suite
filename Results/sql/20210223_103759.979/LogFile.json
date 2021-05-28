@@ -1,0 +1,29 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running sql.script",
+      "timestamp" : "2021-02-23 10:37:59.983 -0600"
+    },
+    {
+      "handlerName" : "on_sql",
+      "message" : "at (1890, 315)",
+      "identifier" : "click",
+      "image" : "CUSTOMERS",
+      "handlerLine" : 4,
+      "timestamp" : "2021-02-23 10:38:00.666 -0600",
+      "scriptName" : "sql.script"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.704688\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2021-02-23 10:37:59 -0600\", Successes:\"1\", TestCase:\"sql.script\", Warnings:\"0\")",
+      "timestamp" : "2021-02-23 10:38:01.691 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 sql.script",
+      "timestamp" : "2021-02-23 10:38:01.850 -0600"
+    }
+  ],
+  "createdTimestamp" : "2021-02-23 10:37:59.985 -0600"
+}

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="zcomps">
+ <run>
+  <RunDate>2020-06-24 09:10:41.964 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>2.823055</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20200624_091041.964/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-06-24 09:11:44.415 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>4.393222</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20200624_091144.415/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>AssertionFailed --  (assertion: actualPrice is expectedPrice; actually: $1,800.00 IS NOT equal to $1500.00)</ErrorMessage>
+ </run>
+</runHistory>

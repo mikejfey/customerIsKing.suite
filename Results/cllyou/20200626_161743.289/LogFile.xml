@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="cllyou_script" package="nopCommerce.suite" timestamp="2020-06-26 16:17:43.289 -0500"
+ tests="1"  failures="0" errors="0" time="28.186153">
+  <properties>
+   <property name="RunDate" value="2020-06-26 16:17:43.289 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="cllyou.script" assertions="1" status="success"  time="28.182371">
+  </testcase>
+ </testsuite>
+</testsuites>

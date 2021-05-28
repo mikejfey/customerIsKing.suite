@@ -1,0 +1,23 @@
+﻿to NopCommerceLogo_Validate
+	WaitFor 10, "NopCommerce_Logo"
+end NopCommerceLogo_Validate
+
+to PollOption_Select Rating
+	//put "Excellent" into Rating
+	Utilities.ScrollUntilFound "Communitypoll_Header_new"
+	wait 1
+	Moveto the center of the remoteScreenRectangle
+	ScrollWheelDown 3
+	wait 3
+	
+	Click text:Rating, waitFor:8
+	
+	
+	Wait 2
+	Utilities.BacktoTop
+end PollOption_Select
+
+to ViewNews_Validate
+	Utilities.BacktoTop
+	Utilities.ScrollUntilFound "News_Header"
+end ViewNews_Validate

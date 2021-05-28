@@ -1,0 +1,34 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running verifyPrice.script",
+      "timestamp" : "2020-08-26 13:31:28.141 -0500"
+    },
+    {
+      "identifier" : "readtext",
+      "message" : "(699,913,769,939)",
+      "timestamp" : "2020-08-26 13:31:29.253 -0500"
+    },
+    {
+      "handlerName" : "on_verifyprice",
+      "message" : "1,800.00",
+      "timestamp" : "2020-08-26 13:31:29.291 -0500",
+      "identifier" : "Log",
+      "scriptName" : "verifyPrice.script",
+      "handlerLine" : 2
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"2.543727\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-08-26 13:31:28 -0500\", Successes:\"0\", TestCase:\"verifyPrice.script\", Warnings:\"0\")",
+      "timestamp" : "2020-08-26 13:31:30.687 -0500"
+    },
+    {
+      "message" : "AssertionFailed  (assertion: actualPrice is expectedPrice; actually: 1,800.00 IS NOT equal to 1500.00) -- Execution Time 0:00:02 verifyPrice.script",
+      "timestamp" : "2020-08-26 13:31:31.292 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "createdTimestamp" : "2020-08-26 13:31:28.142 -0500"
+}

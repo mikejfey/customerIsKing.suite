@@ -1,0 +1,50 @@
+{
+  "entries" : [
+    {
+      "message" : "Running emr\/lauchEMR.script",
+      "timestamp" : "2020-11-02 17:48:58.374 -0600",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Login with: admin",
+      "timestamp" : "2020-11-02 17:48:58.420 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Password is: pass",
+      "timestamp" : "2020-11-02 17:48:58.439 -0600",
+      "identifier" : "Log",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_emr_lauchemr",
+      "message" : "Remote Connection Unavailable",
+      "timestamp" : "2020-11-02 17:48:58.448 -0600",
+      "identifier" : "Exception",
+      "scriptName" : "emr\/lauchEMR.script",
+      "handlerLine" : 5
+    },
+    {
+      "message" : "(Duration:\"0.076625\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-11-02 17:48:58 -0600\", Successes:\"0\", TestCase:\"emr\/lauchEMR.script\", Warnings:\"0\")",
+      "timestamp" : "2020-11-02 17:48:58.453 -0600",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "message" : "No Remote Connection typetext Error - Remote Connection Unavailable -- Execution Time 0:00:00 emr\/lauchEMR.script",
+      "timestamp" : "2020-11-02 17:48:58.795 -0600",
+      "identifier" : "FAILURE",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    }
+  ],
+  "createdTimestamp" : "2020-11-02 17:48:58.376 -0600"
+}

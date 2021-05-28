@@ -1,0 +1,7 @@
+﻿2020-05-14 10:38:27.457 -0500	START		Running go2Login.script
+2020-05-14 10:38:27.528 -0500	connect		DAIserver_sut:(null)	3	on_go2login	go2Login.script
+2020-05-14 10:38:27.573 -0500	typetext		[homeKey]	2	on_backtotop	Utilities.script
+2020-05-14 10:38:28.632 -0500	waitfor	NopCommerce_Logo	found at (392, 181)	3	on_backtotop	Utilities.script
+2020-05-14 10:38:33.003 -0500	imagefound	go2loginCommerce	Unable to Find Image go2loginCommerce	5	on_go2login	go2Login.script
+2020-05-14 10:38:33.463 -0500	EndTestCase		(Duration:"6.004149", Errors:"1", Exceptions:"0", StartTime:"2020-05-14 10:38:27 -0500", Successes:"0", TestCase:"go2Login.script", Warnings:"0")
+2020-05-14 10:38:33.561 -0500	FAILURE	Screen_Error.png	AssertionFailed (false: ImageFound("go2loginCommerce")) -- Execution Time 0:00:06 go2Login.script

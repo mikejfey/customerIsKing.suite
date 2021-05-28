@@ -1,0 +1,46 @@
+{
+  "lastmodifieddate" : 1605542042.4705958,
+  "testlocationdata" : [
+    {
+      "name" : "zzzz\/AIAgentBookmark.png",
+      "sutinfo" : {
+        "type" : "Unknown RDP"
+      },
+      "connectionname" : "diaserver2",
+      "connectionportnum" : 3389,
+      "connectiontype" : "RDP",
+      "properties" : {
+        "Rotate" : 0,
+        "Scale" : "    1",
+        "SearchType" : "Tolerant of Background",
+        "Discrepancy" : "_0",
+        "Tolerance" : "_45",
+        "HotSpot" : "[15,17]",
+        "CropRectangle" : "[0,0,0,0]"
+      },
+      "type" : 1,
+      "connectionserverid" : "daiserver2",
+      "capturerect" : [
+        836,
+        600,
+        24,
+        24
+      ]
+    }
+  ],
+  "createddate" : 1605542042.4705949,
+  "lastfoundlocation" : [
+    836,
+    600,
+    24,
+    24
+  ],
+  "originalcapturelocation" : [
+    836,
+    600,
+    24,
+    24
+  ],
+  "lastfounddate" : 1605543435.293715,
+  "name" : "zzzz\/AIAgentBookmark"
+}

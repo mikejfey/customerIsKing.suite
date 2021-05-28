@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="virtu_script" package="customerIsKing.suite" timestamp="2020-10-28 12:49:08.113 -0500"
+ tests="1"  failures="0" errors="0" time="2.611285">
+  <properties>
+   <property name="RunDate" value="2020-10-28 12:49:08.113 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="virtu.script" assertions="1" status="success"  time="2.6072">
+  </testcase>
+ </testsuite>
+</testsuites>

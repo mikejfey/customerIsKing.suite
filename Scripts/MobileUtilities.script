@@ -1,0 +1,13 @@
+﻿on ScrollUntilFound myImage, Direction //Declares a command handler with 2 parameters.
+	Set the SwipeSpeed to 10
+	repeat until imagefound (imagename:myImage,waitFor:0) //Repeats until a particular image is found, allowing only 1 scan for the image for each iteration.
+		
+		if the repeatindex = 5 then throw "Image not found", "Image not found while scrolling"&&Direction&period //Throws an exception if the repeat loop iterates 5 times
+		
+		Do "Swipe" & Direction //Uses the Do command to combine a string and variable into a command
+		
+		wait 4 //Waits two seconds to allow the screen to settle after the swipe
+		
+	end repeat
+	
+end ScrollUntilFound

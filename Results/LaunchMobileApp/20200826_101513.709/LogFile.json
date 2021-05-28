@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "message" : "Running LaunchMobileApp.script",
+      "timestamp" : "2020-08-26 10:15:13.712 -0500",
+      "identifier" : "START",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "iphone:(null)",
+      "timestamp" : "2020-08-26 10:15:14.091 -0500",
+      "identifier" : "connect",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "remote",
+      "timestamp" : "2020-08-26 10:15:14.353 -0500",
+      "identifier" : "show",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Safari",
+      "timestamp" : "2020-08-26 10:15:14.363 -0500",
+      "identifier" : "launchapp",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Unable to Find Image(s): nop_logo_mobile.png -- AutoUpdate engaged",
+      "timestamp" : "2020-08-26 10:15:25.198 -0500",
+      "identifier" : "LogWarning",
+      "scriptName" : "LaunchMobileApp.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_launchmobileapp",
+      "message" : "Unable To Find Any Image On Screen \"nop_logo_mobile\" within 10.00 seconds",
+      "identifier" : "Exception",
+      "image" : "nop_logo_mobile",
+      "handlerLine" : 4,
+      "timestamp" : "2020-08-26 10:15:29.717 -0500",
+      "scriptName" : "LaunchMobileApp.script"
+    },
+    {
+      "message" : "(Duration:\"16.009848\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2020-08-26 10:15:13 -0500\", Successes:\"0\", TestCase:\"LaunchMobileApp.script\", Warnings:\"1\")",
+      "timestamp" : "2020-08-26 10:15:29.724 -0500",
+      "identifier" : "EndTestCase",
+      "handlerLine" : 1,
+      "handlerName" : "execute string"
+    },
+    {
+      "handlerName" : "execute string",
+      "message" : "Image Not Found waitfor Error - Unable To Find Any Image On Screen \"nop_logo_mobile\" within 10.00 seconds -- Execution Time 0:00:16 LaunchMobileApp.script",
+      "timestamp" : "2020-08-26 10:15:29.953 -0500",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png",
+      "handlerLine" : 1
+    }
+  ],
+  "createdTimestamp" : "2020-08-26 10:15:13.713 -0500"
+}

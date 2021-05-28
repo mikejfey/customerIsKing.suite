@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="jsonHeader_apitest" package="customerIsKing.suite" timestamp="2020-10-14 11:34:03.562 -0500"
+ tests="1"  failures="0" errors="0" time="1.613259">
+  <properties>
+   <property name="RunDate" value="2020-10-14 11:34:03.562 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="jsonHeader.apitest" assertions="1" status="success"  time="1.609577">
+  </testcase>
+ </testsuite>
+</testsuites>

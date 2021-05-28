@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LaunchMobileApp_script" package="customerIsKing.suite" timestamp="2020-09-04 08:58:52.048 -0500"
+ tests="1"  failures="1" errors="0" time="0.496405">
+  <properties>
+   <property name="RunDate" value="2020-09-04 08:58:52.048 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="LaunchMobileApp.script" assertions="1" status="failure"  time="0.489814">
+    <failure type="FAILURE" message="Connection Failed Unable to connect to Server:127.0.0.1 on port:5900\nConnection Error: 61:Connection refused -- Execution Time 0:00:00 LaunchMobileApp.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,8 @@
+﻿2020-08-21 11:32:20.605 -0500	START		Running aaa1navElec.script
+2020-08-21 11:32:21.069 -0500	click	Electronics	at (662, 291)	8	on_aaa1navelec	aaa1navElec.script
+2020-08-21 11:32:22.256 -0500	click	zzzcell	at (1090, 634)	9	on_aaa1navelec	aaa1navElec.script
+2020-08-21 11:32:24.648 -0500	waitfor	(TEXT:"Cell Phones")	found at (422, 619)	10	on_aaa1navelec	aaa1navElec.script
+2020-08-21 11:32:36.564 -0500	imagefound	(TEXT:"HTC")	found at (754, 741)	11	on_aaa1navelec	aaa1navElec.script
+2020-08-21 11:32:36.565 -0500	LogSuccess		Assertion Succeeded: (true: ImageFound(text:"HTC"))	11	on_aaa1navelec	aaa1navElec.script
+2020-08-21 11:32:37.365 -0500	EndTestCase		(Duration:"16.758446", Errors:"0", Exceptions:"0", StartTime:"2020-08-21 11:32:20 -0500", Successes:"1", TestCase:"aaa1navElec.script", Warnings:"0")
+2020-08-21 11:32:37.627 -0500	SUCCESS		Execution Time 0:00:16 aaa1navElec.script

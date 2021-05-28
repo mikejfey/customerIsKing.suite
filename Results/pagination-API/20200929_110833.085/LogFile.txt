@@ -1,0 +1,6 @@
+﻿2020-09-29 11:08:33.087 -0500	START		Running pagination.apitest
+2020-09-29 11:08:34.055 -0500	LogSuccess		Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)	2	on_pagination	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/pagination.apitest
+2020-09-29 11:08:34.066 -0500	Log		100	5	on_pagination	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/pagination.apitest
+2020-09-29 11:08:34.070 -0500	Log		114.96	9	on_pagination	/Users/mikefey/Documents/EggplantSuites/customerIsKing.suite/APITests/pagination.apitest
+2020-09-29 11:08:34.381 -0500	EndTestCase		(Duration:"1.292242", Errors:"0", Exceptions:"0", StartTime:"2020-09-29 11:08:33 -0500", Successes:"1", TestCase:"pagination.apitest", Warnings:"0")
+2020-09-29 11:08:34.435 -0500	SUCCESS		Execution Time 0:00:01 pagination.apitest

@@ -1,0 +1,36 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running pagination.apitest",
+      "timestamp" : "2020-09-29 11:06:43.888 -0500"
+    },
+    {
+      "handlerName" : "on_pagination",
+      "message" : "Assertion Succeeded:  (assertion: api().statusCode is 200; true: 200 IS equal to 200)",
+      "timestamp" : "2020-09-29 11:06:44.897 -0500",
+      "identifier" : "LogSuccess",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/pagination.apitest",
+      "handlerLine" : 2
+    },
+    {
+      "handlerName" : "on_pagination",
+      "message" : "{count:100, limit:100, offset:0, total:252}",
+      "timestamp" : "2020-09-29 11:06:44.910 -0500",
+      "identifier" : "Log",
+      "scriptName" : "\/Users\/mikefey\/Documents\/EggplantSuites\/customerIsKing.suite\/APITests\/pagination.apitest",
+      "handlerLine" : 5
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.335072\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-09-29 11:06:43 -0500\", Successes:\"1\", TestCase:\"pagination.apitest\", Warnings:\"0\")",
+      "timestamp" : "2020-09-29 11:06:45.225 -0500"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 pagination.apitest",
+      "timestamp" : "2020-09-29 11:06:45.278 -0500"
+    }
+  ],
+  "createdTimestamp" : "2020-09-29 11:06:43.889 -0500"
+}
